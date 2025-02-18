@@ -14,7 +14,7 @@ usr/share/webshell
 ```bash
 nc -lvp 1234 => netcat listner
 ```
-![](../Attachemnts/Pasted%20image 20250106141352.png)
+![](../Attachements/Pasted%20image 20250106141352.png)
 
 hj
 ![](../Attachements/Pasted%20image%2020250218130640.png)
@@ -28,10 +28,10 @@ Few supported extension wordlist in web application
 - .phtml
 - 
 
-![](../Attachemnts/Pasted%20image 20250106141526.png)
+![](../Attachements/Pasted%20image 20250106141526.png)
 Capture the request and bruteforce extension to find what and all are supported.
 .........................................................................................................................................................................
-![](../Attachemnts/Pasted%20image 20250217140711.png)
+![](../Attachements/Pasted%20image 20250217140711.png)
 .........................................................................................................................................................................
 kukkur sale
 khoi

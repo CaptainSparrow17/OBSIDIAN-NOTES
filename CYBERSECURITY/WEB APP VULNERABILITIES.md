@@ -146,9 +146,9 @@ Tips to mitigate the Vulnerability: Always save file with a new name -- often ei
 #### Remote Code Execution (RCE)
 we uploaded reverse shell and started ncat and when shell was executed, we got RCE..
 To find where we can see the uploaded file, we had to do directory bruteforce first..
-![](../Attachemnts/Pasted%20image 20241119161015.png)
+![](../Attachements/Pasted%20image 20241119161015.png)
 Start the netcat::
-![](../Attachemnts/Pasted%20image 20241119161219.png)
+![](../Attachements/Pasted%20image 20241119161219.png)
 
 #### Filtering
 ```
@@ -168,10 +168,10 @@ There are four easy ways to bypass your average client-side file upload filter:
 4. _Send the file directly to the upload point._ Why use the webpage with the filter, when you can send the file directly using a tool like `curl`? Posting the data directly to the page which contains the code for handling the file upload is another effective method for completely bypassing a client side filter. We will not be covering this method in any real depth in this tutorial, however, the syntax for such a command would look something like this: `curl -X POST -F "submit:<value>" -F "<file-parameter>:@<path-to-file>" <site>`. To use this method you would first aim to intercept a successful upload (using Burpsuite or the browser console) to see the parameters being used in the upload, which can then be slotted into the above command.
 
 In our lab we found clientside.js, there we again found it only takes png file, below is the code::
-![](../Attachemnts/Pasted%20image 20241119211423.png)
+![](../Attachements/Pasted%20image 20241119211423.png)
 Thus we opened burp, intrecepted request, uploaded php reverseshell as .png extension..
 Then later in the burp intercept, the name was change to shell.php extension.. then netcat was started using netcat and when file was opened, we got the shell..
-![](../Attachemnts/Pasted%20image 20241119211718.png)
+![](../Attachements/Pasted%20image 20241119211718.png)
 ###### Bypassing Server-Side Filtering: File Extensions
 we found .php5 was accepted, php was not accepted and done accordingly;;
 ###### Bypassing Server-Side Filtering: Magic Numbers
@@ -180,8 +180,8 @@ Before::
 ```bash
 file phpreverse.php
 ```
-![](../Attachemnts/Pasted%20image 20241119215501.png)
+![](../Attachements/Pasted%20image 20241119215501.png)
 After adding magic number:
-![](../Attachemnts/Pasted%20image 20241119220238.png)
+![](../Attachements/Pasted%20image 20241119220238.png)
 *To edit magicnumber::*
 Fiest add X number of charactere(4As/5As), then use hexeditor in kali from terminal to edit magic number value::
