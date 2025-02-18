@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "92f63998b1e2bae3",
+    "type": "split",
+    "children": [
+      {
+        "id": "76dd5c48e8708924",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b8216045f65fd12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 8"
+            }
+          },
+          {
+            "id": "6bb6ba36da7e59c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "amazon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "amazon"
+            }
+          },
+          {
+            "id": "5c31919c15a5b97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CYBERSECURITY/EXTRA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EXTRA"
+            }
+          },
+          {
+            "id": "69a3aed15c641dba",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachements/Pasted image 20250106114611.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250106114611"
+            }
+          },
+          {
+            "id": "43e408d9e7c72d56",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fbf4cfd821c2aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "739818172f00bfe4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b2e95276b132fcf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a52206c921365b54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "504b1963d0c73e51",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "8a039e670b894a5e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfc99ad67e82b819",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319069e4bc5b32d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CYBERSECURITY/WEB APP VULNERABILITIES.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for WEB APP VULNERABILITIES"
+            }
+          },
+          {
+            "id": "6b9fb5bf4fa3e3d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CYBERSECURITY/WEB APP VULNERABILITIES.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from WEB APP VULNERABILITIES"
+            }
+          },
+          {
+            "id": "4bff8b1d1f15b1e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c2b9585f7260714",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CYBERSECURITY/WEB APP VULNERABILITIES.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of WEB APP VULNERABILITIES"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "2b8216045f65fd12",
+  "lastOpenFiles": [
+    "Untitled 1.md",
+    "OBSIDIAN/README.md",
+    "OSCP/5.0 Information Gathering.md",
+    "OBSIDIAN",
+    "amazon.md",
+    "CYBERSECURITY/EXTRA.md",
+    "Attachements/Pasted image 20250106114611.png",
+    "Attachements/2025-02-17.md",
+    "Attachements/Pasted image 20250217140711.png",
+    "Attachements/Pasted image 20250106141346.png",
+    "Attachements",
+    "Attachements/Pasted image 20250217131750.png",
+    "OSCP/2.0 Task 2 (Info).md",
+    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
+    "Attachements/Pasted image 20250108122825.png",
+    "Attachements/Pasted image 20250108120828.png",
+    "Attachements/Pasted image 20250107213413.png",
+    "Attachements/Pasted image 20250107211707.png",
+    "Attachements/Pasted image 20250107205529.png",
+    "Attachements/Pasted image 20250107204934.png",
+    "CYBERSECURITY/DNS in Detail - THM.md",
+    "Untitled 8.md",
+    "Untitled 7",
+    "Untitled 7.md",
+    "Untitled",
+    "Untitled 6",
+    "Untitled 6.md",
+    "Untitled 5",
+    "OSCP",
+    "CYBERSECURITY/TryHackMe Advent 2024.md",
+    "Untitled 4",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Untitled.md",
+    "Untitled 5.md",
+    "Untitled 3",
+    "Untitled 2",
+    "Untitled 4.md"
+  ]
+}
