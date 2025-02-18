@@ -21,6 +21,7 @@ Few supported extension wordlist in web application
 - .php5
 - .php6
 - .phtml
+- 
 
 ![[Pasted image 20250106141526.png]]
 Capture the request and bruteforce extension to find what and all are supported.
