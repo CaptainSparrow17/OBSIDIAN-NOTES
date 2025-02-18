@@ -1,4 +1,5 @@
 {
   "newFileLocation": "folder",
-  "newFileFolderPath": "Attachements"
+  "newFileFolderPath": "Attachements",
+  "useMarkdownLinks": true
 }
