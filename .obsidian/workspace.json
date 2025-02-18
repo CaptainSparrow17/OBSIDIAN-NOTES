@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/5.0 Information Gathering.md",
+                "file": "CYBERSECURITY/EXTRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.0 Information Gathering"
+              "title": "EXTRA"
             }
           },
           {
@@ -216,6 +216,8 @@
   },
   "active": "2b8216045f65fd12",
   "lastOpenFiles": [
+    "CYBERSECURITY/TryHackMe Advent 2024.md",
+    "OSCP/5.0 Information Gathering.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
     "CYBERSECURITY/EXTRA.md",
     "Attachements/Pasted image 20250218130751.png",
@@ -223,7 +225,6 @@
     "Untitled 8.md",
     "Untitled 1.md",
     "OBSIDIAN/README.md",
-    "OSCP/5.0 Information Gathering.md",
     "OBSIDIAN",
     "amazon.md",
     "Attachements/Pasted image 20250106114611.png",
@@ -245,7 +246,6 @@
     "Untitled 6.md",
     "Untitled 5",
     "OSCP",
-    "CYBERSECURITY/TryHackMe Advent 2024.md",
     "Untitled 4",
     "Untitled 2.md",
     "Untitled 3.md",
