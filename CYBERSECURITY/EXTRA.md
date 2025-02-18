@@ -15,7 +15,7 @@ nc -lvp 1234 => netcat listner
 ![[Pasted image 20250106141352.png]]
 
 hj
-
+![](../Attachements/Pasted%20image%2020250218130640.png)
 .........................................................................................................................................................................
 Few supported extension wordlist in web application
 - .php
