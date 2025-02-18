@@ -11,12 +11,14 @@
             "id": "2b8216045f65fd12",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachements/Pasted image 20250218130751.png"
+                "file": "OSCP/5.0 Information Gathering.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250218130751"
+              "icon": "lucide-file",
+              "title": "5.0 Information Gathering"
             }
           },
           {
@@ -212,18 +214,21 @@
   },
   "active": "2b8216045f65fd12",
   "lastOpenFiles": [
+    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
+    "OSCP/2.0 Task 2 (Info).md",
+    "OSCP/5.0 Information Gathering.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "amazon.md",
+    "CYBERSECURITY/TryHackMe Advent 2024.md",
+    "CYBERSECURITY/EXTRA.md",
+    "CYBERSECURITY/DNS in Detail - THM.md",
+    "Attachements/Pasted image 20250218130751.png",
     "Attachements/Pasted image 20250107204934.png",
     "CYBERSECURITY/convert_images.ps1",
     "CYBERSECURITY/name.py",
-    "amazon.md",
-    "Attachements/Pasted image 20250218130751.png",
-    "CYBERSECURITY/EXTRA.md",
-    "CYBERSECURITY/TryHackMe Advent 2024.md",
-    "OSCP/5.0 Information Gathering.md",
-    "CYBERSECURITY/DNS in Detail - THM.md",
     "Attachements/Pasted image 20250218130640.png",
     "Untitled 8.md",
-    "Untitled 1.md",
     "OBSIDIAN/README.md",
     "OBSIDIAN",
     "Attachements/Pasted image 20250106114611.png",
@@ -232,12 +237,9 @@
     "Attachements/Pasted image 20250106141346.png",
     "Attachements",
     "Attachements/Pasted image 20250217131750.png",
-    "OSCP/2.0 Task 2 (Info).md",
-    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "Attachements/Pasted image 20250108122825.png",
     "Attachements/Pasted image 20250108120828.png",
     "Attachements/Pasted image 20250107213413.png",
-    "Attachements/Pasted image 20250107211707.png",
     "Untitled 7",
     "Untitled 7.md",
     "Untitled",
@@ -248,7 +250,6 @@
     "Untitled 4",
     "Untitled 2.md",
     "Untitled 3.md",
-    "Untitled.md",
     "Untitled 5.md",
     "Untitled 4.md"
   ]
