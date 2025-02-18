@@ -2,5 +2,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Attachements",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "attachmentFolderPath": "Attachements"
 }

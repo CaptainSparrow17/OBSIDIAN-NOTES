@@ -13,6 +13,9 @@ usr/share/webshell
 nc -lvp 1234 => netcat listner
 ```
 ![[Pasted image 20250106141352.png]]
+
+hj
+
 .........................................................................................................................................................................
 Few supported extension wordlist in web application
 - .php
