@@ -20,3 +20,17 @@ Capture the request and bruteforce extension to find what and all are supported.
 ![[Pasted image 20250217140711.png]]
 .........................................................................................................................................................................
 kukkur sale
+khoi
+jadshghja
+asdfghjsdagf
+dhjgfkjdasgf
+hjkgh
+es
+rse
+trf
+sfsdfsdf
+dsf
+sd
+sdfsd
+atish ojha
+
