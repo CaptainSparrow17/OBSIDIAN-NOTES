@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/5.0 Information Gathering.md",
+                "file": "amazon.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.0 Information Gathering"
+              "title": "amazon"
             }
           }
         ],
@@ -191,13 +191,13 @@
   },
   "active": "2850c7d35f3f8df0",
   "lastOpenFiles": [
+    "Untitled.md",
+    "OSCP/5.0 Information Gathering.md",
     "OSCP/2.0 Task 2 (Info).md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/EXTRA.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
-    "OSCP/5.0 Information Gathering.md",
-    "Untitled.md",
     "Untitled 1.md",
     "amazon.md",
     "Attachements/Pasted image 20250218130751.png",
