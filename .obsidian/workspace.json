@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/TryHackMe Advent 2024.md",
+                "file": "CYBERSECURITY/DNS in Detail - THM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TryHackMe Advent 2024"
+              "title": "DNS in Detail - THM"
             }
           }
         ],
@@ -191,12 +191,12 @@
   },
   "active": "2850c7d35f3f8df0",
   "lastOpenFiles": [
+    "CYBERSECURITY/EXTRA.md",
+    "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "OSCP/2.0 Task 2 (Info).md",
     "OSCP/5.0 Information Gathering.md",
-    "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
-    "CYBERSECURITY/EXTRA.md",
     "Untitled.md",
     "Untitled 1.md",
     "amazon.md",

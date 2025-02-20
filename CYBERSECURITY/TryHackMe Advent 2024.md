@@ -21,8 +21,8 @@ Here, MS Windows shortcut = .lnk file::
 ``` shell
 user@tryhackme:~$ exiftool somg.mp3
 ``` 
-![](../Attachements/Pasted%20image 20241208123022.png)
-![](../Attachements/Pasted%20image 20241208130704.png)
+![](../Attachements/Pasted%20image%2020241208123022.png)
+![](../Attachements/Pasted%20image%2020241208130704.png)
 What this PowerShell command does:
 
 - The `-ep Bypass -nop` flags disable PowerShell's usual restrictions, allowing scripts to run without interference from security settings or user profiles.
@@ -37,7 +37,7 @@ Elastic Security SIEM (Security Information and Event Management) is a product b
 
 ###### base64 commands
 
-![](../Attachements/Pasted%20image 20241208144057.png)
+![](../Attachements/Pasted%20image%2020241208144057.png)
 ``` shell
 ┌──(root㉿kali)-[~/Desktop/THM]
 └─# echo SQBuAHMAdABhAGwAbAAtAFcAaQBuAGQAbwB3AHMAVQBwAGQAYQB0AGUAIAAtAEEAYwBjAGUAcAB0AEEAbABsACAALQBBAHUAdABvAFIAZQBiAG8AbwB0AA== | base64 --decode
@@ -64,4 +64,4 @@ Install-WindowsUpdate -AcceptAll -AutoReboot
 </html>
 ```
 If we add above command in a file and upload it to the website and later navigate to the uploaded directory, it gives command injection tab where we can input the commands like below:
-![](../Attachements/Pasted%20image 20241225122355.png)
+![](../Attachements/Pasted%20image%2020241225122355.png)
