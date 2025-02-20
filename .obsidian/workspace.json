@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "amazon.md",
+                "file": "Untitled/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "amazon"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "235d8d8ff3dc2cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Attachements/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -191,6 +205,12 @@
   },
   "active": "2850c7d35f3f8df0",
   "lastOpenFiles": [
+    "Untitled/Untitled 2.md",
+    "Untitled/Untitled 1.md",
+    "Untitled/Untitled.md",
+    "amazon.md",
+    "Attachements/Untitled.md",
+    "Untitled 8",
     "Untitled.md",
     "OSCP/5.0 Information Gathering.md",
     "OSCP/2.0 Task 2 (Info).md",
@@ -199,7 +219,6 @@
     "CYBERSECURITY/EXTRA.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
     "Untitled 1.md",
-    "amazon.md",
     "Attachements/Pasted image 20250218130751.png",
     "Attachements/Pasted image 20250107204934.png",
     "CYBERSECURITY/convert_images.ps1",
@@ -224,7 +243,6 @@
     "Untitled 6.md",
     "Untitled 5",
     "OSCP",
-    "Untitled 4",
     "Untitled 2.md",
     "Untitled 3.md",
     "Untitled 5.md",
