@@ -3,5 +3,6 @@
   "newFileFolderPath": "Attachements",
   "useMarkdownLinks": true,
   "newLinkFormat": "relative",
-  "attachmentFolderPath": "Attachements"
+  "attachmentFolderPath": "Attachements",
+  "strictLineBreaks": true
 }
