@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABS/Try Hackme/Untitled.md",
+                "file": "CYBERSECURITY/EXTRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "EXTRA"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
+    "LABS/Try Hackme/Lookup.md",
     "CYBERSECURITY/EXTRA.md",
     "LABS/Try Hackme/Silver Platter.md",
-    "LABS/Try Hackme/Untitled.md",
     "Attachements/Untitled 1.md",
     "LABS/Hack The Box/Hack The Box.md",
     "amazon.md",
