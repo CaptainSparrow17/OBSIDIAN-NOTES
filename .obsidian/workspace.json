@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/WEB APP VULNERABILITIES.md",
+                "file": "OSCP/5.0 Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WEB APP VULNERABILITIES"
+              "title": "5.0 Information Gathering"
             }
           }
         ],
@@ -191,11 +191,11 @@
   },
   "active": "2850c7d35f3f8df0",
   "lastOpenFiles": [
+    "OSCP/2.0 Task 2 (Info).md",
+    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/EXTRA.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
-    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
-    "OSCP/2.0 Task 2 (Info).md",
     "OSCP/5.0 Information Gathering.md",
     "Untitled.md",
     "Untitled 1.md",
