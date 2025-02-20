@@ -34,5 +34,9 @@ Capture the request and bruteforce extension to find what and all are supported.
 ![](../Attachements/Pasted%20image%2020250217140711.png)
 .........................................................................................................................................................................
 AUTORECON
-``
+```
+The way to run using sudo
+sudo env "PATH=$PATH" autorecon [OPTIONS]
+sudo $(which autorecon) [OPTIONS]
+```
 
