@@ -180,8 +180,8 @@ Before::
 ```bash
 file phpreverse.php
 ```
-![](../Attachements/Pasted%20image 20241119215501.png)
+![](../Attachements/Pasted%20image%2020241119215501.png)
 After adding magic number:
-![](../Attachements/Pasted%20image 20241119220238.png)
+![](../Attachements/Pasted%20image%2020241119220238.png)
 *To edit magicnumber::*
 Fiest add X number of charactere(4As/5As), then use hexeditor in kali from terminal to edit magic number value::
