@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABS/Untitled 1.md",
+                "file": "LABS/Hack The Box/Hack The Box.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Hack The Box"
             }
           },
           {
@@ -203,12 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2e95276b132fcf",
+  "active": "2850c7d35f3f8df0",
   "lastOpenFiles": [
+    "LABS/Hack The Box",
     "LABS/Try Hackme/Silver Platter.md",
     "LABS/Try Hackme",
     "LABS/Untitled 2.md",
-    "LABS/Untitled 1.md",
+    "LABS/Hack The Box/Hack The Box.md",
     "amazon.md",
     "Attachements/Untitled.md",
     "Untitled 8",
