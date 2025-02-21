@@ -47,5 +47,6 @@ AUTORECON
 The way to run using sudo
 sudo env "PATH=$PATH" autorecon [OPTIONS]
 sudo $(which autorecon) [OPTIONS]
+
 ```
 
