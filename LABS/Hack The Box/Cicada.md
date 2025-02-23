@@ -6,7 +6,7 @@ Password = Cicada$M6Corpb*@Lp#nZp!8
 
 
 using netexec we found many users. 
-lets 
+lets get the typeuser only not the group. (we will extract username only)
 ```
 SMB         10.10.11.35     445    CICADA-DC        [+] cicada.htb\atish: (Guest)
 SMB         10.10.11.35     445    CICADA-DC        498: CICADA\Enterprise Read-only Domain Controllers (SidTypeGroup)
