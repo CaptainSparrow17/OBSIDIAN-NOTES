@@ -42,6 +42,7 @@ The _-w wordlist.txt_ argument will allow us to supply the custom LLM-generate
 Wordpress site only Users Enumeration 
 
 ```bash
+wpscan --url www.smol.thm --api-token -e
 wpscan --url http://wpscan.thm/
 wpscan --url http://example.com/ceh --enumerate u
 wpscan --url http://wpscan.thm/ --plugins-detection aggressive/passive #anyone
