@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/ENUMURATION/Untitled.md",
+                "file": "CYBERSECURITY/ENUMURATION/SMB 445.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "SMB 445"
             }
           }
         ]
@@ -177,7 +177,7 @@
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
     "LABS/Try Hackme/Lookup.md",
-    "CYBERSECURITY/ENUMURATION/Untitled.md",
+    "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "CYBERSECURITY/ENUMURATION",
     "Attachements/Pasted image 20250221122104.png",
     "CYBERSECURITY/EXTRA.md",
