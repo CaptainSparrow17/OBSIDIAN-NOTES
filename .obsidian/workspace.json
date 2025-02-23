@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABS/Hack The Box/Cicada.md",
+                "file": "CYBERSECURITY/ENUMURATION/SMB 445.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cicada"
+              "title": "SMB 445"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
+    "LABS/Hack The Box/Cicada.md",
     "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "Attachements/Pasted image 20250223185217.png",
     "Attachements/Pasted image 20250223181749.png",
@@ -194,7 +195,6 @@
     "CYBERSECURITY/ENUMURATION",
     "LABS/Try Hackme/Silver Platter.md",
     "Attachements/Untitled 1.md",
-    "LABS/Hack The Box/Cicada.md",
     "amazon.md",
     "LABS/Hack The Box",
     "LABS/Try Hackme",
