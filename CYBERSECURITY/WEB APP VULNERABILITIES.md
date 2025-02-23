@@ -86,6 +86,12 @@ BINGO got reverse shell and now get those hashes..
 **`wp-config.php` always check**
 ``` 
 
+labs: THM
+```
+wpscan --url www.smol.thm --no-update -e vp,vt,tt,cb,dbe,u,m --plugins-detection aggressive --plugins-version-detection aggressive -f cli-no-color 2>&1 | tee "/root/Desktop/THM/smol/results/10.10.127.188/scans/tcp80/tcp_80_http_wpscan.txt"
+```
+
+
 # NIKTO
 
 ```bash
