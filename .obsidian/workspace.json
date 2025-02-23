@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/5.0 Information Gathering.md",
+                "file": "CYBERSECURITY/WEB APP VULNERABILITIES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.0 Information Gathering"
+              "title": "WEB APP VULNERABILITIES"
             }
           }
         ]
@@ -176,6 +176,7 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
+    "OSCP/5.0 Information Gathering.md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "CYBERSECURITY/EXTRA.md",
     "CYBERSECURITY/ENUMURATION/SMB 445.md",
@@ -191,7 +192,6 @@
     "Attachements/Pasted image 20250223185217.png",
     "Attachements/Pasted image 20250223181749.png",
     "OSCP/001.md",
-    "OSCP/5.0 Information Gathering.md",
     "LABS/Try Hackme/Lookup.md",
     "CYBERSECURITY/ENUMURATION",
     "LABS/Try Hackme/Silver Platter.md",

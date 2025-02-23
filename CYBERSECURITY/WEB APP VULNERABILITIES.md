@@ -14,6 +14,9 @@ gobuster vhost -u <http://webenum.thm> -w a.txt --append-domain => new syntax
 
 gobuster dir -u http://products.webenum.thm/ -w a.txt  -x html,css,js,txt
 -x = extension**
+
+gobuster dns -d megacorpone.com -w wordlist.txt -t 10 
+The _-w wordlist.txt_ argument will allow us to supply the custom LLM-generated wordlist. Finally, the _-t 10_ parameter will define the level of concurrency, setting Gobuster to use 10 threads simultaneously in order to improve efficiency.
 ```
 
 |Flag|Long Flag|Description|
