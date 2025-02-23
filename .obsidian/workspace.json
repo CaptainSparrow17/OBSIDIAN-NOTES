@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/ENUMURATION/SMB 445.md",
+                "file": "OSCP/5.0 Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMB 445"
+              "title": "5.0 Information Gathering"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "null session",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -176,10 +177,11 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
+    "CYBERSECURITY/ENUMURATION/SMB 445.md",
+    "OSCP/5.0 Information Gathering.md",
     "Attachements/Pasted image 20250223175027.png",
     "Attachements/Pasted image 20250223174953.png",
     "LABS/Try Hackme/Lookup.md",
-    "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "CYBERSECURITY/ENUMURATION",
     "Attachements/Pasted image 20250221122104.png",
     "CYBERSECURITY/EXTRA.md",
@@ -192,7 +194,6 @@
     "LABS/Untitled 2.md",
     "Untitled 8",
     "Untitled.md",
-    "OSCP/5.0 Information Gathering.md",
     "OSCP/2.0 Task 2 (Info).md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "CYBERSECURITY/TryHackMe Advent 2024.md",
@@ -212,7 +213,6 @@
     "Attachements/Pasted image 20250106141346.png",
     "Attachements",
     "Attachements/Pasted image 20250217131750.png",
-    "Attachements/Pasted image 20250108122825.png",
     "Untitled 7",
     "Untitled 7.md",
     "LABS",
