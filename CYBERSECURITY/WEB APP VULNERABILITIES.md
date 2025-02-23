@@ -1,6 +1,6 @@
 # ***GOBUSTER***
 ```bash
-gobuster dir -u <http://10.10.10.10> -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
+gobuster dir -u http://10.10.10.10 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 dir = directory
 -u = url
 -w = wordlist
@@ -8,9 +8,9 @@ dir = directory
 gobuster dns -d mydomain.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt
 dns = brute-force subdomain
 
-gobuster vhost -u <http://example.com> -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt
+gobuster vhost -u http://example.com -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt
 vhost = virtual host:: 
-gobuster vhost -u <http://webenum.thm> -w a.txt --append-domain => new syntax
+gobuster vhost -u http://webenum.thm -w a.txt --append-domain => new syntax
 
 gobuster dir -u http://products.webenum.thm/ -w a.txt  -x html,css,js,txt
 -x = extension**
