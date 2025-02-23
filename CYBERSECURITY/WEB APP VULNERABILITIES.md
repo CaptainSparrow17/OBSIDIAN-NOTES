@@ -5,6 +5,8 @@ dir = directory
 -u = url
 -w = wordlist
 
+gobuster dir -u www.smol.thm -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt =>works
+
 gobuster dns -d mydomain.thm -w /usr/share/wordlists/SecLists/Discovery/DNS/subdomains-top1million-5000.txt
 dns = brute-force subdomain
 
