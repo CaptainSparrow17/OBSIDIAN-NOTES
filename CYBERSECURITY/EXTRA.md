@@ -59,3 +59,8 @@ ssh -i id_rsa cactus@10.10.52.92
 
 ............................................................................................................................................................................
 
+In wordpress if you try to login:
+![](../Attachements/Pasted%20image%2020250223221902.png)
+This will tell password is incorrect or username is incorrect:
+If user name is wrong, it tells you.
+A way to 
