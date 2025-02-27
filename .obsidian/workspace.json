@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LABS/Try Hackme/SMOL.md",
+                "file": "CYBERSECURITY/EXTRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SMOL"
+              "title": "EXTRA"
             }
           }
         ]
@@ -176,8 +176,8 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
-    "CYBERSECURITY/EXTRA.md",
     "LABS/Try Hackme/SMOL.md",
+    "CYBERSECURITY/EXTRA.md",
     "Attachements/Pasted image 20250223224022.png",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "Attachements/Pasted image 20250223221902.png",

