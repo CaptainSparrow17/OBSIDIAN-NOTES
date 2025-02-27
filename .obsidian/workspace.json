@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/Untitled.md",
+                "file": "OSCP/7.0 Vulnerability Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "7.0 Vulnerability Scanning"
             }
           }
         ]
@@ -177,7 +177,7 @@
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
     "OSCP/6.0 Information Gathering.md",
-    "OSCP/Untitled.md",
+    "OSCP/7.0 Vulnerability Scanning.md",
     "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "CYBERSECURITY/EXTRA.md",
     "LABS/Try Hackme/SMOL.md",
