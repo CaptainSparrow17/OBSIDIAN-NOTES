@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/EXTRA.md",
+                "file": "OSCP/6.0 Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXTRA"
+              "title": "6.0 Information Gathering"
             }
           }
         ]
@@ -176,13 +176,13 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
-    "LABS/Try Hackme/SMOL.md",
+    "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "CYBERSECURITY/EXTRA.md",
+    "LABS/Try Hackme/SMOL.md",
     "Attachements/Pasted image 20250223224022.png",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "Attachements/Pasted image 20250223221902.png",
-    "OSCP/5.0 Information Gathering.md",
-    "CYBERSECURITY/ENUMURATION/SMB 445.md",
+    "OSCP/6.0 Information Gathering.md",
     "Attachements/Pasted image 20250223200103.png",
     "Attachements/Pasted image 20250223194133.png",
     "Attachements/Pasted image 20250223194102.png",
