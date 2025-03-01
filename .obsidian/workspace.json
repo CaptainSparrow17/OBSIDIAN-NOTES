@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/EXTRA.md",
+                "file": "CYBERSECURITY/WEB APP VULNERABILITIES.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXTRA"
+              "title": "WEB APP VULNERABILITIES"
             }
           }
         ]
@@ -176,11 +176,11 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
+    "CYBERSECURITY/EXTRA.md",
     "OSCP/7.0 Vulnerability Scanning.md",
     "Attachements/Pasted image 20250227153615.png",
     "OSCP/6.0 Information Gathering.md",
     "CYBERSECURITY/ENUMURATION/SMB 445.md",
-    "CYBERSECURITY/EXTRA.md",
     "LABS/Try Hackme/SMOL.md",
     "Attachements/Pasted image 20250223224022.png",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
