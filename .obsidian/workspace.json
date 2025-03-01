@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/7.0 Vulnerability Scanning.md",
+                "file": "CYBERSECURITY/EXTRA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.0 Vulnerability Scanning"
+              "title": "EXTRA"
             }
           }
         ]
@@ -176,9 +176,9 @@
   },
   "active": "2137c134027c8aa3",
   "lastOpenFiles": [
+    "OSCP/7.0 Vulnerability Scanning.md",
     "Attachements/Pasted image 20250227153615.png",
     "OSCP/6.0 Information Gathering.md",
-    "OSCP/7.0 Vulnerability Scanning.md",
     "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "CYBERSECURITY/EXTRA.md",
     "LABS/Try Hackme/SMOL.md",
@@ -193,7 +193,6 @@
     "Attachements/Pasted image 20250223193521.png",
     "LABS/Hack The Box/Cicada.md",
     "Attachements/Pasted image 20250223190204.png",
-    "Attachements/Pasted image 20250223190123.png",
     "OSCP/001.md",
     "LABS/Try Hackme/Lookup.md",
     "CYBERSECURITY/ENUMURATION",
