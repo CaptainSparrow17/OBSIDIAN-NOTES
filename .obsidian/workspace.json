@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/EXTRA.md",
+                "file": "OSCP/7.0 Vulnerability Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXTRA"
+              "title": "7.0 Vulnerability Scanning"
             }
           }
         ],
@@ -191,8 +191,10 @@
   },
   "active": "426708d9b554e9c4",
   "lastOpenFiles": [
-    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
+    "OSCP/001.md",
+    "OSCP/2.0 Task 2 (Info).md",
     "CYBERSECURITY/EXTRA.md",
+    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "OSCP/7.0 Vulnerability Scanning.md",
     "Attachements/Pasted image 20250227153615.png",
     "OSCP/6.0 Information Gathering.md",
@@ -208,7 +210,6 @@
     "Attachements/Pasted image 20250223193521.png",
     "LABS/Hack The Box/Cicada.md",
     "Attachements/Pasted image 20250223190204.png",
-    "OSCP/001.md",
     "LABS/Try Hackme/Lookup.md",
     "CYBERSECURITY/ENUMURATION",
     "LABS/Try Hackme/Silver Platter.md",
@@ -219,7 +220,6 @@
     "LABS/Untitled 2.md",
     "Untitled 8",
     "Untitled.md",
-    "OSCP/2.0 Task 2 (Info).md",
     "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
     "Untitled 1.md",
