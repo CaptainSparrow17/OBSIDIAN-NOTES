@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/EXTRA.md",
+                "file": "OSCP/6.0 Information Gathering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "EXTRA"
+              "title": "6.0 Information Gathering"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ftp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,10 +192,10 @@
   },
   "active": "426708d9b554e9c4",
   "lastOpenFiles": [
+    "CYBERSECURITY/EXTRA.md",
     "OSCP/7.0 Vulnerability Scanning.md",
     "OSCP/001.md",
     "OSCP/2.0 Task 2 (Info).md",
-    "CYBERSECURITY/EXTRA.md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "Attachements/Pasted image 20250227153615.png",
     "OSCP/6.0 Information Gathering.md",
