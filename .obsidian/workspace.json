@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CYBERSECURITY/ENUMURATION/SSH(22).md",
+                "file": "OSCP/7.0 Vulnerability Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH(22)"
+              "title": "7.0 Vulnerability Scanning"
             }
           }
         ],
@@ -233,9 +233,10 @@
   },
   "active": "baa6b20f2dc2b86f",
   "lastOpenFiles": [
+    "Attachements/Pasted image 20250305171937.png",
+    "CYBERSECURITY/ENUMURATION/SSH(22).md",
     "CYBERSECURITY/ENUMURATION/FTP.md",
     "CYBERSECURITY/ENUMURATION/Untitled 1.md",
-    "CYBERSECURITY/ENUMURATION/SSH(22).md",
     "Attachements/Pasted image 20250305114114.png",
     "CYBERSECURITY/EXTRA.md",
     "Attachements/Pasted image 20250305113005.png",
@@ -277,7 +278,6 @@
     "Attachements",
     "Untitled 7",
     "Untitled 7.md",
-    "LABS",
-    "Untitled 6.md"
+    "LABS"
   ]
 }
