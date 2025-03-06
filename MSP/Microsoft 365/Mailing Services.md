@@ -17,3 +17,5 @@ password = BinitaKarki123#
 We have taken E3
 
 
+Microsoft Azure AD also Known as Azure AD
+
