@@ -28,5 +28,4 @@ Admin Centre
 
 First login to office.com and go to admin::
 
-
-
+One tenant corresponds to one Azure AD and vice versa..
