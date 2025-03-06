@@ -8,3 +8,6 @@ Works based on licenses
 
 ![](../../Attachements/Pasted%20image%2020250306092956.png)
 
+Lets create MS-365 Free Trial Account
+	25 licenses for 30 days
+	Need  
