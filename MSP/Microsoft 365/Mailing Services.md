@@ -12,4 +12,6 @@ Lets create MS-365 Free Trial Account
 	25 licenses for 30 days
 	Need Credit Card
 
-password = AtishOjha123#
+password = BinitaKarki123#
+
+
