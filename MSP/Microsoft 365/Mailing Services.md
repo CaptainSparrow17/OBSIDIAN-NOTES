@@ -4,4 +4,5 @@ Its a SAAS => OTT Platform is also SAAS
 
 Works based on licenses
 	Package License
-	As-on-License
+	Add-on-License
+
