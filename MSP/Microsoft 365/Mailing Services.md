@@ -19,3 +19,10 @@ We have taken E3
 
 Microsoft Azure AD also Known as Azure AD
 
+Admin Centre
+	MS-365 Admin Centre
+	MS-Entra Admin (Azure AD)
+	Exchane Admin
+	Security
+	
+
