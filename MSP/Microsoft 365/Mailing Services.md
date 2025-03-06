@@ -14,4 +14,6 @@ Lets create MS-365 Free Trial Account
 
 password = BinitaKarki123#
 
+We have taken E3
+
 
