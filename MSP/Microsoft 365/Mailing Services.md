@@ -1,3 +1,7 @@
 ![](../../Attachements/Pasted%20image%2020250306092618.png)
 
-Its SAAS
+Its a SAAS => OTT Platform is also SAAS
+
+Works based on licenses
+	Package License
+	As-on-License
