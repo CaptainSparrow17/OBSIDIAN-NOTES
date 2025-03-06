@@ -24,5 +24,9 @@ Admin Centre
 	MS-Entra Admin (Azure AD)
 	Exchane Admin
 	Security
-	
+	share point admin
+
+First login to office.com and go to admin::
+
+
 
