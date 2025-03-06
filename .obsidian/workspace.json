@@ -76,9 +76,21 @@
               "icon": "lucide-file",
               "title": "7.0 Vulnerability Scanning"
             }
+          },
+          {
+            "id": "33a3f42847c08c57",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -231,8 +243,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "baa6b20f2dc2b86f",
+  "active": "4b2e95276b132fcf",
   "lastOpenFiles": [
+    "Untitled",
     "Attachements/Pasted image 20250305171937.png",
     "CYBERSECURITY/ENUMURATION/SSH(22).md",
     "CYBERSECURITY/ENUMURATION/FTP.md",
@@ -254,7 +267,6 @@
     "Attachements/Pasted image 20250223194133.png",
     "Attachements/Pasted image 20250223194102.png",
     "Attachements/Pasted image 20250223193738.png",
-    "Attachements/Pasted image 20250223193602.png",
     "LABS/Hack The Box/Cicada.md",
     "LABS/Try Hackme/Lookup.md",
     "CYBERSECURITY/ENUMURATION",
