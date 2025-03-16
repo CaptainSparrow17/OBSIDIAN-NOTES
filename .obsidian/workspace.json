@@ -67,14 +67,17 @@
             "id": "337b5c270eb4250a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "MSP/AD DS/AD DS.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "AD DS"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -234,9 +237,10 @@
   },
   "active": "337b5c270eb4250a",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "MSP/AD DS/AD DS.md",
     "Attachements/Pasted image 20250316130353.png",
     "OSCP/7.0 Vulnerability Scanning.md",
-    "MSP/AD DS/AD DS.md",
     "MSP/Microsoft 365/Mailing Services.md",
     "MSP/AD DS",
     "Attachements/Pasted image 20250306092956.png",
@@ -261,7 +265,6 @@
     "Attachements/Pasted image 20250223224022.png",
     "Attachements/Pasted image 20250223221902.png",
     "Attachements/Pasted image 20250223200103.png",
-    "Attachements/Pasted image 20250223194133.png",
     "LABS/Hack The Box/Cicada.md",
     "LABS/Try Hackme/Lookup.md",
     "CYBERSECURITY/ENUMURATION",

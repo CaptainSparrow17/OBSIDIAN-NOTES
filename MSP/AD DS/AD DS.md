@@ -20,3 +20,7 @@ Interaction
 LDAP = ACCCESS v3(v2)
 light weight directory access protocal
 
+
+
+.........................................................................................................................................................................................................
+https://www.youtube.com/watch?v=85-bp7XxWDQ&ab_channel=AndyMaloneMVP
