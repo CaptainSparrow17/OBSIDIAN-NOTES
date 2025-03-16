@@ -16,4 +16,7 @@ OU = organizational unit
 multiple OU and object can live in OC, i can be in a specific OC but group can be at anywhere
 ![](../../Attachements/Pasted%20image%2020250316130353.png)
 
+Interaction
+LDAP = ACCCESS v3(v2)
+light weight directory access protocal
 
