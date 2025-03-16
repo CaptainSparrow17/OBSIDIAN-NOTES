@@ -12,4 +12,5 @@ ntds.dit = database in AD
 need method to store and retrive data
 X.500 - STRUCTURE
 OU = organizational unit
-mul
+multiple OU and object can live in OC, i can be in a specific OC but group can be at anywhere
+
