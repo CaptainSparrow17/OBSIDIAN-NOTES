@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=4qC7H-y7oKI&ab_channel=JohnSavill%27sTechnicalTraining
 Active Directory Domain Services
 
 When we mead AD, we call ADDS.
