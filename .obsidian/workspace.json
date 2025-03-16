@@ -67,17 +67,14 @@
             "id": "337b5c270eb4250a",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "MSP/AD DS/AD DS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "AD DS"
             }
           }
         ],
@@ -221,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,6 +233,7 @@
   },
   "active": "337b5c270eb4250a",
   "lastOpenFiles": [
+    "2025-03-16.md",
     "Untitled.canvas",
     "MSP/AD DS/AD DS.md",
     "Attachements/Pasted image 20250316130353.png",
@@ -281,7 +278,6 @@
     "CYBERSECURITY/convert_images.ps1",
     "CYBERSECURITY/name.py",
     "Untitled 8.md",
-    "OBSIDIAN/README.md",
-    "Attachements/2025-02-17.md"
+    "OBSIDIAN/README.md"
   ]
 }
