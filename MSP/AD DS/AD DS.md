@@ -24,3 +24,6 @@ light weight directory access protocal
 
 .........................................................................................................................................................................................................
 https://www.youtube.com/watch?v=85-bp7XxWDQ&ab_channel=AndyMaloneMVP
+
+users, groups, services
+
