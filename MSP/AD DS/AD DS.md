@@ -10,3 +10,6 @@ Active Directory Domain Services (AD DS) is **the foundation of every Windows d
 ntds.dit = database in AD
 
 need method to store and retrive data
+X.500 - STRUCTURE
+OU = organizational unit
+mul
