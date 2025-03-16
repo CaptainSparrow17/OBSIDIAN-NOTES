@@ -27,3 +27,5 @@ https://www.youtube.com/watch?v=85-bp7XxWDQ&ab_channel=AndyMaloneMVP
 
 users, groups, services
 
+user, computers, groups, devices can be arranged in OU
+https://www.youtube.com/watch?v=85-bp7XxWDQ&ab_channel=AndyMaloneMVP
