@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/AD DS/AD DS.md",
+                "file": "MSP/Microsoft 365/Mailing Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD DS"
+              "title": "Mailing Services"
             }
           }
         ],
@@ -233,9 +233,9 @@
   },
   "active": "337b5c270eb4250a",
   "lastOpenFiles": [
+    "MSP/AD DS/AD DS.md",
     "2025-03-16.md",
     "Untitled.canvas",
-    "MSP/AD DS/AD DS.md",
     "Attachements/Pasted image 20250316130353.png",
     "OSCP/7.0 Vulnerability Scanning.md",
     "MSP/Microsoft 365/Mailing Services.md",
