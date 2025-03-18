@@ -38,6 +38,10 @@ Organizational Units (OUs)
 
 Trusts
 ![](../../Attachements/Pasted%20image%2020250318133959.png)
+OBJECTS
+![](../../Attachements/Pasted%20image%2020250318134050.png)
+
+
 
 https://www.youtube.com/watch?v=4qC7H-y7oKI&ab_channel=JohnSavill%27sTechnicalTraining
 Active Directory Domain Services
