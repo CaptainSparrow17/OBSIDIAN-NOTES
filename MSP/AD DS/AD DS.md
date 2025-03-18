@@ -10,6 +10,9 @@ Active Directory Components::
 ![](../../Attachements/Pasted%20image%2020250318132442.png)
 
 Domain Controller: A DC is a server with AD DS Server role installed that has specifically been promoted to a domain controller.
+	host a copy of AD DS directory stire
+	provide authorisation and authentication services
+	replicate updates to other DC in the domain and forest
 	
 
 
