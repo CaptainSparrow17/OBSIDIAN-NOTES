@@ -15,7 +15,10 @@ Domain Controller: A DC is a server with AD DS Server role installed that has sp
 	replicate updates to other DC in the domain and forest
 	allow admin to manage user account and network resources
 
-
+AD DS Data Store
+contains database files and processes that store and manage directory information for users, services, and applciations
+	contains Ntds.dit file
+	is stores by default in the %SystemR
 
 
 
