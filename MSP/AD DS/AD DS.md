@@ -49,7 +49,7 @@ AD LOGICAL ARCHITECTURE::
 object is the basic/lowest entity of AD.
 ![](../../Attachements/Pasted%20image%2020250318135914.png)
 
-
+OUs are the only general-purpose container available to administrators in AD.
 
 
 
