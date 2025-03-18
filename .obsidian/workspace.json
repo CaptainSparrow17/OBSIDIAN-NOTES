@@ -35,7 +35,8 @@
               "title": "AD DS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -188,8 +189,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2137c134027c8aa3",
+  "active": "337b5c270eb4250a",
   "lastOpenFiles": [
+    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "MSP/AD DS/AD DS.md",
     "Attachements/Pasted image 20250318131648.png",
     "MSP/Microsoft 365/Mailing Services.md",
@@ -213,7 +215,6 @@
     "OSCP/6.0 Information Gathering.md",
     "OSCP/001.md",
     "OSCP/2.0 Task 2 (Info).md",
-    "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "Attachements/Pasted image 20250227153615.png",
     "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "LABS/Try Hackme/SMOL.md",
