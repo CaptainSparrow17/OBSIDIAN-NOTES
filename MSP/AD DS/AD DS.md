@@ -18,7 +18,9 @@ Domain Controller: A DC is a server with AD DS Server role installed that has sp
 AD DS Data Store
 contains database files and processes that store and manage directory information for users, services, and applciations
 	contains Ntds.dit file
-	is stores by default in the %SystemR
+	is stores by default in the %SystemRoot%\NTDS folder on all domain controllers
+	is accessible only through the domain controller and processes and protocols
+
 
 
 
