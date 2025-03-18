@@ -24,8 +24,15 @@ contains database files and processes that store and manage directory informatio
 AD DS Schems
 DEFINES every type of object that can be stored in the directory.
 enforces rules regarding object creation and configuration
-
 ![](../../Attachements/Pasted%20image%2020250318133552.png)
+
+Domains =like boundry
+![](../../Attachements/Pasted%20image%2020250318133633.png)
+
+Trees
+
+
+
 
 
 
