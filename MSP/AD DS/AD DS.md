@@ -33,14 +33,11 @@ Trees
 ![](../../Attachements/Pasted%20image%2020250318133715.png)
 Forests
 ![](../../Attachements/Pasted%20image%2020250318133842.png)
+Organizational Units (OUs)
+![](../../Attachements/Pasted%20image%2020250318133948.png)
 
-
-
-
-
-
-
-
+Trusts
+![](../../Attachements/Pasted%20image%2020250318133959.png)
 
 https://www.youtube.com/watch?v=4qC7H-y7oKI&ab_channel=JohnSavill%27sTechnicalTraining
 Active Directory Domain Services
