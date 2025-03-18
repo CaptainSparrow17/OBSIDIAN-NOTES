@@ -1,7 +1,10 @@
 Active Directory (AD) is a directory service developed by Microsoft for Windows domain networks, acting as a central database for managing users, computers, and other network resources, providing centralized authentication and authorization.
 
-Stotes info related to objects. such as Computers, Users, Printers, etc. => Like windows phonebook
-Authenticates using Kerberos t
+Stores info related to objects. such as Computers, Users, Printers, etc. => Like windows phonebook
+Authenticates using Kerberos tickets
+	Non-windows devices such as Linux machines, firewalls, etc can also authenticate to AD via RADIUS or LDAP.
+
+
 
 
 https://www.youtube.com/watch?v=4qC7H-y7oKI&ab_channel=JohnSavill%27sTechnicalTraining
