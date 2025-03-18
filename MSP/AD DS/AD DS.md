@@ -6,6 +6,11 @@ Stores info related to objects. such as Computers, Users, Printers, etc. => Like
 Authenticates using Kerberos tickets
 	Non-windows devices such as Linux machines, firewalls, etc can also authenticate to AD via RADIUS or LDAP.
 
+Active Directory Components::
+![](../../Attachements/Pasted%20image%2020250318132442.png)
+
+
+
 
 
 
