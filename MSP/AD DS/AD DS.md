@@ -22,7 +22,12 @@ contains database files and processes that store and manage directory informatio
 	is accessible only through the domain controller and processes and protocols
 
 AD DS Schems
-DEFINES every type of object that can be stored 
+DEFINES every type of object that can be stored in the directory.
+enforces rules regarding object creation and configuration
+
+![](../../Attachements/Pasted%20image%2020250318133552.png)
+
+
 
 
 
