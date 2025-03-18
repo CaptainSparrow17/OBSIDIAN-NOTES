@@ -3,6 +3,8 @@ Active Directory (AD) is a directory service developed by Microsoft for Windows 
 https://www.youtube.com/watch?v=4qC7H-y7oKI&ab_channel=JohnSavill%27sTechnicalTraining
 Active Directory Domain Services
 
+![](../../Attachements/Pasted%20image%2020250318131648.png)
+
 When we mead AD, we call ADDS.
 introduced in 2000 's
 
