@@ -47,9 +47,9 @@ https://www.youtube.com/watch?v=LOG-ewxwCOU
 ![](../../Attachements/Pasted%20image%2020250318135717.png)
 AD LOGICAL ARCHITECTURE::
 object is the basic/lowest entity of AD.
+![](../../Attachements/Pasted%20image%2020250318135914.png)
 
 
-![](../../Attachements/Pasted%20image%2020250318135858.png)
 
 
 
