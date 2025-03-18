@@ -31,6 +31,8 @@ Domains =like boundry
 
 Trees
 ![](../../Attachements/Pasted%20image%2020250318133715.png)
+Forests
+![](../../Attachements/Pasted%20image%2020250318133842.png)
 
 
 
