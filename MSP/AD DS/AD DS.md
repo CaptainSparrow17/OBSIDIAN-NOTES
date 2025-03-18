@@ -21,7 +21,8 @@ contains database files and processes that store and manage directory informatio
 	is stores by default in the %SystemRoot%\NTDS folder on all domain controllers
 	is accessible only through the domain controller and processes and protocols
 
-
+AD DS Schems
+DEFINES every type of object that can be stored 
 
 
 
