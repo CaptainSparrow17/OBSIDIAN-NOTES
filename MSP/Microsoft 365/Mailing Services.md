@@ -39,3 +39,4 @@ I understood the following from this lecture, correct me if I am wrong. A compan
 
 Binitakarki@atishojha.com.np
 Nepalihoma123
+
