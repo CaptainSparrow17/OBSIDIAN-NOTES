@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/AD DS/AD DS.md",
+                "file": "MSP/Microsoft 365/Mailing Services.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AD DS"
+              "title": "Mailing Services"
             }
           }
         ],
@@ -191,6 +191,7 @@
   },
   "active": "337b5c270eb4250a",
   "lastOpenFiles": [
+    "MSP/AD DS/AD DS.md",
     "Attachements/Pasted image 20250318135914.png",
     "Attachements/Pasted image 20250318135858.png",
     "Attachements/Pasted image 20250318135717.png",
@@ -201,9 +202,7 @@
     "Attachements/Pasted image 20250318133842.png",
     "Attachements/Pasted image 20250318133715.png",
     "Attachements/Pasted image 20250318133633.png",
-    "Attachements/Pasted image 20250318133552.png",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
-    "MSP/AD DS/AD DS.md",
     "MSP/Microsoft 365/Mailing Services.md",
     "2025-03-16.md",
     "Untitled.canvas",
