@@ -93,5 +93,9 @@ The above is because of Global address link (GAL).
 ![](../../Attachements/Pasted%20image%2020250320134029.png)
 It above will be added in GAL..
 
-can be uses in migration services::
+2)can be uses in migration services::
+
+###### Guest User
+Guest users can attend meetings, view org documents, and more
+
 
