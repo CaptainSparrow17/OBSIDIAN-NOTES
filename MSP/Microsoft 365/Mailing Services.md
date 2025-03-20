@@ -4,10 +4,10 @@ https://www.youtube.com/watch?v=jy12bLRluic&list=PLeqch-0_f39EUBFcEVnDmcuyGsamyj
 
 https://www.youtube.com/watch?v=aQekoCtqSms&list=PL5oyXP-xEiGBt94O8rfGtJT2yfkjiRY2W&index=3
 
-
 Teach Me Cloud
-
 103K subscribers
+
+intune = mobile device management
 ![](../../Attachements/Pasted%20image%2020250306092618.png)
 
 Its a SAAS => OTT Platform is also SAAS
