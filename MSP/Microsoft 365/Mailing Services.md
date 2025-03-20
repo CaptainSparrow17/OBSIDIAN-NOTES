@@ -69,3 +69,4 @@ cannot login via alias, but if any email is recieved to alias email, primary ema
 
 ##### Altername email Address
 configure SSPR=self service password reset
+if passsword forgetton, can be used to access email.
