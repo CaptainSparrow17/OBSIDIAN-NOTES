@@ -130,5 +130,7 @@ Go to marketplace and add it..
 ![](../../Attachements/Pasted%20image%2020250320153618.png)
 
 ##### Tenant
+Your Microsoft 365 tenant is **the set of services assigned to your organization**. Typically, this tenant is associated with one or more of your public DNS domain names and acts as a central and isolated container for different subscriptions and the licenses within them that you assign to user accounts.
+
 ![](../../Attachements/Pasted%20image%2020250320161849.png)
 
