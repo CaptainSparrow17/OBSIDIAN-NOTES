@@ -98,4 +98,5 @@ It above will be added in GAL..
 ###### Guest User
 Guest users can attend meetings, view org documents, and more
 
+##### Teams and Groups
 
