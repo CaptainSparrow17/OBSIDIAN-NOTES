@@ -1,5 +1,8 @@
 [  Teach Me Cloud](https://www.youtube.com/@TeachMeCloud)
 
+https://www.youtube.com/watch?v=aQekoCtqSms&list=PL5oyXP-xEiGBt94O8rfGtJT2yfkjiRY2W&index=3
+
+
 Teach Me Cloud
 
 103K subscribers
