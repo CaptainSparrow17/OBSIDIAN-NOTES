@@ -87,3 +87,7 @@ As we can see in above, first 3 are enough..
 
 #### Contacts
 ![](../../Attachements/Pasted%20image%2020250320133903.png)
+The above is because of Global address link (GAL).
+
+Add external user in contacts
+
