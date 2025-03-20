@@ -81,3 +81,6 @@ All user will be added using the template set rules::
 ##### Add Multiple Users
 ![](../../Attachements/Pasted%20image%2020250320130412.png)
 
+Can be added using CSV:: download sample and carry on::
+![](../../Attachements/Pasted%20image%2020250320130853.png)
+As we can see in above, first 3 ar
