@@ -60,6 +60,7 @@ Password: V&570172459490os
 Identity = entra admin/ azure
 ![](../../Attachements/Pasted%20image%2020250320101437.png)
 
-Aliases
-Lets concept of alias
+##### Aliases
+Lets concept of alias::
+atish@atishojha.com.np can cre
 ![](../../Attachements/Pasted%20image%2020250320114052.png)
