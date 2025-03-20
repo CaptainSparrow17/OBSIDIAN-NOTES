@@ -9,7 +9,9 @@ Teach Me Cloud
 
 intune = mobile device management
 ![](../../Attachements/Pasted%20image%2020250320103154.png)
+https://www.youtube.com/watch?v=_xaAcSggIas&t=1s
 
+...................................................................................................................................
 
 
 ![](../../Attachements/Pasted%20image%2020250306092618.png)
