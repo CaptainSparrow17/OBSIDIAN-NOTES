@@ -99,4 +99,4 @@ It above will be added in GAL..
 Guest users can attend meetings, view org documents, and more
 
 ##### Teams and Groups
-
+Create a suppose sharepoint site and assign the teams.
