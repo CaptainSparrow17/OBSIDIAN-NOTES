@@ -114,3 +114,6 @@ so we can shared mail box and users::
 ![](../../Attachements/Pasted%20image%2020250320142625.png)
 
 one outlook is logged in, we can open another shared email and access shared mail box..
+![](../../Attachements/Pasted%20image%2020250320142838.png)
+
+type emai
