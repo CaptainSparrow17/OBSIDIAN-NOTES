@@ -1,5 +1,7 @@
 [  Teach Me Cloud](https://www.youtube.com/@TeachMeCloud)
 
+https://www.youtube.com/watch?v=jy12bLRluic&list=PLeqch-0_f39EUBFcEVnDmcuyGsamyji0Q&index=32
+
 https://www.youtube.com/watch?v=aQekoCtqSms&list=PL5oyXP-xEiGBt94O8rfGtJT2yfkjiRY2W&index=3
 
 
