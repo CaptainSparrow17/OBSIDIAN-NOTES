@@ -106,3 +106,4 @@ Can assign single group and all members will be assigned.
 suppose a demo shared mailbox is created and tony clark and alibaba want to access it..
 ![](../../Attachements/Pasted%20image%2020250320135355.png)
 When a email is sent to InternalIt email, all other will know the email..
+ 
