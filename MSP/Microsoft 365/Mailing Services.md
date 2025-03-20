@@ -62,5 +62,7 @@ Identity = entra admin/ azure
 
 ##### Aliases
 Lets concept of alias::
-atish@atishojha.com.np can cre
+atish@atishojha.com.np can create hideme@atishojha.com.np
+Thus no one will know your real name and later it can be deletes.
+cannot login via alias, but if any email is recieved to alias email, primary email will get it..
 ![](../../Attachements/Pasted%20image%2020250320114052.png)
