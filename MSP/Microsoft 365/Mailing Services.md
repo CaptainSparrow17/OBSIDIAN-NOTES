@@ -45,8 +45,11 @@ I understood the following from this lecture, correct me if I am wrong. A compan
 Binitakarki@atishojha.com.np
 Nepalihoma123
 
-atishojha@atishojha17.onmicrosoft.com
+atishojha@atishojha17.onmicrosoft.com =>Admin
 Nepalihoma123!
+
+Username: alibaba@atishojha.com.np
+Password: V&570172459490os
 ........................................................................................................................................................................................................
 Identity = entra admin/ azure
 ![](../../Attachements/Pasted%20image%2020250320101437.png)
