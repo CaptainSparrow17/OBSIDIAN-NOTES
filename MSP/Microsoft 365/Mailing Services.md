@@ -41,14 +41,13 @@ First login to office.com and go to admin::
 One tenant corresponds to one Azure AD and vice versa..
 
 I understood the following from this lecture, correct me if I am wrong. A company signs up for an Enrollment with Microsoft. Then it Creates a Tenant and within the Enrollment, within the Tenant it creates different Subscriptions for different divisions within that company to manage the bills for each divisions separately. Or it can create different tenants for different branches if they are located in different cities and then within each branch they can have multiple Subscriptions depending on how many different departments each branch has, to properly manage the billings
-
+........................................................................................................................................................................................................
 Binitakarki@atishojha.com.np
 Nepalihoma123
 
-
-j<Hd#xnC5#hj"cz1
-![](../../Attachements/Pasted%20image%2020250320100726.png)
-add1 in above
-
-
+atishojha@atishojha17.onmicrosoft.com
 Nepalihoma123!
+........................................................................................................................................................................................................
+Identity = entra admin/ azure
+![](../../Attachements/Pasted%20image%2020250320101437.png)
+
