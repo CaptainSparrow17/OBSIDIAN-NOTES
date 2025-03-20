@@ -123,3 +123,5 @@ type email
 This way the assigned members can use the shared mailbox..
 
 ##### Add Free Trail and Paid License on Microsoft
+Go to marketplace and add it..
+
