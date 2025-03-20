@@ -130,3 +130,5 @@ Go to marketplace and add it..
 ![](../../Attachements/Pasted%20image%2020250320153618.png)
 
 ##### Tenant
+![](../../Attachements/Pasted%20image%2020250320161755.png)
+
