@@ -102,3 +102,5 @@ Guest users can attend meetings, view org documents, and more
 Create a suppose sharepoint site and assign the teams.
 Can assign single group and all members will be assigned.
 
+![](../../Attachements/Pasted%20image%2020250320135227.png)
+suppose a demo shared mailbox is created and tony clark and alibaba want to access it..
