@@ -78,4 +78,6 @@ User Templates
 ![](../../Attachements/Pasted%20image%2020250320130220.png)
 All user will be added using the template set rules::
 
+##### Add Multiple Users
+![](../../Attachements/Pasted%20image%2020250320130412.png)
 
