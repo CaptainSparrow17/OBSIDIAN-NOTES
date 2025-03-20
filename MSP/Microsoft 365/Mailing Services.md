@@ -56,6 +56,9 @@ Nepalihoma123!
 
 Username: alibaba@atishojha.com.np
 Password: V&570172459490os
+
+Username: ramey@atishojha.com.np
+Password: J%685653415988as
 ........................................................................................................................................................................................................
 Identity = entra admin/ azure
 ![](../../Attachements/Pasted%20image%2020250320101437.png)
