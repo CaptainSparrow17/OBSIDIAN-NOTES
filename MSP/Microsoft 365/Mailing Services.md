@@ -29,7 +29,7 @@ We have taken E3
 
 Microsoft Azure AD also Known as Azure AD
 
-Admin Centre (Top 3 ar)
+Admin Centre (Top 3 are imp)
 	MS-365 Admin Centre
 	MS-Entra Admin (Azure AD)
 	Exchange Admin
@@ -44,4 +44,5 @@ I understood the following from this lecture, correct me if I am wrong. A compan
 
 Binitakarki@atishojha.com.np
 Nepalihoma123
+
 
