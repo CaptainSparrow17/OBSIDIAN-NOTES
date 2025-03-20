@@ -120,3 +120,4 @@ one outlook is logged in, we can open another shared email and access shared mai
 type email
 ![](../../Attachements/Pasted%20image%2020250320142908.png)
 
+This way the assigned members can use the shared mailbox..
