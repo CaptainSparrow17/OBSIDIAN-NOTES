@@ -100,3 +100,5 @@ Guest users can attend meetings, view org documents, and more
 
 ##### Teams and Groups
 Create a suppose sharepoint site and assign the teams.
+Can assign single group and all members will be assigned.
+
