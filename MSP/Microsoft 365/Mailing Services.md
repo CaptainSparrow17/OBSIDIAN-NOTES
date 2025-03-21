@@ -145,3 +145,4 @@ In summary, a tenant is a dedicated and isolated instance of Azure AD that an or
 ![](../../Attachements/Pasted%20image%2020250320161849.png)
 
 
+##### Creating Bulk User using Entra Admin
