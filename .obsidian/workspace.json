@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "MS-102"
             }
+          },
+          {
+            "id": "6e0143f3f25058ca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -189,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "337b5c270eb4250a",
+  "active": "6e0143f3f25058ca",
   "lastOpenFiles": [
     "MSP/Microsoft 365/Mailing Services.md",
     "Untitled.canvas",
