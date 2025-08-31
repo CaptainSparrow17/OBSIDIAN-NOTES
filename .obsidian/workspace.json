@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,10 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "337b5c270eb4250a",
+  "active": "6fc48a62783e1edb",
   "lastOpenFiles": [
-    "MSP/Microsoft 365/MS-102.md",
     "MSP/Microsoft 365/Mailing Services.md",
+    "MSP/Microsoft 365/MS-102.md",
     "Attachements/Pasted image 20250830161514.png",
     "Attachements/Pasted image 20250830161301.png",
     "Attachements/Pasted image 20250830161110.png",
