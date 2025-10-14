@@ -110,9 +110,10 @@ Adding user in admin.microsoft.com
 https://admin.microfoft.com
 Then go to org setting::
 ![](../../Attachements/Pasted%20image%2020251014223427.png)
-This settings are for whole orn not s
+Mainly this settings are for whole organization not single user.
 
 
+#### Security and Privacy
 **1)Password expiration => never expired...**
 **Or can be made to change every week.**
 **![](../../Attachements/Pasted%20image%2020250619103655.png)**
