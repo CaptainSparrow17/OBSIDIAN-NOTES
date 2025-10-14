@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Microsoft 365/MS-102 -Tenent.md",
+                "file": "2025-10-14 MS-102.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS-102 -Tenent"
+              "title": "2025-10-14 MS-102"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "43b72608027ac199",
   "lastOpenFiles": [
+    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251014224603.png",
     "Attachements/Pasted image 20251014224241.png",
     "Attachements/Pasted image 20251014224209.png",
@@ -230,12 +231,10 @@
     "2025-10-14 MS-102.md",
     "Untitled.canvas",
     "MSP/AD DS/AD DS.md",
-    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "MSP/Microsoft 365/Mailing Services.md",
     "Attachements/Pasted image 20250830161514.png",
     "Attachements/Pasted image 20250830161301.png",
     "Attachements/Pasted image 20250830161110.png",
-    "Attachements/Pasted image 20250830161042.png",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "OSCP/7.0 Vulnerability Scanning.md",
     "MSP/AD DS",
