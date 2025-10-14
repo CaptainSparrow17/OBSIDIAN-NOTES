@@ -127,6 +127,10 @@ Mainly this settings(services) are for whole organization not single user.
 
 4)OPtions for self service password reset..**
 **![](../../Attachements/Pasted%20image%2020250619103849.png)**
+
+5)previliged
+![](../../Attachements/Pasted%20image%2020251014224603.png)
+
 AND SO ONNN
 #### Organizational Profile::
 **![](../../Attachements/Pasted%20image%2020250619103937.png)**
