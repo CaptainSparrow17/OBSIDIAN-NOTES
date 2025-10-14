@@ -105,8 +105,10 @@ Adding user in admin.microsoft.com
 ![](../../Attachements/Pasted%20image%2020251014222917.png)
 
 
-Section 3:: Configure org settings, including Security & privacy and Organizational profile
-**https://portal.microsoft.com**
+### Section 3:: Configure org settings, including Security & privacy and Organizational profile
+**https://portal.microsoft.com
+
+
 
 **1)Password expiration => never expired...**
 **Or can be made to change every week.**
