@@ -76,7 +76,7 @@ and bingo: And then restart pc
 ![](../../Attachements/Pasted%20image%2020250830161514.png)
 
 
-# Create a Tenant
+# Create a Tenant => JOhn Chrispopher
 ##### Tenant
 Your Microsoft 365 tenant is **the set of services assigned to your organization**. Typically, this tenant is associated with one or more of your public DNS domain names and acts as a central and isolated container for different subscriptions and the licenses within them that you assign to user accounts.
 
