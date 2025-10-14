@@ -133,6 +133,7 @@ Mainly this settings(services) are for whole organization not single user.
 
 AND SO ONNN
 #### Organizational Profile::
+Customize organisation profiles/names/themes
 **![](../../Attachements/Pasted%20image%2020250619103937.png)**
 
 **To get email if anything is wrong::**
