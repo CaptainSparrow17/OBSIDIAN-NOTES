@@ -107,7 +107,7 @@ cancel by 11/14/25
 They have changed portal.microsoft.com to admin.microsoft.com..
 And changed Purchased services to Marketplace::
 
-Identity => It means Tenant 
+Identity => It means Tenant  =>https://portal.azure.com/
 ![](../../Attachements/Pasted%20image%2020251014210157.png)
 
 
