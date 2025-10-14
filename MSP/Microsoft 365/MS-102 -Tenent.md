@@ -97,11 +97,11 @@ In summary, a tenant is a dedicated and isolated instance of Azure AD that an or
 ![](../../Attachements/Pasted%20image%2020250320161849.png)
 
 
-Create usser::
-Display name: Ram Limbu
-
-Username: ramlimbu@atishojha.com.np
-
-Password: C(016144915800ac
+OCT 14
+atishojha17@gmail.com
+Binita1!
+atishojhanepal.onmicrosoft.com
+Binita1!
+cancel by 11/14/25
 
 .......
