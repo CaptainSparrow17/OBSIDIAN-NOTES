@@ -120,3 +120,6 @@
 ### CUSTOM DOMAINS
 
 Go to admin.micrisift.com => setting => domain
+You can go from portal.azure.com and add domains as well...
+
+
