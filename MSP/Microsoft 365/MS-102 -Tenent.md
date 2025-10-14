@@ -11,31 +11,6 @@
 
 
 **MS-102 - UDEMY**
-**https://portal.microsoft.com**
-
-**1)Password expiration => never expired...**
-**Or can be made to change every week.**
-**![](../../Attachements/Pasted%20image%2020250619103655.png)**
-
-**2)OPtions for self service password reset..**
-**![](../../Attachements/Pasted%20image%2020250619103849.png)**
-
-**Organizational Profile::**
-**![](../../Attachements/Pasted%20image%2020250619103937.png)**
-
-**To get email if anything is wrong::**
-**![](../../Attachements/Pasted%20image%2020250619104703.png)**
-
-**Reports and usages::=> Gives details on who and how many users are using the services..**
-
-**![](../../Attachements/Pasted%20image%2020250619105023.png)**
-
-
-**portal.azure.com**
-
-**When creating new users select the usage location appropriately:: =>IMP**
-
-**When creating new user we can do via portal.azure.com and portal.microsoft.com (office way)...**
 
 
 **30/08/25**
@@ -129,3 +104,30 @@ Adding USER in azure
 Adding user in admin.microsoft.com
 ![](../../Attachements/Pasted%20image%2020251014222917.png)
 
+
+Section 3:: Configure org settings, including Security & privacy and Organizational profile
+**https://portal.microsoft.com**
+
+**1)Password expiration => never expired...**
+**Or can be made to change every week.**
+**![](../../Attachements/Pasted%20image%2020250619103655.png)**
+
+**2)OPtions for self service password reset..**
+**![](../../Attachements/Pasted%20image%2020250619103849.png)**
+
+**Organizational Profile::**
+**![](../../Attachements/Pasted%20image%2020250619103937.png)**
+
+**To get email if anything is wrong::**
+**![](../../Attachements/Pasted%20image%2020250619104703.png)**
+
+**Reports and usages::=> Gives details on who and how many users are using the services..**
+
+**![](../../Attachements/Pasted%20image%2020250619105023.png)**
+
+
+**portal.azure.com**
+
+**When creating new users select the usage location appropriately:: =>IMP**
+
+**When creating new user we can do via portal.azure.com and portal.microsoft.com (office way)...**
