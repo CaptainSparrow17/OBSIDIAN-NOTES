@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "MS-102"
             }
+          },
+          {
+            "id": "43b72608027ac199",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,6 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -203,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6fc48a62783e1edb",
+  "active": "43b72608027ac199",
   "lastOpenFiles": [
     "MSP/Microsoft 365/Mailing Services.md",
     "MSP/Microsoft 365/MS-102.md",
