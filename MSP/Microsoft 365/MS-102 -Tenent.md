@@ -116,7 +116,7 @@
 **When we create azure account or Microsoft 365 account automatically a microsoft tenant is created.**
 **We can add multiple tenant and manage user groups and policy.**
 
-
+### Adding Extra Tennant => got error message
 ### CUSTOM DOMAINS
 
 Go to admin.micrisift.com => setting => domain
