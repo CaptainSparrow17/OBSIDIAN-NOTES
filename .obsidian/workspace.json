@@ -53,12 +53,14 @@
             "id": "43b72608027ac199",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "2025-03-16.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "icon": "lucide-file",
+              "title": "2025-03-16"
             }
           }
         ],
@@ -218,8 +220,11 @@
   },
   "active": "43b72608027ac199",
   "lastOpenFiles": [
-    "MSP/Microsoft 365/Mailing Services.md",
+    "Untitled.canvas",
+    "2025-03-16.md",
+    "MSP/AD DS/AD DS.md",
     "MSP/Microsoft 365/MS-102.md",
+    "MSP/Microsoft 365/Mailing Services.md",
     "Attachements/Pasted image 20250830161514.png",
     "Attachements/Pasted image 20250830161301.png",
     "Attachements/Pasted image 20250830161110.png",
@@ -230,10 +235,7 @@
     "Attachements/Pasted image 20250830135959.png",
     "Attachements/Pasted image 20250830135650.png",
     "Attachements/Pasted image 20250830132132.png",
-    "Untitled.canvas",
-    "MSP/AD DS/AD DS.md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
-    "2025-03-16.md",
     "OSCP/7.0 Vulnerability Scanning.md",
     "MSP/AD DS",
     "MSP/Untitled/Untitled",
