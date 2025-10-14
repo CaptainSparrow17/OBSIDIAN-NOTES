@@ -127,3 +127,5 @@ Adding USER in azure
 ![](../../Attachements/Pasted%20image%2020251014222502.png)
 
 Adding user in admin.microsoft.com
+![](../../Attachements/Pasted%20image%2020251014222917.png)
+
