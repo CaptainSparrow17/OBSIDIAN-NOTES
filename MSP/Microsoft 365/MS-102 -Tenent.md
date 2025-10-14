@@ -109,8 +109,10 @@ Adding user in admin.microsoft.com
 
 https://admin.microfoft.com
 Then go to org setting::
+
+#### Services
 ![](../../Attachements/Pasted%20image%2020251014223427.png)
-Mainly this settings are for whole organization not single user.
+Mainly this settings(services) are for whole organization not single user.
 
 
 #### Security and Privacy
