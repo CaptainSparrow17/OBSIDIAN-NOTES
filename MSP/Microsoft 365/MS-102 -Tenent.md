@@ -123,3 +123,7 @@ Go to admin.micrisift.com => setting => domain
 You can go from portal.azure.com and add domains as well...
 
 
+Adding USER in azure
+![](../../Attachements/Pasted%20image%2020251014222502.png)
+
+Adding user in admin.microsoft.com
