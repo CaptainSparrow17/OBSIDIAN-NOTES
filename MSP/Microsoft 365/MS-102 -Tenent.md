@@ -118,16 +118,17 @@ Mainly this settings(services) are for whole organization not single user.
 #### Security and Privacy
 1)Bind data collection::
 ![](../../Attachements/Pasted%20image%2020251014224209.png)
-2)Customer 
+2)Customer lockbox
+![](../../Attachements/Pasted%20image%2020251014224241.png)
 
-**1)Password expiration => never expired...**
+3)Password expiration => never expired...**
 **Or can be made to change every week.**
 **![](../../Attachements/Pasted%20image%2020250619103655.png)**
 
-**2)OPtions for self service password reset..**
+4)OPtions for self service password reset..**
 **![](../../Attachements/Pasted%20image%2020250619103849.png)**
-
-**Organizational Profile::**
+AND SO ONNN
+#### Organizational Profile::
 **![](../../Attachements/Pasted%20image%2020250619103937.png)**
 
 **To get email if anything is wrong::**
