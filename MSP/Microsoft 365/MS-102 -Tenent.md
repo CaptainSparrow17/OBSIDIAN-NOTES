@@ -105,6 +105,6 @@ Binita1!
 cancel by 11/14/25
 
 They have changed portal.microsoft.com to admin.microsoft.com..
-And changed Purchased services to Mar
+And changed Purchased services to Marketplace::
 
-.......
+Identity => It means Tenant 
