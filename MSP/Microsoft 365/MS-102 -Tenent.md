@@ -106,9 +106,11 @@ Adding user in admin.microsoft.com
 
 
 ### Section 3:: Configure org settings, including Security & privacy and Organizational profile
-**https://portal.microsoft.com
 
+admin.microfos
 
+Then go to org setting::
+![](../../Attachements/Pasted%20image%2020251014223427.png)
 
 **1)Password expiration => never expired...**
 **Or can be made to change every week.**
