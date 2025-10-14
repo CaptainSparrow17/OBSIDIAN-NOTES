@@ -116,6 +116,10 @@ Mainly this settings(services) are for whole organization not single user.
 
 
 #### Security and Privacy
+1)Bind data collection::
+![](../../Attachements/Pasted%20image%2020251014224209.png)
+2)Customer 
+
 **1)Password expiration => never expired...**
 **Or can be made to change every week.**
 **![](../../Attachements/Pasted%20image%2020250619103655.png)**
