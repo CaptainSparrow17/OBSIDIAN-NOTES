@@ -111,3 +111,6 @@ Identity => It means Tenant
 ![](../../Attachements/Pasted%20image%2020251014210157.png)
 
 
+Microsoft Entra ID (formerly [Azure Active Directory](https://www.google.com/search?sca_esv=deb0b5a04aa924a5&sxsrf=AE3TifPCFAZ0nlftnozaTJiHj2egPP_CrA%3A1760473612193&q=Azure+Active+Directory&sa=X&ved=2ahUKEwisy6miw6SQAxUZUkEAHQG4IuIQxccNegQIKRAB&mstk=AUtExfABg36FTEC5853jEYck65etNPDB5palzjh7Fek7whw8Y6Tw_WE4pkhX5amveBpyl_cgxDRO6BqAz4EXtS2ahL7aQ8QHpSHIVKLC0VBWatDtByb0t_6TDZCyXvs-rCfqfUiBEjd2M6TVMb1iZTDb33n_PgoNYeZX2k8lYxmIqu1wEqk&csui=3))
+
+When we create azure account or Microsoft 365 account we 
