@@ -216,5 +216,6 @@ Thus we need to go to setup and create pay as you go account..
 ![](../../Attachements/Pasted%20image%2020251015110649.png)
 You need to have azure subscription and have resource groups::
 
-Resource group is a continer and all azure resources needs to be stored in container.
-Can create 
+Resource group is a container and all azure resources needs to be stored in container.
+Can create resource group from portal.azure.com
+
