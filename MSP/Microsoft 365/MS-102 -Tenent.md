@@ -182,4 +182,4 @@ And create it in portal.azure.com
 Now to to admin centre->health->software update
 now it will show windows update log
 ![](../../Attachements/Pasted%20image%2020251015101051.png)
-
+Thus it gonna collect data and help us in update
