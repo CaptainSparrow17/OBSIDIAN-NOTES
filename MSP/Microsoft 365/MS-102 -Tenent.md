@@ -149,3 +149,4 @@ Customize organisation profiles/names/themes
 **When creating new users select the usage location appropriately:: =>IMP**
 
 **When creating new user we can do via portal.azure.com and portal.microsoft.com (office way)...**
+

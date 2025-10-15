@@ -55,28 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-14 MS-102.md",
+                "file": "MSP/Microsoft 365/MS-102 -Tenent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-14 MS-102"
-            }
-          },
-          {
-            "id": "aaaaa25bb25d4b0b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
+              "title": "MS-102 -Tenent"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -230,8 +218,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aaaaa25bb25d4b0b",
+  "active": "43b72608027ac199",
   "lastOpenFiles": [
+    "2025-10-14 MS-102.md",
     "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251014224603.png",
     "Attachements/Pasted image 20251014224241.png",
@@ -240,7 +229,6 @@
     "Attachements/Pasted image 20251014222917.png",
     "Attachements/Pasted image 20251014222502.png",
     "Attachements/Pasted image 20251014210157.png",
-    "2025-10-14 MS-102.md",
     "Untitled.canvas",
     "MSP/AD DS/AD DS.md",
     "MSP/Microsoft 365/Mailing Services.md",
