@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "2025-10-14 MS-102"
             }
+          },
+          {
+            "id": "aaaaa25bb25d4b0b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43b72608027ac199",
+  "active": "aaaaa25bb25d4b0b",
   "lastOpenFiles": [
     "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251014224603.png",
