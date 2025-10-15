@@ -168,4 +168,8 @@ if user are using 365 app, we have to update them regularly for security reasons
 Shows devices as well when joined to cloud
 ![](../../Attachements/Pasted%20image%2020251015100650.png)
 
-Shows windoe
+Shows windows update aswell::
+![](../../Attachements/Pasted%20image%2020251015100715.png)
+
+
+Log Analytic workspace: data storage for analysis, can use for software
