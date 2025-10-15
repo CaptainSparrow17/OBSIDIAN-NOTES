@@ -51,7 +51,7 @@
 **![](../../Attachements/Pasted%20image%2020250830161514.png)**
 
 
-# **Create a Tenant => JOhn Chrispopher**
+# Section 3: Implement and manage a Microsoft 365 tenant
 ##### **Tenant**
 **Your Microsoft 365 tenant is the set of services assigned to your organization. Typically, this tenant is associated with one or more of your public DNS domain names and acts as a central and isolated container for different subscriptions and the licenses within them that you assign to user accounts.**
 
@@ -150,3 +150,4 @@ Customize organisation profiles/names/themes
 
 **When creating new user we can do via portal.azure.com and portal.microsoft.com (office way)...**
 
+### Monitor the health of Microsoft 365 services by using Service Health
