@@ -151,3 +151,6 @@ Customize organisation profiles/names/themes
 **When creating new user we can do via portal.azure.com and portal.microsoft.com (office way)...**
 
 ### Monitor the health of Microsoft 365 services by using Service Health
+In admin.micro.com
+![](../../Attachements/Pasted%20image%2020251015094605.png)
+![](../../Attachements/Pasted%20image%2020251015094627.png)
