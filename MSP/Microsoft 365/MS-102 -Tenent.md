@@ -195,3 +195,4 @@ we can gather all info on apps and windows update and do update..
 Christopher Didn't go deep in course
 
 ### Monitor Microsoft 365 adoption and usage
+stattistics of how many users utilized the clouds services and apps..
