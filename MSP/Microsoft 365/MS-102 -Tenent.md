@@ -161,3 +161,7 @@ There they have report an issue option to report an issue and its impact on our 
 ![](../../Attachements/Pasted%20image%2020251015095025.png)
 The gist is if you wanna track insights for the various branch offices of a company you would need to create a location profile for it to be able to do that.
 
+
+### Configure and monitor software updates by using the Microsoft 365 admin center
+if user are using 365 app, we have to update them regularly for security reasons...
+![](../../Attachements/Pasted%20image%2020251015100551.png)
