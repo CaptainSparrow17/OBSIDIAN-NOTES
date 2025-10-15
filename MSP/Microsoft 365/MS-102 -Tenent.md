@@ -155,4 +155,4 @@ In admin.micro.com
 ![](../../Attachements/Pasted%20image%2020251015094605.png)
 ![](../../Attachements/Pasted%20image%2020251015094627.png)
 Will shows all current issue microsoft has, scope of impact, root cause.
-There they have report an issue option to report an issue and its impact on 
+There they have report an issue option to report an issue and its impact on our company and so on..
