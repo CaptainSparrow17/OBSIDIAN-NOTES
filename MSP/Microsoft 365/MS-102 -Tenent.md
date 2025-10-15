@@ -176,3 +176,5 @@ Log Analytic workspace: data storage for analysis, can use for software update
 go to portal.azure.com
 search: log analytics workspace
 and create it..
+![](../../Attachements/Pasted%20image%2020251015100943.png)
+And 
