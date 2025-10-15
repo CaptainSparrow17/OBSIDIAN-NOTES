@@ -231,3 +231,5 @@ Below for backup sharepoint
 ![](../../Attachements/Pasted%20image%2020251015112533.png)
 need to do individually for sharepoint, onedrive and so on..
 
+To restore go on Restoration like below::
+![](../../Attachements/Pasted%20image%2020251015112900.png)
