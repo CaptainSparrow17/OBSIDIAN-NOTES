@@ -165,3 +165,7 @@ The gist is if you wanna track insights for the various branch offices of a comp
 ### Configure and monitor software updates by using the Microsoft 365 admin center
 if user are using 365 app, we have to update them regularly for security reasons...
 ![](../../Attachements/Pasted%20image%2020251015100551.png)
+Shows devices as well when joined to cloud
+![](../../Attachements/Pasted%20image%2020251015100650.png)
+
+Shows windoe
