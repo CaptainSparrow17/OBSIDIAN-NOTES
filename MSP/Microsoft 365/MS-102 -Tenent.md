@@ -198,4 +198,8 @@ Christopher Didn't go deep in course
 stattistics of how many users utilized the clouds services and apps..
 ![](../../Attachements/Pasted%20image%2020251015104316.png)
 will be low when starting out::
-it wont provide individual but provide overall data.
+it wont provide individual but provide overall data and score.
+
+If you go to Action, then it will show what you can do to improve the score::
+![](../../Attachements/Pasted%20image%2020251015105334.png)
+
