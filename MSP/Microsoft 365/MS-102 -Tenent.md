@@ -213,3 +213,6 @@ Backup storage platform and helps in backing up data and fast storation..
 ![](../../Attachements/Pasted%20image%2020251015110419.png)
 We need to have payasyou go account to do backup and use this features::
 Thus we need to go to setup and create pay as you go account..
+![](../../Attachements/Pasted%20image%2020251015110649.png)
+
+
