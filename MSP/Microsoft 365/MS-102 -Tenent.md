@@ -196,3 +196,6 @@ Christopher Didn't go deep in course
 
 ### Monitor Microsoft 365 adoption and usage
 stattistics of how many users utilized the clouds services and apps..
+![](../../Attachements/Pasted%20image%2020251015104316.png)
+will be low when starting out::
+it wont provide individual but provide overall data
