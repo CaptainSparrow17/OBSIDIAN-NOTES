@@ -177,4 +177,9 @@ go to portal.azure.com
 search: log analytics workspace
 and create it..
 ![](../../Attachements/Pasted%20image%2020251015100943.png)
-And 
+And create it in portal.azure.com
+
+Now to to admin centre->health->software update
+now it will show windows update log
+![](../../Attachements/Pasted%20image%2020251015101051.png)
+
