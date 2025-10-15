@@ -227,3 +227,5 @@ Below is turning on backup
 
 For backup we need to setup policies aswell.
 ![](../../Attachements/Pasted%20image%2020251015112451.png)
+Below for backup sharepoint
+![](../../Attachements/Pasted%20image%2020251015112533.png)
