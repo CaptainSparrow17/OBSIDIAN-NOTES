@@ -192,4 +192,6 @@ from there we can easlilyy update windows devices
 
 From software update section we can do is gather reporting data and to gather data we don't need the intune also.
 we can gather all info on apps and windows update and do update..
-Did't go deep in course
+Christopher Didn't go deep in course
+
+### Monitor Microsoft 365 adoption and usage
