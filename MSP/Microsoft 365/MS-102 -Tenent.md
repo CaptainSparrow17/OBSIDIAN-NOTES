@@ -75,7 +75,7 @@
 **OCT 14**
 **atishojha17@gmail.com**
 **Binita1!**
-**atishojhanepal.onmicrosoft.com**
+[atishojha@atishojhanepal.onmicrosoft.com](mailto:atishojha@atishojhanepal.onmicrosoft.com)
 **Binita1!**
 **cancel by 11/14/25**
 
