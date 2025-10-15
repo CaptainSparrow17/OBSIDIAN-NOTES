@@ -214,5 +214,7 @@ Backup storage platform and helps in backing up data and fast storation..
 We need to have payasyou go account to do backup and use this features::
 Thus we need to go to setup and create pay as you go account..
 ![](../../Attachements/Pasted%20image%2020251015110649.png)
+You need to have azure subscription and have resource groups::
 
-
+Resource group is a continer and all azure resources needs to be stored in container.
+Can create 
