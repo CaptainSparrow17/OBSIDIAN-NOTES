@@ -218,5 +218,8 @@ You need to have azure subscription and have resource groups::
 
 Resource group is a container and all azure resources needs to be stored in container.
 Can create resource group from portal.azure.com
-Like earlier we create resource
+Like earlier we create resource group for windows update and all, for this also we need to create separate resource group.
+
+
+
 
