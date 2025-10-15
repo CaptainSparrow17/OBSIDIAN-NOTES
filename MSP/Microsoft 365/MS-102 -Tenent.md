@@ -184,7 +184,7 @@ now it will show windows update log
 ![](../../Attachements/Pasted%20image%2020251015101051.png)
 Thus it gonna collect data and help us in update
 
-if you go to intune.micro.com
+if you go to intune.micro.com=> intune is mdm(mobile device management)
 then devices
 and then windows update
 from there we can easlilyy update windows devices
