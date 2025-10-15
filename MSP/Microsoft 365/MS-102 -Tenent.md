@@ -222,5 +222,8 @@ Like earlier we create resource group for windows update and all, for this also 
 below is the wxample of pay as you go
 ![](../../Attachements/Pasted%20image%2020251015112333.png)
 
+Below is turning on backup
+![](../../Attachements/Pasted%20image%2020251015112414.png)
 
-
+For backup we need to setup policies aswell.
+![](../../Attachements/Pasted%20image%2020251015112451.png)
