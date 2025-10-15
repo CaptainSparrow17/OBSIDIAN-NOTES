@@ -159,4 +159,5 @@ There they have report an issue option to report an issue and its impact on our 
 
 ### Configure and review Network connectivity insights
 ![](../../Attachements/Pasted%20image%2020251015095025.png)
-The gist is if you wanna track insigh
+The gist is if you wanna track insights for the various branch offices of a company you would need to create a location profile for it to be able to do that.
+
