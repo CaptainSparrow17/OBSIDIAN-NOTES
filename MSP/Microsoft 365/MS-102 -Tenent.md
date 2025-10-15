@@ -203,4 +203,8 @@ it wont provide individual but provide overall data and score.
 If you go to Action, then it will show what you can do to improve the score::
 ![](../../Attachements/Pasted%20image%2020251015105334.png)
 
+There is usages as well:
+![](../../Attachements/Pasted%20image%2020251015105504.png)
+This will show everything and all the usage data
+![](../../Attachements/Pasted%20image%2020251015105528.png)
 
