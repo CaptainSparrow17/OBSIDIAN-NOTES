@@ -372,4 +372,10 @@ private => only owner can manage add remove
 
 thus assigned group finance is created.
 ![](../../Attachements/Pasted%20image%2020251026144150.png)
+It gonna create finance sharepoint
+https://atishojhanepal.sharepoint.com/sites/finance
+![](../../Attachements/Pasted%20image%2020251026144308.png)
 
+
+#### Create and manage groups, including Microsoft 365 using the Azure portal
+Wherevere you create group it all gonn 
