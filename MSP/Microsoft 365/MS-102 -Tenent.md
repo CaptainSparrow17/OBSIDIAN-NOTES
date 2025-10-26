@@ -520,3 +520,5 @@ EXPLANATION: Temporarily disables script execution restrictions, allowing all sc
 
 ![](../../Attachements/Pasted%20image%2020251026172445.png)
 
+
+### Concepts of using Microsoft Graph with PowerShell management
