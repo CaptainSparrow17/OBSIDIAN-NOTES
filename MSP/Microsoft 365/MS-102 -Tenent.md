@@ -415,3 +415,7 @@ Can see individual apps, active users, group activity
 
 ### Perform bulk user management
 We gonna do in portal.azure.com
+![](../../Attachements/Pasted%20image%2020251026162106.png)
+If we click bulk create, it downloads template.
+So using that template we gonna fill everything and then we gonna do bult create..
+
