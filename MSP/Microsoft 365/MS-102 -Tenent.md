@@ -367,4 +367,9 @@ admin.micro.com= > did not give options for dynamic griups
 ![](../../Attachements/Pasted%20image%2020251026143854.png)
 
 public group => anyone can join without apprtoval
-private => only owner can manage add remove'
+private => only owner can manage add remove
+![](../../Attachements/Pasted%20image%2020251026144100.png)
+
+thus assigned group finance is created.
+![](../../Attachements/Pasted%20image%2020251026144150.png)
+
