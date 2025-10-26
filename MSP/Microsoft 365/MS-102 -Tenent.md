@@ -323,4 +323,6 @@ The Microsoft 365 group, again, is the most common type of group that we use out
 The second type of group is a distribution group. This goes back to the exchange world where we had distribution lists. This was a group you could create. The group gets an email address and then you can email the group and it goes to every. The email would go to everyone in the group.
 
 #### Mail-Enabled Security Groups
+That's number three there. And that group also gets an email address but can also be given permissions to resources. But unlike a Microsoft 365 group, doesn't support all of the crazy features that it does, like creating a team and SharePoint and all of that. Again, we're going to dive deeper into that in a moment, just again giving you an overview.
 
+#### 
