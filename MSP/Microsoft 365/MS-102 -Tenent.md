@@ -577,3 +577,7 @@ Now installing Microsoft Graph Command::
 ![](../../Attachements/Pasted%20image%2020251026201123.png)
 
 The next thing would be how we actually connect to Microsoft Graph.
+![](../../Attachements/Pasted%20image%2020251026201538.png)
+This is how it gonna connect. It will ask for credentials of onmicro account and everything will be created.
+
+Create and manage users and groups, as well as bulk management with PowerShell
