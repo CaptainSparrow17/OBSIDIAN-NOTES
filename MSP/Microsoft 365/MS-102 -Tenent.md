@@ -244,6 +244,7 @@ Identities - User account/ computer account. Identity is the newer terminology t
 #Entra ID - Formally Azure AD is the central directory services store
 Identities can be synced with your on premise Active Directory (ADDS)
 
+![](../../Attachements/Identities+in+Microsoft+Entra+ID.pdf)
 ### The multiple ways to Manage Identities
 can manages same thing from multiple portal but some will work on one portal only
 licenses - only from admin
