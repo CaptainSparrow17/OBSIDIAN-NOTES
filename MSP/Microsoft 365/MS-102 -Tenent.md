@@ -568,5 +568,5 @@ Always set execution policy to bypass.
 
 Now installing Microsoft Graph Command::
 ```
-Install-Module Microsoft.Graph _scope CurrentUser _
+ Install-Module Microsoft.Graph -Scope CurrentUser -Repository PSGallery -Force
 ```
