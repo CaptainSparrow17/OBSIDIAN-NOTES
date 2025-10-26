@@ -78,6 +78,9 @@
 [atishojha@atishojhanepal.onmicrosoft.com](mailto:atishojha@atishojhanepal.onmicrosoft.com)
 **Binita1!**
 **cancel by 11/14/25**
+```
+atishojha@atishojhanepal.onmicrosoft.com
+```
 
 **They have changed portal.microsoft.com to admin.microsoft.com..**
 **And changed Purchased services to Marketplace::**
