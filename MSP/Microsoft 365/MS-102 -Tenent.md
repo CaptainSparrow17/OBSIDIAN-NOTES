@@ -316,3 +316,4 @@ Weather you are talking about azure, ms365, or any cloud services, entra ID is t
 Groups Type::
 ![](../../Attachements/Pasted%20image%2020251026135435.png)
 
+Microsoft 365
