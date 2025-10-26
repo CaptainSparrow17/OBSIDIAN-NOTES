@@ -363,3 +363,4 @@ And assigned group is more of a traditional style of group. You create the group
 admin.microsoft.com
 ![](../../Attachements/Pasted%20image%2020251026143653.png)
 
+admin.micro.com= > did not give options for dynamic g
