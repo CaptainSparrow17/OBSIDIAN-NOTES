@@ -568,5 +568,5 @@ Always set execution policy to bypass.
 
 Now installing Microsoft Graph Command::
 ```
-Install-Module 
+Install-Module Microsoft.Graph _scope CurrentUser _
 ```
