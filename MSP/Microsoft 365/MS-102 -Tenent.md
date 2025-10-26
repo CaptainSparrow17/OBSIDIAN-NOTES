@@ -419,3 +419,5 @@ We gonna do in portal.azure.com
 If we click bulk create, it downloads template.
 So using that template we gonna fill everything and then we gonna do bult create..
 
+![](../../Attachements/Pasted%20image%2020251026164150.png)
+This is how it is done.
