@@ -269,4 +269,4 @@ Device Identities: called computer account back in days not we use alot devices 
 ![](../../Attachements/Pasted%20image%2020251026112350.png)
 
 ### Creating Users
-Portal.azure.com => 
+Portal.azure.com => microsoft Intra ID
