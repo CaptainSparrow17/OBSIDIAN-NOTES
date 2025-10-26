@@ -239,4 +239,6 @@ Don't forget to turn of back up on pay as you go::
 
 # Manage users and groups
 
+Identities - user account/ computer 
+Entra ID - Formally Azure AD is the central directory services store
 
