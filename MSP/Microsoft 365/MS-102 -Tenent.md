@@ -303,3 +303,9 @@ Imp: If you wanna add guest in admin.microsoft.com, you gonna get redirected to 
 
 ![](../../Attachements/Pasted%20image%2020251026121420.png)
 
+Can view contact from outlook::
+![](../../Attachements/Pasted%20image%2020251026121525.png)
+
+Adding Multiple contact
+![](../../Attachements/Pasted%20image%2020251026121545.png)
+
