@@ -408,3 +408,5 @@ Once assigned to a group, all members will get the licenses..
 
 You gonna see marketplace or purchases from where you can buy the licenses..
 
+USAGES OF LICENSES
+Go to show all =>
