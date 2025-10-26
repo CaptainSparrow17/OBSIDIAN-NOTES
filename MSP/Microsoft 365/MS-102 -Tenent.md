@@ -270,3 +270,7 @@ Device Identities: called computer account back in days not we use alot devices 
 
 ### Creating Users
 Portal.azure.com => microsoft Intra ID
+![](../../Attachements/Pasted%20image%2020251026113840.png)
+add user
+
+![](../../Attachements/Pasted%20image%2020251026113817.png)
