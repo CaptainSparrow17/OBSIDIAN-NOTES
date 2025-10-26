@@ -400,4 +400,6 @@ set owner
 ![](../../Attachements/Pasted%20image%2020251026150948.png)
 
 
-
+### Manage and monitor Microsoft 365 licenses, including group-based licensing
+Go to 
+![](../../Attachements/Pasted%20image%2020251026161136.png)
