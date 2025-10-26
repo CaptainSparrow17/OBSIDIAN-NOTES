@@ -311,3 +311,4 @@ Adding Multiple contact
 
 ###  Concepts of Groups in Azure/Microsoft 365/Entra ID
 This all ties to Entra ID.
+Weather you are talking about azure, ms365, or any cloud services, entra ID is the directory repo where everything like identity groups users are stored. Entra ID formally called azur
