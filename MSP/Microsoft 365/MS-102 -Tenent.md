@@ -325,4 +325,6 @@ The second type of group is a distribution group. This goes back to the exchange
 #### Mail-Enabled Security Groups
 That's number three there. And that group also gets an email address but can also be given permissions to resources. But unlike a Microsoft 365 group, doesn't support all of the crazy features that it does, like creating a team and SharePoint and all of that. Again, we're going to dive deeper into that in a moment, just again giving you an overview.
 
-#### 
+#### Security Groups
+The last one is a security group. Security groups are strictly used for permissions. They uh the big claim to fame for security group is that they can contain users. But one of the big things that it does is you can put devices in this type of group. So it's great for controlling resources. So if you're using something like Microsoft Intune and you need to control what these devices can do and access and you know, for controlling resources with those devices. Security Group is the greatest way to go about it.
+
