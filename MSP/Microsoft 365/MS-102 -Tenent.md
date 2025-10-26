@@ -309,3 +309,5 @@ Can view contact from outlook::
 Adding Multiple contact
 ![](../../Attachements/Pasted%20image%2020251026121545.png)
 
+###  Concepts of Groups in Azure/Microsoft 365/Entra ID
+This all ties to Entra ID.
