@@ -250,3 +250,12 @@ licenses - only from admin
 ![](../../Attachements/Pasted%20image%2020251026104202.png)
 
 Common Identities::
+User Identities::
+![](../../Attachements/Pasted%20image%2020251026110659.png)
+
+Service Principles::
+![](../../Attachements/Pasted%20image%2020251026110727.png)
+
+Managed Identities
+
+![](../../Attachements/Pasted%20image%2020251026110743.png)

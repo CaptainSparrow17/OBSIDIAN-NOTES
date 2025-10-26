@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Entra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,8 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a52206c921365b54",
+  "active": "43b72608027ac199",
   "lastOpenFiles": [
+    "Attachements/Pasted image 20251026110743.png",
+    "Attachements/Pasted image 20251026110727.png",
+    "Attachements/Pasted image 20251026110659.png",
     "MSP/Microsoft 365/Mailing Services.md",
     "MSP/Microsoft 365/MS-102 -Tenent.md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
@@ -204,8 +207,6 @@
     "Attachements/Pasted image 20251015112333.png",
     "Attachements/Pasted image 20251015110649.png",
     "Attachements/Pasted image 20251015110419.png",
-    "Attachements/Pasted image 20251015105528.png",
-    "Attachements/Pasted image 20251015105504.png",
     "2025-10-14 MS-102.md",
     "Untitled.canvas",
     "MSP/AD DS/AD DS.md",
