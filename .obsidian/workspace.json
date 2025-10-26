@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "MSP/Microsoft 365/MS-102 -Tenent.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,6 +192,10 @@
   },
   "active": "43b72608027ac199",
   "lastOpenFiles": [
+    "2025-10-26.md",
+    "MSP/Microsoft 365/Untitled 1.base",
+    "MSP/Microsoft 365/Mailing Services.md",
+    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251026192224.png",
     "Attachements/Pasted image 20251026191820.png",
     "Attachements/Pasted image 20251026191305.png",
@@ -203,11 +206,8 @@
     "Attachements/Pasted image 20251026172445.png",
     "OSCP/7.0 Vulnerability Scanning.md",
     "MSP/Microsoft 365/Untitled.base",
-    "MSP/Microsoft 365/Mailing Services.md",
-    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251026165309.png",
     "Attachements/Pasted image 20251026164150.png",
-    "Attachements/Pasted image 20251026162106.png",
     "Attachements/Identities+in+Microsoft+Entra+ID.pdf",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "2025-10-14 MS-102.md",
@@ -235,7 +235,6 @@
     "LABS/Hack The Box",
     "LABS/Try Hackme",
     "LABS/Untitled 2.md",
-    "Untitled 8",
     "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
     "Untitled 1.md",
