@@ -436,6 +436,7 @@ Get-Service
 EXPLANATION: Lists all services on the local computer along with their statuses.
 
 Get-Service w*
+EXPLANATION: Lists all services on the local computer starting with w
 
 cls
 EXPLANATION: Clear Screen
