@@ -401,5 +401,6 @@ set owner
 
 
 ### Manage and monitor Microsoft 365 licenses, including group-based licensing
-Go to 
+Go to billing, your product, licenses and groups
+and from there we can assign licenses to the groups.
 ![](../../Attachements/Pasted%20image%2020251026161136.png)
