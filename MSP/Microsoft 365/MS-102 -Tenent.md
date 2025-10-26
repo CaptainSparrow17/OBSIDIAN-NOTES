@@ -562,4 +562,11 @@ So we still have we have Microsoft Graph. But there is still the traditional Pow
 #### Setting up for connecting to MS Graph to support cloud services with PowerShell
 Application Programming Interface is Microsoft's newer system for being able to interact with all of the various cloud services that we have out there. One of the problems they had in the past is that they would release a set of commands that would allow you to connect into the cloud and manage those cloud services, but then they would get dated. They would essentially get stale because they would change so much about how things would work that the commands no longer worked. So with Microsoft Graph, that's going to be less of a problem because you're interacting with a live instance of all of the commands and everything that's available out there. And ultimately, this should make it where we don't have to update as often. So the first thing we need to know, though, is if we're going to interact with all the cloud services, we're going to use Microsoft Graph.
 
-First open
+First open powershell as admin and run below command::
+![](../../Attachements/Pasted%20image%2020251026194317.png)
+Always set execution policy to bypass.
+
+Now installing Microsoft Graph Command::
+```
+Install-Module 
+```
