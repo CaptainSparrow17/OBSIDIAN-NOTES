@@ -393,3 +393,7 @@ Okay. So we'll start with looking at how I could create a Microsoft 365 group fi
 add query for dynamic group
 ![](../../Attachements/Pasted%20image%2020251026145515.png)
 
+
+Security Groups::
+New york windows Group => Add all windows device 
+set owner
