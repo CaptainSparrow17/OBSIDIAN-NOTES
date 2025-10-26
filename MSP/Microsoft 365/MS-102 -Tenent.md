@@ -268,3 +268,5 @@ with service principles user need to manage credentials, key, api and all but wi
 Device Identities: called computer account back in days not we use alot devices laptop, mac, android, tablet, and so on.
 ![](../../Attachements/Pasted%20image%2020251026112350.png)
 
+### Creating Users
+Portal.azure.com => 
