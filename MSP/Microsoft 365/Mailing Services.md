@@ -1,4 +1,4 @@
-[  Teach Me Cloud](https://www.youtube.com/@TeachMeCloud)
+https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ms-102[  Teach Me Cloud](https://www.youtube.com/@TeachMeCloud)
 
 https://www.youtube.com/watch?v=jy12bLRluic&list=PLeqch-0_f39EUBFcEVnDmcuyGsamyji0Q&index=32
 
