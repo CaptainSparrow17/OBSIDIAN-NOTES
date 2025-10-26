@@ -261,4 +261,7 @@ Managed Identities
 
 ![](../../Attachements/Pasted%20image%2020251026110743.png)
 
-with service principles user need to manage credentials, key, api and all but with managed identities azure will do everything. 
+with service principles user need to manage credentials, key, api and all but with managed identities azure will do everything. But service principles can be used for external services but managed principles is for azure services..
+
+
+Device Ident
