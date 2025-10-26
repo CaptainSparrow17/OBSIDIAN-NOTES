@@ -414,4 +414,4 @@ Can see individual apps, active users, group activity
 ![](../../Attachements/Pasted%20image%2020251026161737.png)
 
 ### Perform bulk user management
-We gonna do in azure.
+We gonna do in portal.azure.com
