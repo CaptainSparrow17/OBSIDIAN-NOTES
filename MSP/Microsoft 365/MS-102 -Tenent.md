@@ -241,6 +241,7 @@ Don't forget to turn of back up on pay as you go::
 
 Identities - User account/ computer account. Identity is the newer terminology to refer this objects.
 "identities" refers to user accounts and their management, including cloud identities, synchronized identities, and federated identities.
+Entra ID (formerly Azure AD), identities are classified as either human (users like employees and customers) or machine (workloads and devices), and can be internal (e.g., employees) or external (e.g., partners, applications). These identities are used for authentication and authorization to access resources, and Entra ID provides features like user roles, password protection, and single sign-on (SSO) to manage and secure access.
 #Entra ID - Formally Azure AD is the central directory services store
 Identities can be synced with your on premise Active Directory (ADDS)
 
