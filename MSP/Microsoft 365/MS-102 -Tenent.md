@@ -641,3 +641,6 @@ EXPLANATION: Creates a Microsoft 365 Group (not a security group) with mail capa
 New-MgGroupMemberByRef
 EXPLANATION: Adds a member to a group using a reference to the user's object ID (requires more parameters in practice).
 ```
+
+![](../../Attachements/Pasted%20image%2020251026202135.png)
+
