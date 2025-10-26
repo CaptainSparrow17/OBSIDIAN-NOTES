@@ -239,6 +239,6 @@ Don't forget to turn of back up on pay as you go::
 
 # Manage users and groups
 
-Identities - user account/ computer 
+Identities - user account/ computer account. Identity is the newer terminology to refer this objects.
 Entra ID - Formally Azure AD is the central directory services store
 
