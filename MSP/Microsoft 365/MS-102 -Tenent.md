@@ -410,4 +410,8 @@ You gonna see marketplace or purchases from where you can buy the licenses..
 
 USAGES OF LICENSES
 Go to show all Reports=>usages and can see all usage things
-Can see i
+Can see individual apps, active users, group activity
+![](../../Attachements/Pasted%20image%2020251026161737.png)
+
+### Perform bulk user management
+We gonna do in azure.
