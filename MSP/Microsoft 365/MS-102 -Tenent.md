@@ -361,3 +361,5 @@ And assigned group is more of a traditional style of group. You create the group
 
 #### Create and manage groups, including Microsoft 365 groups and shared mailboxes
 admin.microsoft.com
+![](../../Attachements/Pasted%20image%2020251026143653.png)
+
