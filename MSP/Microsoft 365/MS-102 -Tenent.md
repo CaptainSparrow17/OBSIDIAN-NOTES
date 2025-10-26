@@ -421,3 +421,9 @@ So using that template we gonna fill everything and then we gonna do bult create
 
 ![](../../Attachements/Pasted%20image%2020251026164150.png)
 This is how it is done.
+
+Now lets do from Microsoft365 portal
+![](../../Attachements/Pasted%20image%2020251026165309.png)
+The above is how it is done.
+
+### Foundational hands on experience with PowerShell
