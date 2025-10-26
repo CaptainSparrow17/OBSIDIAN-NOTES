@@ -471,6 +471,9 @@ EXPLANATION: Shows all commands that use "net" as the noun (e.g., Get-NetIPConfi
 Get-Command -Noun net*
 EXPLANATION: It shows commands with nouns starting with "net".
 
+Get-Command -Noun *net*
+EXPLANATION: It shows commands with nouns "net".
+
 *Get-Command -Noun net
 EXPLANATION: Lists commands whose noun ends with "net".
 
