@@ -235,3 +235,7 @@ To restore go on Restoration like below::
 ![](../../Attachements/Pasted%20image%2020251015112900.png)
 
 Don't forget to turn of back up on pay as you go::
+
+
+# #### Manage users and groups
+
