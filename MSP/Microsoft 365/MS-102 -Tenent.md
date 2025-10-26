@@ -296,5 +296,7 @@ email: probably use personal personal email, can be used company email aswell
 
 give all user properties and informationn
 
-Imp: If you wanna add guest in admin.microsoft.com, you gonna get redirected 
+Imp: If you wanna add guest in admin.microsoft.com, you gonna get redirected to portal.azure.com
+
+
 
