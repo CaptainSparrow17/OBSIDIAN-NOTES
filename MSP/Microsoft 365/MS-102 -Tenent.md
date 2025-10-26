@@ -522,7 +522,10 @@ EXPLANATION: Temporarily disables script execution restrictions, allowing all sc
 
 
 ### Concepts of using Microsoft Graph with PowerShell management
-Simply put Microsoft Graph is Rest API that can interact with data in microsoft 365 including all apps
+Simply put Microsoft Graph is Rest API that can interact with data in microsoft 365 including all apps, windows, users and all other intitities.
+What type of data? All data exposed or available.
+
+ 
 Microsoft Graph provides APIs to allow us to get this type of data in very secure manner.
 ![](../../Attachements/Pasted%20image%2020251026181632.png)
 
