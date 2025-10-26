@@ -277,4 +277,5 @@ add user
 Create new or invite::
 ![](../../Attachements/Pasted%20image%2020251026113945.png)
 
-Give password or auto
+Give password or auto generate one..
+
