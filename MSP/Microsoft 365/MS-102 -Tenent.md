@@ -292,5 +292,9 @@ invite::
 ![](../../Attachements/Pasted%20image%2020251026120741.png)
 
 email: probably use personal personal email, can be used company email aswell
+![](../../Attachements/Pasted%20image%2020251026120917.png)
+
+give all user properties and informationn
+
 
 
