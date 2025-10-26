@@ -435,6 +435,8 @@ The 50 clicks operation in CLI can be done in a single click.
 Get-Service
 EXPLANATION: Lists all services on the local computer along with their statuses.
 
+Get-Service w*
+
 cls
 EXPLANATION: Clear Screen
 
