@@ -366,4 +366,5 @@ admin.microsoft.com
 admin.micro.com= > did not give options for dynamic griups
 ![](../../Attachements/Pasted%20image%2020251026143854.png)
 
-public group => anyon
+public group => anyone can join without apprtoval
+private => only owner can manage add remove'
