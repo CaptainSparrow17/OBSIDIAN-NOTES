@@ -513,9 +513,7 @@ EXPLANATION: Displays the current script execution policy for PowerShell.
 Set-ExecutionPolicy -ExecutionPolicy Bypass
 EXPLANATION: Temporarily disables script execution restrictions, allowing all scripts to run (use with caution).
 
-
-
-
-
-
 ```
+
+![](../../Attachements/Pasted%20image%2020251026172445.png)
+
