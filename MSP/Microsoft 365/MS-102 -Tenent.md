@@ -320,3 +320,7 @@ Groups Type::
 The Microsoft 365 group, again, is the most common type of group that we use out there. Uh, it can do almost everything in terms of what you would want out of a group. And what do you want out of a group? Well, one of the main things you want out of a group is to be able to group objects together, and then be able to allow them to have access to various types of resources. Uh, and of course, with Microsoft 365 Group, you can do that. It can be associated with teams and SharePoint and all that. So it's a very, very powerful common type of group that everybody uses. There's one thing that a Microsoft 365 group cannot do. It cannot contain device identities. So you can't put device identities in it. If you want to control devices like a desktop machines, laptop, smartphones, tablets, you can't use a Microsoft 365 group. That is what a security group really brings to the table.
 
 #### Distribution Groups
+The second type of group is a distribution group. This goes back to the exchange world where we had distribution lists. This was a group you could create. The group gets an email address and then you can email the group and it goes to every. The email would go to everyone in the group.
+
+#### Mail-Enabled Security Groups
+
