@@ -248,3 +248,5 @@ Identities can be synced with your on premise Active Directory (ADDS)
 can manages same thing from multiple portal but some will work on one portal only
 licenses - only from admin
 ![](../../Attachements/Pasted%20image%2020251026104202.png)
+
+Common Identities::
