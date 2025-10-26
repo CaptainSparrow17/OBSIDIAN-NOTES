@@ -404,3 +404,6 @@ set owner
 Go to billing, your product, licenses and groups
 and from there we can assign licenses to the groups.
 ![](../../Attachements/Pasted%20image%2020251026161136.png)
+Once assigned to a group, all members will get the licenses..
+
+You gonna see marketplace or purchases from where you can b
