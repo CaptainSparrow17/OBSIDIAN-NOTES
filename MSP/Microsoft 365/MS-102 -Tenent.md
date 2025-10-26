@@ -352,3 +352,7 @@ The last one is a security group. Security groups are strictly used for permissi
 
 Now the final group we have is called a security group. So security groups it's primarily going to be used to assign permissions to resources like SharePoint sites apps and Intune policies. Uh it has no email functionality. So you can't email a security group. The big claim to fame. The big thing to remember is that with a security group, not only can you contain users, but you can contain devices. And you'll notice I've highlighted that on the screen for you, because that's a very important key point I want you to remember. So it can support users, devices and service principals for flexible management and all that. It also does support dynamic and assigned rules, meaning you can manually add people to the group, or it can be dynamically managed with what are called dynamic rules.
 
+
+
+#### Assigned vs Dynamic Groups
+![](../../Attachements/Pasted%20image%2020251026142421.png)
