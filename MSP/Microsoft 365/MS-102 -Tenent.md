@@ -301,3 +301,5 @@ Imp: If you wanna add guest in admin.microsoft.com, you gonna get redirected to 
 
 ### Create and manage contacts in the Microsoft 365 admin center
 
+![](../../Attachements/Pasted%20image%2020251026121420.png)
+
