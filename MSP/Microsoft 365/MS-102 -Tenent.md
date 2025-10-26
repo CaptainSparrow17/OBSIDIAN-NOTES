@@ -245,5 +245,5 @@ Entra ID - Formally Azure AD is the central directory services store
 Identities can be synced with your on premise Active Directory (ADDS)
 
 ### The multiple ways to Manage Identities
-can manages same thing from multiple portal but some will work on one portal
+can manages same thing from multiple portal but some will work on one portal only
 licenses - only from admin
