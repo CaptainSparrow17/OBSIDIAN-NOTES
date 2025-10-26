@@ -291,4 +291,6 @@ when creating user in admin.microsoft.com we can assign license..
 invite::
 ![](../../Attachements/Pasted%20image%2020251026120741.png)
 
-email: pro
+email: probably use personal personal email, can be used company email aswell
+
+
