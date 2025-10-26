@@ -570,3 +570,7 @@ Now installing Microsoft Graph Command::
 ```
  Install-Module Microsoft.Graph -Scope CurrentUser -Repository PSGallery -Force
 ```
+
+![](../../Attachements/Pasted%20image%2020251026201123.png)
+
+The next thing would be how we actually connect to Microsoft Graph.
