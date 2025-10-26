@@ -287,4 +287,8 @@ user type: Guest or Member = guest is guest. member is user of orgn
 when creating user in admin.microsoft.com we can assign license..
 ![](../../Attachements/Pasted%20image%2020251026115854.png)
 
-### Create and manage 
+### Create and manage external users in Microsoft Entra
+invite::
+![](../../Attachements/Pasted%20image%2020251026120741.png)
+
+email: pro
