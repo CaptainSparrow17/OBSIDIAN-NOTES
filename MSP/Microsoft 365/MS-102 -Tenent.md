@@ -329,12 +329,20 @@ But anyway, Microsoft 365 groups. These are collaboration ready groups. They wil
 It also supports guest access so external users can be added to communicate and utilize this group. And it supports what is known as dynamic or assigned, which involves you can manually put people in the group, or you can also handle it automatically using what are called dynamic rules, which towards the end of this little video I'm going to explain that a little bit better. So if you don't really understand the difference between dynamic and assigned, stay tuned okay.
 
 #### Distribution Groups
+
+![](../../Attachements/Pasted%20image%2020251026142124.png)
+
 The second type of group is a distribution group. This goes back to the exchange world where we had distribution lists. This was a group you could create. The group gets an email address and then you can email the group and it goes to every. The email would go to everyone in the group.
 
 The second type of group is a distribution group. So a distribution group has an email only functionality. It's meant to sort of be like a distribution list meaning you create a group. It gets an email address. So for example, if I created a group called marketing, uh, that was a distribution group, it would get an email address like marketing at exam lab practice.com. Anybody that you put in the group, if somebody emails marketing and exam lab practice com the email would go out to everybody in the group. Okay. Keep in mind a Microsoft 365 group can do that as well, but a lot more so distribution groups are kind of an older type of group. They've been around forever. Going back to the exchange you know early days of exchange. Um, back when it was called a distribution list and all that. It's you have what's called manual or dynamic. So sort of the same idea as what you saw with dynamic or assigned. The manual dynamic means you can statically put people in the group, or it can be dynamically controlled based on filters. So it's a little different than this idea of what we have Microsoft 365 dynamic, but it's the same basic concept. You can automate membership of the group. Okay. You have an internal communication primarily intended for internal announcements or department wide emails. Uh, the big thing that you can't do with the distribution group, the key thing to remember here it doesn't have access control to anything. You cannot assign permissions to resources like SharePoint or teams or any of that, so can't be used for that sort of thing.
 
 #### Mail-Enabled Security Groups
+
+![](../../Attachements/Pasted%20image%2020251026142147.png)
+
 That's number three there. And that group also gets an email address but can also be given permissions to resources. But unlike a Microsoft 365 group, doesn't support all of the crazy features that it does, like creating a team and SharePoint and all of that. Again, we're going to dive deeper into that in a moment, just again giving you an overview.
+
+
 
 #### Security Groups
 The last one is a security group. Security groups are strictly used for permissions. They uh the big claim to fame for security group is that they can contain users. But one of the big things that it does is you can put devices in this type of group. So it's great for controlling resources. So if you're using something like Microsoft Intune and you need to control what these devices can do and access and you know, for controlling resources with those devices. Security Group is the greatest way to go about it.
