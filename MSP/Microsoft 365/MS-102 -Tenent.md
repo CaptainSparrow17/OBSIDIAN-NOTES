@@ -397,3 +397,5 @@ add query for dynamic group
 Security Groups::
 New york windows Group => Add all windows device 
 set owner
+![](../../Attachements/Pasted%20image%2020251026150744.png)
+
