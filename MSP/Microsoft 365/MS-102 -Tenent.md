@@ -429,4 +429,10 @@ The above is how it is done.
 ### Foundational hands on experience with PowerShell
 Why do i wanna do with command if i can do it in CLI.
 Bcoz powershell is fast and can do automation easily..
-The 50 clicks operation in CLI can be done in a single cli
+The 50 clicks operation in CLI can be done in a single click.
+
+```Power Shell
+
+
+
+```

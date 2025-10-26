@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Microsoft 365/Mailing Services.md",
+                "file": "OSCP/7.0 Vulnerability Scanning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mailing Services"
+              "title": "7.0 Vulnerability Scanning"
             }
           },
           {
@@ -193,6 +193,10 @@
   },
   "active": "43b72608027ac199",
   "lastOpenFiles": [
+    "OSCP/7.0 Vulnerability Scanning.md",
+    "MSP/Microsoft 365/Untitled.base",
+    "MSP/Microsoft 365/Mailing Services.md",
+    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251026165309.png",
     "Attachements/Pasted image 20251026164150.png",
     "Attachements/Pasted image 20251026162106.png",
@@ -203,15 +207,11 @@
     "Attachements/Pasted image 20251026145515.png",
     "Attachements/Pasted image 20251026145109.png",
     "Attachements/Pasted image 20251026144816.png",
-    "Attachements/Pasted image 20251026144308.png",
     "Attachements/Identities+in+Microsoft+Entra+ID.pdf",
-    "MSP/Microsoft 365/Mailing Services.md",
-    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "2025-10-14 MS-102.md",
     "Untitled.canvas",
     "MSP/AD DS/AD DS.md",
-    "OSCP/7.0 Vulnerability Scanning.md",
     "MSP/AD DS",
     "MSP/Untitled/Untitled",
     "MSP/Microsoft 365",
@@ -238,7 +238,6 @@
     "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
     "Untitled 1.md",
-    "CYBERSECURITY/convert_images.ps1",
     "Untitled 8.md"
   ]
 }
