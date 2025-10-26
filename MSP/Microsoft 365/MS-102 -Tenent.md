@@ -241,7 +241,7 @@ Don't forget to turn of back up on pay as you go::
 
 Identities - User account/ computer account. Identity is the newer terminology to refer this objects.
 "identities" refers to user accounts and their management, including cloud identities, synchronized identities, and federated identities.
-Entra ID - Formally Azure AD is the central directory services store
+#Entra ID - Formally Azure AD is the central directory services store
 Identities can be synced with your on premise Active Directory (ADDS)
 
 ### The multiple ways to Manage Identities

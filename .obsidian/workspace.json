@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Entra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -190,7 +191,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "43b72608027ac199",
+  "active": "a52206c921365b54",
   "lastOpenFiles": [
     "MSP/Microsoft 365/Mailing Services.md",
     "MSP/Microsoft 365/MS-102 -Tenent.md",
