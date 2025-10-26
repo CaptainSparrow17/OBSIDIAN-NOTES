@@ -459,7 +459,7 @@ EXPLANATION: Displays a list of all currently running processes on the local mac
 Get-Process -ComputerName CLIENT10,CLIENT11,CLIENT12 | Out-File c:\clientprocesses.txt
 EXPLANATION: Gets the running processes from three remote computers and saves the output to a text file.
 
-Get-Command
+Get-Command => Gives all commands powershell supports
 EXPLANATION: Lists all available cmdlets, functions, workflows, aliases, and external commands.
 
 Get-Command -Verb Get
