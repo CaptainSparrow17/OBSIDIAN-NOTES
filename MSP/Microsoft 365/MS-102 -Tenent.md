@@ -694,3 +694,5 @@ Roles Setting has all other info which we can edit.
 
 Before assigning roles always check it..
 
+## Manage roles/role groups in MS Defender XDR, MS Purview, and Microsoft 365
+admin.microsoft.com
