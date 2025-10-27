@@ -701,3 +701,7 @@ The above roles are same like in portal.azure.com
 ![](../../Attachements/Pasted%20image%2020251027122854.png)
 like this below for all info: below list is long. below is just few parts
 ![](../../Attachements/Pasted%20image%2020251027122918.png)
+
+The below are role specific to intra ID, Exchange, Intune , Billing and so on
+![](../../Attachements/Pasted%20image%2020251027141140.png)
+
