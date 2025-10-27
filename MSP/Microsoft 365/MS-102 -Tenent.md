@@ -644,10 +644,11 @@ EXPLANATION: Adds a member to a group using a reference to the user's object ID 
 
 ![](../../Attachements/Pasted%20image%2020251026202135.png)
 
-Got error for 
+Got error for Get-MgSubscribedSku
 Yeah so the minimum permission/scope you need to call connect with in order just to perform GET is Directory.Read.All the most is Organisation.Read.All if you start modifying things with a SET command then you'd need to connect with at a minimum Directory.ReadWrite.All.
 
 So, you need to call connect-MGGraph like this in order to have the correct permissions for the command you said:
 
 Connect-MGGraph -scopes Directory.Read.All
-This commands saved me
+This commands saved me..
+
