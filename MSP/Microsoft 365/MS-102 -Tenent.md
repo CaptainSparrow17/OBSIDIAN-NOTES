@@ -688,3 +688,7 @@ roles and admin like below
 Global Administrator => Highest level
 Assignment:: Who all are assigned
 ![](../../Attachements/Pasted%20image%2020251027121730.png)
+
+Roles Setting has all other info which we can edit.
+![](../../Attachements/Pasted%20image%2020251027121838.png)
+
