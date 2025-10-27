@@ -667,3 +667,8 @@ Azure Rbac based roles.
 ## Microsoft 365 Roles
 ![](../../Attachements/Pasted%20image%2020251027115702.png)
 
+
+## Principle of Least Privilege
+![](../../Attachements/Pasted%20image%2020251027115836.png)
+You know, you've heard the principle of least privilege. You've heard me say that already. So what exactly is it in a little bit more depth? Well, the principle of least privilege is to give out the least amount of rights, but still provide users the ability to do their job. So whatever tasks somebody needs to perform, okay, if you're again, if you're talking about maybe you have somebody that's managing a VM in Azure, okay. Or maybe you have somebody that's managing exchange in Microsoft 365, you would consider giving out the least amount of rights to let them do their job. You don't want to make them a global admin if they don't need that level of privileges for exchange, I might say, okay, well, your exchange admin for teams, your teams, admin and so on and so forth. Okay, for a VM, I might give ownership to just that one VM. So Microsoft always encourages this principle.
+
