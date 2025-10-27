@@ -684,3 +684,5 @@ Go to portal.azure.com
 Microsoft Enntra ID
 roles and admin like below
 ![](../../Attachements/Pasted%20image%2020251027121434.png)
+
+Global Administrator => Highest level
