@@ -686,3 +686,5 @@ roles and admin like below
 ![](../../Attachements/Pasted%20image%2020251027121434.png)
 
 Global Administrator => Highest level
+Assignment:: Who all are assigned
+![](../../Attachements/Pasted%20image%2020251027121730.png)
