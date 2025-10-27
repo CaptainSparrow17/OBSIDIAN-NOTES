@@ -680,3 +680,7 @@ This junior level admin is not somebody that I'm giving a lot of control over to
 ![](../../Attachements/Pasted%20image%2020251027120421.png)
 
 ## Implement and manage roles in Microsoft Entra
+Go to portal.azure.com
+Microsoft Enntra ID
+roles and admin like below
+![](../../Attachements/Pasted%20image%2020251027121434.png)
