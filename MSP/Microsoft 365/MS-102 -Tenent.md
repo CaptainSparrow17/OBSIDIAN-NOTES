@@ -603,7 +603,7 @@ EXPLANATION: Retrieves a list of all user accounts in Microsoft Entra ID (former
 New-MgUser -AccountEnabled:$true -DisplayName "Justin Blakely" -MailNickname "justinblakely" -UserPrincipalName "justinblakely@examlabpractice.com" -PasswordProfile @{ ForceChangePasswordNextSignIn = $true; Password = "P@ssword123!" }
 EXPLANATION: Creates a new Entra ID user with the specified display name, login details, and a temporary password that must be changed at first sign-in.
 
-Remove-MgUser -UserId (Get-MgUser -Filter "userPrincipalName eq 'justinblakely@examlabpractice.com'").Id -Confirm:$false
+Remove-MgUser -UserId (Get-MgUser -Filter "userPrincipalName eq 'justinblakely@atishojha.com.np'").Id -Confirm:$false
 EXPLANATION: Delete the user name Justin Blakeyly
 
 Create a users.csv file:
