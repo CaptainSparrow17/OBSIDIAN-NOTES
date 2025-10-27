@@ -665,3 +665,5 @@ Azure Rbac based roles.
 ![](../../Attachements/Pasted%20image%2020251027115538.png)
 
 ## Microsoft 365 Roles
+![](../../Attachements/Pasted%20image%2020251027115702.png)
+
