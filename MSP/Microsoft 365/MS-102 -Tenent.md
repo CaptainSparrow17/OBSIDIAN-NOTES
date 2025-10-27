@@ -663,3 +663,5 @@ Azure Rbac based roles.
 
 ## Entra Id Roles (Formally Azure AD)
 ![](../../Attachements/Pasted%20image%2020251027115538.png)
+
+## Microsoft 365 Roles
