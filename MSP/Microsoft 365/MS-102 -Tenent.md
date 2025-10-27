@@ -652,3 +652,4 @@ So, you need to call connect-MGGraph like this in order to have the correct perm
 Connect-MGGraph -scopes Directory.Read.All
 This commands saved me..
 
+Section 5: Manage 
