@@ -717,4 +717,5 @@ Shows various role::
 admin.micro.com
 ![](../../Attachements/Pasted%20image%2020251027145854.png)
 
+we can view rule::
 
