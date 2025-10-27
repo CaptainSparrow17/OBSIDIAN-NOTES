@@ -654,3 +654,4 @@ This commands saved me..
 
 # Section 5: Manage roles and rols groups
 ## Concepts of roles in Microsoft 365 and Microsoft Entra
+![](../../Attachements/Pasted%20image%2020251027112718.png)
