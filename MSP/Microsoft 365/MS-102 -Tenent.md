@@ -705,5 +705,9 @@ like this below for all info: below list is long. below is just few parts
 The below are role specific to intra ID, Exchange, Intune , Billing and so on
 ![](../../Attachements/Pasted%20image%2020251027141140.png)
 
+
+Defender/security
 admin.microsoft.com => go to security, this gonna open new tab
 Then go to Permission blade like below:
+![](../../Attachements/Pasted%20image%2020251027145652.png)
+Shows various role::
