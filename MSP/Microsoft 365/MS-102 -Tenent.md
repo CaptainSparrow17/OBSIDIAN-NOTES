@@ -696,3 +696,5 @@ Before assigning roles always check it..
 
 ## Manage roles/role groups in MS Defender XDR, MS Purview, and Microsoft 365
 admin.microsoft.com
+![](../../Attachements/Pasted%20image%2020251027122718.png)
+The above roles are s
