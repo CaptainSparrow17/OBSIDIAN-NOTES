@@ -679,3 +679,4 @@ This junior level admin is not somebody that I'm giving a lot of control over to
 ## Summary::
 ![](../../Attachements/Pasted%20image%2020251027120421.png)
 
+## Implement and manage roles in Microsoft Entra
