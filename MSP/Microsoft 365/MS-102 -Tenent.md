@@ -729,3 +729,6 @@ If you wanna assign this role to anyone select role and edit and assign roles.
 #### Why AU?
 ![](../../Attachements/Pasted%20image%2020251027150414.png)
 
+#### Common Use Cases
+![](../../Attachements/Pasted%20image%2020251027150635.png)
+
