@@ -720,4 +720,6 @@ admin.micro.com
 we can view rule::
 ![](../../Attachements/Pasted%20image%2020251027150053.png)
 
+If you wanna assign this role to anyone select role and edit and assign roles.
 
+## Concepts of delegation by administrative units
