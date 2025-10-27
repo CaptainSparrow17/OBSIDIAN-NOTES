@@ -725,3 +725,7 @@ If you wanna assign this role to anyone select role and edit and assign roles.
 ## Concepts of delegation by administrative units
 ![](../../Attachements/Pasted%20image%2020251027150319.png)
 
+
+#### Why AU?
+![](../../Attachements/Pasted%20image%2020251027150414.png)
+
