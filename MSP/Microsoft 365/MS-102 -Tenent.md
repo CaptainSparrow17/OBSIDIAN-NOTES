@@ -656,3 +656,6 @@ This commands saved me..
 ## Concepts of roles in Microsoft 365 and Microsoft Entra
 ![](../../Attachements/Pasted%20image%2020251027112718.png)
 
+
+Azure Rbac based roles.
+![](../../Attachements/Pasted%20image%2020251027113805.png)
