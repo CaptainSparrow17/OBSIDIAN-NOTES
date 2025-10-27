@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OSCP/7.0 Vulnerability Scanning.md",
+                "file": "MSP/Microsoft 365/MS-102 -Tenent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.0 Vulnerability Scanning"
+              "title": "MS-102 -Tenent"
+            }
+          },
+          {
+            "id": "292b26343f43319a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSP/Microsoft 365/To Study.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "To Study"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,9 +190,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2e95276b132fcf",
+  "active": "292b26343f43319a",
   "lastOpenFiles": [
     "MSP/Microsoft 365/MS-102 -Tenent.md",
+    "MSP/Microsoft 365/To Study.md",
+    "MSP/Microsoft 365/Untitled",
+    "MSP/Microsoft 365/Mailing Services.md",
+    "OSCP/7.0 Vulnerability Scanning.md",
+    "MSP/Microsoft 365/Untitled 1.base",
+    "MSP/Microsoft 365/Untitled.base",
     "Attachements/Pasted image 20251027113805.png",
     "Attachements/Pasted image 20251027112718.png",
     "Attachements/Pasted image 20251026202135.png",
@@ -186,13 +207,9 @@
     "Attachements/Pasted image 20251026194317.png",
     "Attachements/Pasted image 20251026192831.png",
     "2025-10-26.md",
-    "MSP/Microsoft 365/Untitled 1.base",
-    "MSP/Microsoft 365/Mailing Services.md",
     "Attachements/Pasted image 20251026192224.png",
     "Attachements/Pasted image 20251026191820.png",
     "Attachements/Pasted image 20251026191305.png",
-    "OSCP/7.0 Vulnerability Scanning.md",
-    "MSP/Microsoft 365/Untitled.base",
     "Attachements/Identities+in+Microsoft+Entra+ID.pdf",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
     "2025-10-14 MS-102.md",
@@ -218,7 +235,6 @@
     "Attachements/Untitled 1.md",
     "amazon.md",
     "LABS/Hack The Box",
-    "LABS/Try Hackme",
     "LABS/Untitled 2.md",
     "CYBERSECURITY/TryHackMe Advent 2024.md",
     "CYBERSECURITY/DNS in Detail - THM.md",
