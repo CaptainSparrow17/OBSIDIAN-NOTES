@@ -692,4 +692,5 @@ Assignment:: Who all are assigned
 Roles Setting has all other info which we can edit.
 ![](../../Attachements/Pasted%20image%2020251027121838.png)
 
-Before assigning r
+Before assigning roles always check it..
+
