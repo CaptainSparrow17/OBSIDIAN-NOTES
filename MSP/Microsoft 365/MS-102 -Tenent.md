@@ -659,3 +659,7 @@ This commands saved me..
 
 Azure Rbac based roles.
 ![](../../Attachements/Pasted%20image%2020251027113805.png)
+
+
+## Entra Id Roles (Formally Azure AD)
+![](../../Attachements/Pasted%20image%2020251027115538.png)

@@ -1,2 +1,2 @@
 Resource groups
-Access a
+Access and maintain share point
