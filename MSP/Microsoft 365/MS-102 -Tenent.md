@@ -718,4 +718,6 @@ admin.micro.com
 ![](../../Attachements/Pasted%20image%2020251027145854.png)
 
 we can view rule::
+![](../../Attachements/Pasted%20image%2020251027150053.png)
+
 
