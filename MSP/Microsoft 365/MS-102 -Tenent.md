@@ -724,6 +724,7 @@ Now if you click on email colaboration it shows all the role specific to this:
 admin.micro.com
 ![](../../Attachements/Pasted%20image%2020251027145854.png)
 
+this will opwn 
 we can view rule::
 ![](../../Attachements/Pasted%20image%2020251027150053.png)
 
