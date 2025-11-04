@@ -717,7 +717,7 @@ Then go to Permission blade like below:
 ![](../../Attachements/Pasted%20image%2020251027145652.png)
 Shows various role:: specific for XDR, endpoint role and so on and email coloboration role and so on
 ![](../../Attachements/Pasted%20image%2020251027145752.png)
-
+Now if you click on email colaboration it shows all the 
 ## Ms Perview = complaince side
 admin.micro.com
 ![](../../Attachements/Pasted%20image%2020251027145854.png)
