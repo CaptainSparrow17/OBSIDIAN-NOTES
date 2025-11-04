@@ -737,6 +737,8 @@ we can view role group as well::
 ![](../../Attachements/Pasted%20image%2020251027150053.png)
 
 If you wanna assign this role to anyone select role and edit and assign roles.
+![](../../Attachements/Pasted%20image%2020251104111604.png)
+
 
 ## Concepts of delegation by administrative units
 ![](../../Attachements/Pasted%20image%2020251027150319.png)
