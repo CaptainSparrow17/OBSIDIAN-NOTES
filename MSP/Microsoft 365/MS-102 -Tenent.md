@@ -715,7 +715,7 @@ Then in this tab you can add and do all the things you like:
 admin.microsoft.com => go to security, this gonna open new tab
 Then go to Permission blade like below:
 ![](../../Attachements/Pasted%20image%2020251027145652.png)
-Shows various role::
+Shows various role:: specific for XDR, endpoint role and so on and email coloboration role and so on
 ![](../../Attachements/Pasted%20image%2020251027145752.png)
 
 ## Ms Perview = complaince side
