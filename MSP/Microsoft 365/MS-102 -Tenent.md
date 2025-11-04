@@ -705,6 +705,11 @@ like this below for all info: below list is long. below is just few parts
 The below are role specific to intra ID, Exchange, Intune , Billing and so on
 ![](../../Attachements/Pasted%20image%2020251027141140.png)
 
+If you ant any role like share point role search like this and you gonna find all roles::
+![](../../Attachements/Pasted%20image%2020251104110023.png)
+Then in this tab you can add and do all the things you like:
+![](../../Attachements/Pasted%20image%2020251104110108.png)
+
 
 ## Defender/security
 admin.microsoft.com => go to security, this gonna open new tab
@@ -712,11 +717,6 @@ Then go to Permission blade like below:
 ![](../../Attachements/Pasted%20image%2020251027145652.png)
 Shows various role::
 ![](../../Attachements/Pasted%20image%2020251027145752.png)
-If you ant any role like share point role search like this and you gonna find all roles::
-![](../../Attachements/Pasted%20image%2020251104110023.png)
-Then in this tab you can add and do all the things you like:
-![](../../Attachements/Pasted%20image%2020251104110108.png)
-
 
 ## Ms Perview = complaince side
 admin.micro.com
