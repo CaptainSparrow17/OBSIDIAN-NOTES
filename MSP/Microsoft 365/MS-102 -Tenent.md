@@ -729,6 +729,9 @@ this will opwn purview.microsoft.com
 And when we click solutions like above we gonne see all roles::
 the roles we gonna see once click solution is above:
 
+Then click on setting, we gonna see various roles for purview:
+![](../../Attachements/Pasted%20image%2020251104111146.png)
+
 
 we can view rule::
 ![](../../Attachements/Pasted%20image%2020251027150053.png)
