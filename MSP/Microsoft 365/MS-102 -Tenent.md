@@ -714,6 +714,9 @@ Shows various role::
 ![](../../Attachements/Pasted%20image%2020251027145752.png)
 If you ant any role like share point role search like this and you gonna find all roles::
 ![](../../Attachements/Pasted%20image%2020251104110023.png)
+Then in this tab you can add and do all the things you like:
+![](../../Attachements/Pasted%20image%2020251104110108.png)
+
 
 ## Ms Perview = complaince side
 admin.micro.com
