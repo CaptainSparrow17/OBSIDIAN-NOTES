@@ -712,6 +712,8 @@ Then go to Permission blade like below:
 ![](../../Attachements/Pasted%20image%2020251027145652.png)
 Shows various role::
 ![](../../Attachements/Pasted%20image%2020251027145752.png)
+If you ant any role like share point role search like this and you gonna find all roles::
+![](../../Attachements/Pasted%20image%2020251104110023.png)
 
 ## Ms Perview = complaince side
 admin.micro.com
