@@ -733,7 +733,7 @@ Then click on setting, we gonna see various roles for purview:
 ![](../../Attachements/Pasted%20image%2020251104111146.png)
 
 
-we can view rule::
+we can view role group as well::
 ![](../../Attachements/Pasted%20image%2020251027150053.png)
 
 If you wanna assign this role to anyone select role and edit and assign roles.
