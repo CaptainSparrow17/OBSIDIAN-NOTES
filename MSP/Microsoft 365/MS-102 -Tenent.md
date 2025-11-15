@@ -750,3 +750,5 @@ If you wanna assign this role to anyone select role and edit and assign roles.
 #### Common Use Cases
 ![](../../Attachements/Pasted%20image%2020251027150635.png)
 
+Key Features:
+![](../../Attachements/Pasted%20image%2020251115094142.png)
