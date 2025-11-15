@@ -805,3 +805,6 @@ Key Features
 
 Roles Required for managing PIM
 ![](../../Attachements/Pasted%20image%2020251115164107.png)
+Terminology::
+![](../../Attachements/Pasted%20image%2020251115164220.png)
+More Terminology::
