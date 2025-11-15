@@ -773,4 +773,5 @@ Its also called admin Unit::
 Membership can be assigned or dynamic:
 ![](../../Attachements/Pasted%20image%2020251115102502.png)
 
-Users and groups are all members that falls 
+Users and groups and devices are all members that falls in the AU
+Roles and admin are people that can manage the above user device and devices.
