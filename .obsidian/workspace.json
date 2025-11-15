@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "MS-102 -Tenent"
             }
+          },
+          {
+            "id": "c80d1b6054c793a6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b6973e20fb6d63c",
+  "active": "c80d1b6054c793a6",
   "lastOpenFiles": [
     "Attachements/Pasted image 20251104111604.png",
     "Attachements/Pasted image 20251104111146.png",
