@@ -789,4 +789,5 @@ Then only Shyam can do User Admin task on this AU, Ram cannot
 See below for example:: scope, directory and new york
 ![](../../Attachements/Pasted%20image%2020251115114018.png)
 
-In AU users can be added 
+In AU users can be added using dynamic quries also like below:
+![](../../Attachements/Pasted%20image%2020251115114138.png)
