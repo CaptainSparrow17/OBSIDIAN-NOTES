@@ -777,4 +777,5 @@ Users and groups and devices are all members that falls in the AU
 Roles and admin are people that can manage the above user device and devices.
 IMP= whenever you add groups, you can manage the groups only not the members of the groups. You cannot manage members of the Groups.
 
-
+In above users, you can add users on the AU.
+Then go to roles and administratives, select roles and give it to the user/users. Then they can perform that roles. Like Finance team r
