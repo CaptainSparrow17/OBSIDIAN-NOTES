@@ -795,6 +795,9 @@ In AU users can be added using dynamic quries also like below:
 ### Privileged Identity Management (PIM)
 ![](../../Attachements/Pasted%20image%2020251115160348.png)
 
+Licenses::
+![](../../Attachements/Pasted%20image%2020251115160639.png)
+
 
 
 Key Features
