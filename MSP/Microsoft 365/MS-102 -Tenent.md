@@ -752,3 +752,5 @@ If you wanna assign this role to anyone select role and edit and assign roles.
 
 Key Features:
 ![](../../Attachements/Pasted%20image%2020251115094142.png)
+License Requirements for AU
+![](../../Attachements/Pasted%20image%2020251115094352.png)
