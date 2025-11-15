@@ -758,4 +758,8 @@ License Requirements for AU
 #### Manage delegation by using administrative units
 Can be done in entra.microsoft.com
 or
-admin.microsoft.co
+admin.microsoft.com
+or
+portal.azure.com
+In the end it end up in Azure AD(Entra ID)
+
