@@ -810,3 +810,5 @@ Terminology::
 More Terminology::
 ![](../../Attachements/Pasted%20image%2020251115164326.png)
 
+### Manage Microsoft Entra roles in Entra privileged identity management (PIM)
+portal.azure.com
