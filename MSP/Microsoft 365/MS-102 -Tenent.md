@@ -768,3 +768,5 @@ If we give any role in Role and Assignment, the role applies to WHOLE TENANT.
 
 Go to Add AU, give Name
 ![](../../Attachements/Pasted%20image%2020251115094738.png)
+Its also called admin Unit::
+![](../../Attachements/Pasted%20image%2020251115102314.png)
