@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "MS-102 -Tenent"
             }
-          },
-          {
-            "id": "c80d1b6054c793a6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,8 +204,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b6973e20fb6d63c",
+  "active": "292b26343f43319a",
   "lastOpenFiles": [
+    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251104111604.png",
     "Attachements/Pasted image 20251104111146.png",
     "Attachements/Pasted image 20251104110955.png",
@@ -225,12 +214,10 @@
     "Attachements/Pasted image 20251104110108.png",
     "Attachements/Pasted image 20251104110023.png",
     "MSP/Microsoft 365/To Study.md",
-    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251027150635.png",
     "Attachements/Pasted image 20251027150414.png",
     "Attachements/Pasted image 20251027150319.png",
     "Attachements/Pasted image 20251027150053.png",
-    "Attachements/Pasted image 20251027145854.png",
     "MSP/Microsoft 365/Untitled",
     "MSP/Microsoft 365/Mailing Services.md",
     "OSCP/7.0 Vulnerability Scanning.md",
