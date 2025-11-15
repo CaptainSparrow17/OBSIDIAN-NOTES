@@ -757,6 +757,7 @@ License Requirements for AU
 
 #### Manage delegation by using administrative units
 Can be done in entra.microsoft.com
+![](../../Attachements/Pasted%20image%2020251115113904.png)
 or
 admin.microsoft.com
 or
