@@ -780,3 +780,6 @@ IMP= whenever you add groups, you can manage the groups only not the members of 
 In above users, you can add users on the AU.
 Then go to roles and administratives, select roles and give it to the user/users. Then they can perform that roles. Like Finance team resetting finances passwords.
 
+Restrictive
+![](../../Attachements/Pasted%20image%2020251115113206.png)
+Yes= suppore Ram is user admin of whole Tenant and 
