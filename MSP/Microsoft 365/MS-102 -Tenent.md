@@ -762,6 +762,7 @@ admin.microsoft.com
 or
 portal.azure.com
 In the end it end up in Azure AD(Entra ID)
+![](../../Attachements/Pasted%20image%2020251115113829.png)
 
 If we give any role in Role and Assignment, the role applies to WHOLE TENANT.
 
