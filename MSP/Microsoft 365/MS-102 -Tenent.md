@@ -808,3 +808,5 @@ Roles Required for managing PIM
 Terminology::
 ![](../../Attachements/Pasted%20image%2020251115164220.png)
 More Terminology::
+![](../../Attachements/Pasted%20image%2020251115164326.png)
+
