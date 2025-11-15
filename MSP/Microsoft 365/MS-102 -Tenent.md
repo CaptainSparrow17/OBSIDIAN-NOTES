@@ -791,3 +791,5 @@ See below for example:: scope, directory and new york
 
 In AU users can be added using dynamic quries also like below:
 ![](../../Attachements/Pasted%20image%2020251115114138.png)
+
+### Privileged I
