@@ -763,3 +763,8 @@ or
 portal.azure.com
 In the end it end up in Azure AD(Entra ID)
 
+
+
+
+Go to Add AU, give Name
+![](../../Attachements/Pasted%20image%2020251115094738.png)
