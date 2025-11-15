@@ -754,3 +754,8 @@ Key Features:
 ![](../../Attachements/Pasted%20image%2020251115094142.png)
 License Requirements for AU
 ![](../../Attachements/Pasted%20image%2020251115094352.png)
+
+#### Manage delegation by using administrative units
+Can be done in entra.microsoft.com
+or
+admin.microsoft.co
