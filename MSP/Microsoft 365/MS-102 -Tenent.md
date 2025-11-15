@@ -770,3 +770,7 @@ Go to Add AU, give Name
 ![](../../Attachements/Pasted%20image%2020251115094738.png)
 Its also called admin Unit::
 ![](../../Attachements/Pasted%20image%2020251115102314.png)
+Membership can be assigned or dynamic:
+![](../../Attachements/Pasted%20image%2020251115102502.png)
+
+Users and groups are all members that falls 
