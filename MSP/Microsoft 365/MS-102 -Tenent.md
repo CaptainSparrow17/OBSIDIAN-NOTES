@@ -763,7 +763,7 @@ or
 portal.azure.com
 In the end it end up in Azure AD(Entra ID)
 
-
+If we give any role in Role and Assignment, the role applies to WHOLE TENANT.
 
 
 Go to Add AU, give Name
