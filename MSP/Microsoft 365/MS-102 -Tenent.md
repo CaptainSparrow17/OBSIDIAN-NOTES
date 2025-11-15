@@ -802,3 +802,6 @@ Licenses::
 
 Key Features
 ![](../../Attachements/Pasted%20image%2020251115160318.png)
+
+Roles Required for managing PIM
+![](../../Attachements/Pasted%20image%2020251115164107.png)
