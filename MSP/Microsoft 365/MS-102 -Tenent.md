@@ -775,3 +775,4 @@ Membership can be assigned or dynamic:
 
 Users and groups and devices are all members that falls in the AU
 Roles and admin are people that can manage the above user device and devices.
+IMP= whenever you add groups, you can manage the groups only not the members of the groups.
