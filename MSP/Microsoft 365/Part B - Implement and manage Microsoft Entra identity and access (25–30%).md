@@ -96,5 +96,8 @@ Federate can be used in compliance issue company.
 	in federate password will only be at domain controller on prem and authentication is made without microsoft having passsword
 ADFS server will be there in domain controller in case of ADFS
 
+Firewall ISSSUE IN ADFS
+
+
 
 ##### ENTRA CLOUD SYNC
