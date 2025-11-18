@@ -68,4 +68,4 @@ PASS-THrough Authenticatin (PTA)
 
 ### Enable Single Sign-On options
 ![](../../Attachements/Pasted%20image%2020251118105628.png)
-
+When logged on in the Domain, will be logged in cloud aswell.
