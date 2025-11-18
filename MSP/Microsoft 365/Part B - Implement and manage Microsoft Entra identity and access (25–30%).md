@@ -126,3 +126,4 @@ Uh, and then so what happens if you make a change to something on your domain co
 
 Likewise cloud sync has automatic redundancy, if main server breaks automatic second server acts as main server unlike connect sync.
 
+#### Prepare for identity synchronization, including IdFix
