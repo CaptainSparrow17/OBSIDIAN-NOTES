@@ -179,3 +179,4 @@ Select next next next
 ![](../../Attachements/Pasted%20image%2020251118143018.png)
 It will ask weather to sync all domain and OU but we gonna select only one OU
 ![](../../Attachements/Pasted%20image%2020251118143055.png)
+Then select below::
