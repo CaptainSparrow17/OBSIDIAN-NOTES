@@ -49,8 +49,7 @@
               "title": "To Study"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b6973e20fb6d63c",
+  "active": "6fc48a62783e1edb",
   "lastOpenFiles": [
+    "MSP/Microsoft 365/To Study.md",
     "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251115164326.png",
     "Attachements/Pasted image 20251115164220.png",
@@ -217,7 +217,6 @@
     "Attachements/Pasted image 20251115114018.png",
     "Attachements/Pasted image 20251115113904.png",
     "Attachements/Pasted image 20251115113829.png",
-    "MSP/Microsoft 365/To Study.md",
     "MSP/Microsoft 365/Untitled",
     "MSP/Microsoft 365/Mailing Services.md",
     "OSCP/7.0 Vulnerability Scanning.md",
