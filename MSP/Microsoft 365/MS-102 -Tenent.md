@@ -822,5 +822,9 @@ And can see the roles of various kind:
 Below on left side you can see:
 My request, Approve requests and Review Access::
 My request=request i made
-Approve=To approve 
+Approve=To approve any request made by other
 ![](../../Attachements/Pasted%20image%2020251118094540.png)
+
+Microsoft Entra Roles::
+![](../../Attachements/Pasted%20image%2020251118094644.png)
+
