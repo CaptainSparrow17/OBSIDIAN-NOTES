@@ -172,5 +172,6 @@ Once done it gonna ask to confirm forest::
 Then select ADD DIRECTORY::
 ![](../../Attachements/Pasted%20image%2020251118142522.png)
 
-Then select create new AD account: select u
+Then select create new AD account: select username and password
+This will create 
 ![](../../Attachements/Pasted%20image%2020251118142544.png)
