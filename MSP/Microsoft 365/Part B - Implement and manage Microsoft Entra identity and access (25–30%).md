@@ -96,8 +96,9 @@ Federate can be used in compliance issue company.
 	in federate password will only be at domain controller on prem and authentication is made without microsoft having passsword
 ADFS server will be there in domain controller in case of ADFS
 
-Firewall ISSSUE IN ADFS
+Firewall ISSSUE IN ADFS - And Complex and expensive
 The can be firewall issue so DFS proxy server is added inside DMZ network and At first ENTRA ID communicat with proxy and proxy communicate with ADFS.
+ANd if you want redundancy/BAckup, you will need two ADFS server and two ADFS Proxy server which is very very complicated.
 ![](../../Attachements/Pasted%20image%2020251118125755.png)
 
 
