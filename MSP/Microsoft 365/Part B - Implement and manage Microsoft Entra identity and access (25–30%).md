@@ -129,4 +129,5 @@ Likewise cloud sync has automatic redundancy, if main server breaks automatic se
 #### Prepare for identity synchronization, including IdFix
 Some attributes that is supported in ON PERM ADDS is not supported on Entra ID.
 Example: Space in naming and all.
-IdFix: Tools which
+IdFix: Tools which can be used to run and find if any issue are there before we connect to on perm and Entra ID.
+
