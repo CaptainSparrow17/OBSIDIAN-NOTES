@@ -817,3 +817,7 @@ Then search priv in search bar like below::
 
 Click on My roles to view my own roles::
 ![](../../Attachements/Pasted%20image%2020251118094340.png)
+And can see the roles of various kind:
+![](../../Attachements/Pasted%20image%2020251118094415.png)
+Below on left side you can see:
+My request, 
