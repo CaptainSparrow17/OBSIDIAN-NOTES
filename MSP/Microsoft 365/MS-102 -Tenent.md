@@ -815,3 +815,5 @@ portal.azure.com
 Then search priv in search bar like below::
 ![](../../Attachements/Pasted%20image%2020251118094232.png)
 
+Click on My roles to view my own roles::
+![](../../Attachements/Pasted%20image%2020251118094340.png)
