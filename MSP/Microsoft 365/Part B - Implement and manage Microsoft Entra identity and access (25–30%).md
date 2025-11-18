@@ -143,3 +143,6 @@ Likewise, turn off IE Enhanced Security Configuration::
 Now go to portal.azure.com and then go to Microsoft Intra ID, then select Microsoft Entra Connect like below::
 ![](../../Attachements/Pasted%20image%2020251118141541.png)
 
+Go to manage like below:
+![](../../Attachements/Pasted%20image%2020251118141737.png)
+
