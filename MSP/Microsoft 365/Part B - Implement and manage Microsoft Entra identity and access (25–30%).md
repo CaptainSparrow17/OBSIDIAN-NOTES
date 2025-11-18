@@ -73,3 +73,6 @@ When logged on in the Domain, will be logged in cloud aswell.
 ### Entra Cloud SYNC
 ![](../../Attachements/Pasted%20image%2020251118110528.png)
 
+
+
+In the context of the Microsoft MS-102 exam (Microsoft 365 Administrator), **writeback** refers to the functionality that allows data changes made in the cloud (Microsoft Entra ID) to be synchronized back to an on-premises Active Directory (AD)
