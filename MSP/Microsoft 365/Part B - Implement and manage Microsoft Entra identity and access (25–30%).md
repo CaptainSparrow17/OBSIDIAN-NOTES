@@ -145,4 +145,6 @@ Now go to portal.azure.com and then go to Microsoft Intra ID, then select Micros
 
 Go to manage like below:
 ![](../../Attachements/Pasted%20image%2020251118141737.png)
-
+Then download provisioning Agent like below::
+![](../../Attachements/Pasted%20image%2020251118141823.png)
+And install it.
