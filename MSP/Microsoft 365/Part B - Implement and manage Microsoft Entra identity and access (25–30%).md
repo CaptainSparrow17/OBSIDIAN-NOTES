@@ -140,5 +140,6 @@ We created A User, groups inside new OU and we cona connect the OU insted of who
 Likewise, turn off IE Enhanced Security Configuration::
 ![](../../Attachements/Pasted%20image%2020251118141320.png)
 
-Now go to portal.azure.com and then go to Microsoft Intra ID, then 
+Now go to portal.azure.com and then go to Microsoft Intra ID, then select Microsoft Entra Connect like below::
 ![](../../Attachements/Pasted%20image%2020251118141541.png)
+
