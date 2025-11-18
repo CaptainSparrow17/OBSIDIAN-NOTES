@@ -209,3 +209,4 @@ Below you can see Entra connect Sync Status
 
 ### CLOUD SYNC::
 You will use either Cloud Sync or connect SYNC.
+We gonna 
