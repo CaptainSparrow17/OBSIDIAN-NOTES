@@ -87,3 +87,8 @@ When to use?
 
 ##### ENTRA CONNECT SYNC
 We will need a server where we gonna install ENTRA CONNECT SYNC SOFTWARE AGENT which will create connection between on perm ENV and CLoud.
+Is Outbound
+![](../../Attachements/Pasted%20image%2020251118123918.png)
+
+
+ENTRA CLOUD SYNC
