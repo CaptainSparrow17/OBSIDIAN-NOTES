@@ -190,4 +190,6 @@ In this section you can select if any mail exchange are there:
 
 ![](../../Attachements/Pasted%20image%2020251118144038.png)
 
-will ask
+will ask for write back::
+![](../../Attachements/Pasted%20image%2020251118144110.png)
+
