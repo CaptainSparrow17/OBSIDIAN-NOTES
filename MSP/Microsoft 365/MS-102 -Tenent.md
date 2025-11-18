@@ -839,3 +839,6 @@ Then again the enw users need to login to their portal,
 go to privilege role like above
 the go to my roles
 and activate the role assigned to them::
+![](../../Attachements/Pasted%20image%2020251118100047.png)
+Then activate like above. It might ask for multifactor authentication.
+Thus after all process they can create new users. 
