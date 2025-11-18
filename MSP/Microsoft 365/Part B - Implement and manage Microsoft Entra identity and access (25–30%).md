@@ -85,4 +85,5 @@ When to use?
 
 #### Drawing out Entra Connect Sync and Entra Cloud Sync
 
-ENTRS CONNECT SYNC
+##### ENTRA CONNECT SYNC
+We will need a server where we gonna install ENTRA CONNECT SYNC SOFTWARE AGENT which will create connection between on perm ENV and CLoud.
