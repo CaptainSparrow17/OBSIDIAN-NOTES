@@ -166,4 +166,11 @@ Then it gonna ask username:
 
 Then it will authenticate ask username and password. Provide all.
 
-Once done it gonna ask to confirm for
+Once done it gonna ask to confirm forest::
+![](../../Attachements/Pasted%20image%2020251118142455.png)
+
+Then select ADD DIRECTORY::
+![](../../Attachements/Pasted%20image%2020251118142522.png)
+
+Then select create new AD account: select u
+![](../../Attachements/Pasted%20image%2020251118142544.png)
