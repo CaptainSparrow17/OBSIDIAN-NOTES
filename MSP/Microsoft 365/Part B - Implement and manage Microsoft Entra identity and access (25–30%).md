@@ -182,5 +182,9 @@ It will ask weather to sync all domain and OU but we gonna select only one OU
 Then select below::
 ![](../../Attachements/Pasted%20image%2020251118143612.png)
 Then select next:
-Below is saying all AU in the 
+Below is saying all users and groups in the above selected AU.
 ![](../../Attachements/Pasted%20image%2020251118143640.png)
+
+In this section you can select if any mail exchange are there:
+![](../../Attachements/Pasted%20image%2020251118143745.png)
+
