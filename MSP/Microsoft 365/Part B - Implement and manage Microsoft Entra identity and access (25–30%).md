@@ -110,3 +110,6 @@ In Entra connect you can add STAGING SERVER, which is mannual steps.
 If main server fails, you have to mannually set staging server as main server like below
 ![](../../Attachements/Pasted%20image%2020251118130326.png)
 ###### ENTRA CLOUD SYNC
+Its very very light
+First same process you need to install very very light agent that communicate with Entra ID
+Here in every 2 mins, it gets sync but in entra connect to 2 minute happens
