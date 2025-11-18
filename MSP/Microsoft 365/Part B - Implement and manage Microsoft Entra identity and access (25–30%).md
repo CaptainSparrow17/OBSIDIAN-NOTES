@@ -111,6 +111,7 @@ If main server fails, you have to mannually set staging server as main server li
 ![](../../Attachements/Pasted%20image%2020251118130326.png)
 
 ###### ENTRA CLOUD SYNC
+It does not support Device write back
 Its very very light
 First same process you need to install very very light agent that communicate with Entra ID
 Two Min SYNC
