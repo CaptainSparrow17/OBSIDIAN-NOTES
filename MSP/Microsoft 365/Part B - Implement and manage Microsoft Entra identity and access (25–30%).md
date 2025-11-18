@@ -37,3 +37,7 @@
 - Implement and manage multifactor authentication (MFA) by using conditional access policies
 
 SECTIONS 6/7/8 from MS-102 Video Courses::
+
+
+
+#### Implement and manage identity synchronization with Microsoft Entra tenant
