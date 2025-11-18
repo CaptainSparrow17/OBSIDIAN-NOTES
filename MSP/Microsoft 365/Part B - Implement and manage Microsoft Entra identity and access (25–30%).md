@@ -46,3 +46,6 @@ HYBRID ENVIRONMENT::
 ALways remember: ENTRA is new Azure AD
 ![](../../Attachements/Pasted%20image%2020251118103124.png)
 
+### What is Entra Connect SYNC?
+![](../../Attachements/Pasted%20image%2020251118103329.png)
+
