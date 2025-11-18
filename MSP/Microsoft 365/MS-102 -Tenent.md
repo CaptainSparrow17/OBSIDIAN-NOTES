@@ -820,4 +820,7 @@ Click on My roles to view my own roles::
 And can see the roles of various kind:
 ![](../../Attachements/Pasted%20image%2020251118094415.png)
 Below on left side you can see:
-My request, 
+My request, Approve requests and Review Access::
+My request=request i made
+Approve=To approve 
+![](../../Attachements/Pasted%20image%2020251118094540.png)
