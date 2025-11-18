@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Microsoft 365/MS-102 -Tenent.md",
+                "file": "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS-102 -Tenent"
+              "title": "Part A - Deploy and manage a Microsoft 365 tenant (25–30%)"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Microsoft 365/MS-102 -Tenent.md",
+                "file": "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS-102 -Tenent"
+              "title": "Part B - Implement and manage Microsoft Entra identity and access (25–30%)"
             }
           },
           {
@@ -220,9 +220,9 @@
   },
   "active": "4269ae0e4d785e7e",
   "lastOpenFiles": [
+    "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
+    "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "MSP/Microsoft 365/Mailing Services.md",
-    "MSP/Microsoft 365/Implement and manage Microsoft Entra identity and access (25–30%).md",
-    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251118100047.png",
     "Attachements/Pasted image 20251118095414.png",
     "Attachements/Pasted image 20251118094734.png",
