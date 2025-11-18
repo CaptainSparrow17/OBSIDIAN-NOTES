@@ -40,7 +40,7 @@ SECTIONS 6/7/8 from MS-102 Video Courses::
 
 
 
-#### Implement and manage identity synchronization with Microsoft Entra tenant
+## Implement and manage identity synchronization with Microsoft Entra tenant
 
 HYBRID ENVIRONMENT::
 ALways remember: ENTRA is new Azure AD
@@ -69,3 +69,7 @@ PASS-THrough Authenticatin (PTA)
 ### Enable Single Sign-On options
 ![](../../Attachements/Pasted%20image%2020251118105628.png)
 When logged on in the Domain, will be logged in cloud aswell.
+
+### Entra Cloud SYNC
+![](../../Attachements/Pasted%20image%2020251118110528.png)
+
