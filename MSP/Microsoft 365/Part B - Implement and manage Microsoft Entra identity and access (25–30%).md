@@ -192,4 +192,8 @@ In this section you can select if any mail exchange are there:
 
 will ask for write back::
 ![](../../Attachements/Pasted%20image%2020251118144110.png)
+Do next next next and install::
+![](../../Attachements/Pasted%20image%2020251118144209.png)
 
+Now once done if you go to portal.azure.com
+You can find those on Perm users and groups
