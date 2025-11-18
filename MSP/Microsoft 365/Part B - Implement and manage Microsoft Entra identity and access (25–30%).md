@@ -209,4 +209,6 @@ Below you can see Entra connect Sync Status
 
 ### CLOUD SYNC::
 You will use either Cloud Sync or connect SYNC.
-We gonna 
+We gonna create new virtual machine and resource group
+![](../../Attachements/Pasted%20image%2020251118212348.png)
+Do next  next next create the group set user name and all..
