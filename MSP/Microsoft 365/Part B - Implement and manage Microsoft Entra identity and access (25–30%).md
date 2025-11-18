@@ -180,3 +180,7 @@ Select next next next
 It will ask weather to sync all domain and OU but we gonna select only one OU
 ![](../../Attachements/Pasted%20image%2020251118143055.png)
 Then select below::
+![](../../Attachements/Pasted%20image%2020251118143612.png)
+Then select next:
+Below is saying all AU in the 
+![](../../Attachements/Pasted%20image%2020251118143640.png)
