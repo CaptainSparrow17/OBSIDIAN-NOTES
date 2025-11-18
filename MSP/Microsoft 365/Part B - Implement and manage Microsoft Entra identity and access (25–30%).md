@@ -102,6 +102,9 @@ ANd if you want redundancy/BAckup, you will need two ADFS server and two ADFS Pr
 ![](../../Attachements/Pasted%20image%2020251118125755.png)
 
 Then they came with PTA which is lightweight and easy
-Entra ID doesnot know password hashes of user
+Entra ID doesnot know password hashes of users.
+![](../../Attachements/Pasted%20image%2020251118130115.png)
+In above PTA keep on lookin for new login, keeps on checking, when people login, it checks the pasword with ADDS and if it is correct, it gives token and 
+
 
 ##### ENTRA CLOUD SYNC
