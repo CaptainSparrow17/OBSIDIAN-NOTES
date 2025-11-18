@@ -158,5 +158,9 @@ Then dont tick mark on below and select install.
 
 ![](../../Attachements/Pasted%20image%2020251118142125.png)
 
-THEN It gonna ask for sign in method like below:: We selected Password hash 
+THEN It gonna ask for sign in method like below:: We selected Password hash sync and Single sign on::
 ![](../../Attachements/Pasted%20image%2020251118142239.png)
+
+Then it gonna ask username:
+![](../../Attachements/Pasted%20image%2020251118142323.png)
+
