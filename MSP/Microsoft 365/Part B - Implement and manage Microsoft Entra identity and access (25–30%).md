@@ -101,5 +101,7 @@ The can be firewall issue so DFS proxy server is added inside DMZ network and At
 ANd if you want redundancy/BAckup, you will need two ADFS server and two ADFS Proxy server which is very very complicated.
 ![](../../Attachements/Pasted%20image%2020251118125755.png)
 
+Then they came with PTA which is lightweight and easy
+Entra ID doesnot know password hashes of user
 
 ##### ENTRA CLOUD SYNC
