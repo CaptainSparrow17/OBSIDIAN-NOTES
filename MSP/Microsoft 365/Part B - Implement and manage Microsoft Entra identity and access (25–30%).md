@@ -132,3 +132,7 @@ Example: Space in naming and all.
 IdFix: Tools which can be used to run and find if any issue are there before we connect to on perm and Entra ID.
 Download from github and run on ADDS server
 
+
+
+![](../../Attachements/Pasted%20image%2020251118141237.png)
+Likewise, turn off IE Enhanced Security 
