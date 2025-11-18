@@ -835,7 +835,8 @@ Suppose i am going on a vacation for a day and new user is joining and its login
 I ca give temporaryy access to some jr admin to create login when i am out:
 ![](../../Attachements/Pasted%20image%2020251118095414.png)
 then i can give it to the require user the access or privilege.
-Then again the enw users need to login to their portal,
+
+Then again the  user who got the role/priv assigned need to login to their portal,
 go to privilege role like above
 the go to my roles
 and activate the role assigned to them::
