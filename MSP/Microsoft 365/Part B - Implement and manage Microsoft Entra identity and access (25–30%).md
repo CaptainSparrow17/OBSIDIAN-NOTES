@@ -147,4 +147,7 @@ Go to manage like below:
 ![](../../Attachements/Pasted%20image%2020251118141737.png)
 Then download provisioning Agent like below::
 ![](../../Attachements/Pasted%20image%2020251118141823.png)
-And install it.
+And install it like below::
+![](../../Attachements/Pasted%20image%2020251118141856.png)
+
+In below window if you select use express setting it gonna sync whole domain but here we gonna just sync the OU which was created earlier::
