@@ -104,7 +104,8 @@ ANd if you want redundancy/BAckup, you will need two ADFS server and two ADFS Pr
 Then they came with PTA which is lightweight and easy
 Entra ID doesnot know password hashes of users.
 ![](../../Attachements/Pasted%20image%2020251118130115.png)
-In above PTA keep on lookin for new login, keeps on checking, when people login, it checks the pasword with ADDS and if it is correct, it gives token and 
+In above PTA keep on lookin for new login, keeps on checking, when people login, it checks the password with ADDS and if it is correct, it gives token and tell them your credentials is correct. You are in.
 
-
+In Entra connect you can add STAGING SERVER, which is mannual steps.
+If 
 ##### ENTRA CLOUD SYNC
