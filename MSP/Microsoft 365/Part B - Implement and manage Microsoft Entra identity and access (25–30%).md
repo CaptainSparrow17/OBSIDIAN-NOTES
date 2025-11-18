@@ -85,7 +85,7 @@ When to use?
 
 #### Drawing out Entra Connect Sync and Entra Cloud Sync
 
-##### ENTRA CONNECT SYNC
+###### ENTRA CONNECT SYNC
 We will need a server where we gonna install ENTRA CONNECT SYNC SOFTWARE AGENT which will create connection between on perm ENV and CLoud.
 Is Outbound
 ![](../../Attachements/Pasted%20image%2020251118123918.png)
@@ -107,5 +107,6 @@ Entra ID doesnot know password hashes of users.
 In above PTA keep on lookin for new login, keeps on checking, when people login, it checks the password with ADDS and if it is correct, it gives token and tell them your credentials is correct. You are in.
 
 In Entra connect you can add STAGING SERVER, which is mannual steps.
-If 
-##### ENTRA CLOUD SYNC
+If main server fails, you have to mannually set staging server as main server like below
+![](../../Attachements/Pasted%20image%2020251118130326.png)
+###### ENTRA CLOUD SYNC
