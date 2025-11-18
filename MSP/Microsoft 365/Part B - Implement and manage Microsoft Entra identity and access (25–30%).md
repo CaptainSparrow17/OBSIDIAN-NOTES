@@ -90,7 +90,9 @@ We will need a server where we gonna install ENTRA CONNECT SYNC SOFTWARE AGENT w
 Is Outbound
 ![](../../Attachements/Pasted%20image%2020251118123918.png)
 
-When using PHS/PTA password hash 
+When using PHS/PTA password hash will be at entra connect sync and a copy is copied to microsoft which  might be compliance issue in some company
+
+Federate can be used in compliance issue company.
 
 
 ##### ENTRA CLOUD SYNC
