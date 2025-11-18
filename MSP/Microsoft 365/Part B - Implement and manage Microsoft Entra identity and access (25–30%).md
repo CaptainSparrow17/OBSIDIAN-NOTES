@@ -43,4 +43,6 @@ SECTIONS 6/7/8 from MS-102 Video Courses::
 #### Implement and manage identity synchronization with Microsoft Entra tenant
 
 HYBRID ENVIRONMENT::
+ALways remember: ENTRA is new Azure AD
+![](../../Attachements/Pasted%20image%2020251118103124.png)
 
