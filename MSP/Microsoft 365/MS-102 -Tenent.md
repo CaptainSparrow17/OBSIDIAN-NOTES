@@ -831,4 +831,6 @@ Microsoft Entra Roles::
 Then Go to roles  and go to ADD ASSIGNMENT to add roles::
 ![](../../Attachements/Pasted%20image%2020251118094734.png)
 
-Suppose i am going on a vacation for a day and new user is joining and its login needs to
+Suppose i am going on a vacation for a day and new user is joining and its login needs to be created.
+I ca give temporaryy access to some jr admin to create login when i am out:
+![](../../Attachements/Pasted%20image%2020251118095414.png)
