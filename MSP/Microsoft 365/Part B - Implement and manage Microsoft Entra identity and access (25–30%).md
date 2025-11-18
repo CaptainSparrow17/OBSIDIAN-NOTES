@@ -212,3 +212,7 @@ You will use either Cloud Sync or connect SYNC.
 We gonna create new virtual machine and resource group
 ![](../../Attachements/Pasted%20image%2020251118212348.png)
 Do next  next next create the group set user name and all..
+..
+DO RDP and connect to the server and open it and set up domain services..
+![](../../Attachements/Pasted%20image%2020251118212657.png)
+
