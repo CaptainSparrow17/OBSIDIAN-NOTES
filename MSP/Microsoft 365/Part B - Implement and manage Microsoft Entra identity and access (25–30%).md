@@ -90,5 +90,7 @@ We will need a server where we gonna install ENTRA CONNECT SYNC SOFTWARE AGENT w
 Is Outbound
 ![](../../Attachements/Pasted%20image%2020251118123918.png)
 
+When using PHS/PTA password hash 
 
-ENTRA CLOUD SYNC
+
+##### ENTRA CLOUD SYNC
