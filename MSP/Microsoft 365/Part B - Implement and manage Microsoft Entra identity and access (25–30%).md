@@ -83,3 +83,4 @@ When to use?
 ![](../../Attachements/Pasted%20image%2020251118115741.png)
 
 
+#### Drawing out Entra Connect Sync and Entra Cloud Sync
