@@ -93,7 +93,8 @@ Is Outbound
 When using PHS/PTA password hash will be at entra connect sync and a copy is copied to Microsoft online server which  might be compliance issue in some company
 
 Federate can be used in compliance issue company.
-	in federate password will only be at domain controller on prem.
+	in federate password will only be at domain controller on prem and authentication is made without microsoft having passsword
+ADFS server will be there in domain controller in case of ADFS
 
 
 ##### ENTRA CLOUD SYNC
