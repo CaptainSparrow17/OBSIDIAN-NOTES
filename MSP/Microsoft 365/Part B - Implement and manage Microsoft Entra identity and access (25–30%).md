@@ -223,4 +223,6 @@ First always turn off IE Enhanced Security Configuration off::
 Go to manage and add roles and features and do next next next and install ADDS on the virtual server..
 ![](../../Attachements/Pasted%20image%2020251118212657.png)
 
-Now we gonna promote this domain controller 
+Now we gonna promote this server to the domain controller::
+![](../../Attachements/Pasted%20image%2020251118214714.png)
+
