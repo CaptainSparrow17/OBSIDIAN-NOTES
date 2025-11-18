@@ -828,3 +828,6 @@ Approve=To approve any request made by other
 Microsoft Entra Roles::
 ![](../../Attachements/Pasted%20image%2020251118094644.png)
 
+Then Go to roles  and go to ADD ASSIGNMENT to add roles::
+![](../../Attachements/Pasted%20image%2020251118094734.png)
+
