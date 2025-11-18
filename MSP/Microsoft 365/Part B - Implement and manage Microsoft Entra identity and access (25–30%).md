@@ -134,5 +134,9 @@ Download from github and run on ADDS server
 
 
 
+
+We created A User, groups inside new O
 ![](../../Attachements/Pasted%20image%2020251118141237.png)
-Likewise, turn off IE Enhanced Security 
+Likewise, turn off IE Enhanced Security Configuration::
+![](../../Attachements/Pasted%20image%2020251118141320.png)
+
