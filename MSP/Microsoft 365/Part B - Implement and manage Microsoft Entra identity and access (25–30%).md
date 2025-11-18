@@ -164,3 +164,6 @@ THEN It gonna ask for sign in method like below:: We selected Password hash sync
 Then it gonna ask username:
 ![](../../Attachements/Pasted%20image%2020251118142323.png)
 
+Then it will authenticate ask username and password. Provide all.
+
+Once done it gonna ask to confirm for
