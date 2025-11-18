@@ -225,4 +225,5 @@ Go to manage and add roles and features and do next next next and install ADDS o
 
 Now we gonna promote this server to the domain controller::
 ![](../../Attachements/Pasted%20image%2020251118214714.png)
-Then do the setting process and all
+Then do the setting process and all..
+
