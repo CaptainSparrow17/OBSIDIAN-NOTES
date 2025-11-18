@@ -41,3 +41,6 @@ SECTIONS 6/7/8 from MS-102 Video Courses::
 
 
 #### Implement and manage identity synchronization with Microsoft Entra tenant
+
+HYBRID ENVIRONMENT::
+
