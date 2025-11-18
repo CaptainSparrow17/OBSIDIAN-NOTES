@@ -175,3 +175,4 @@ Then select ADD DIRECTORY::
 Then select create new AD account: select username and password
 This will create an account for joining propose on ON perm.. This account will be on on PERM...
 ![](../../Attachements/Pasted%20image%2020251118142544.png)
+Select next next next
