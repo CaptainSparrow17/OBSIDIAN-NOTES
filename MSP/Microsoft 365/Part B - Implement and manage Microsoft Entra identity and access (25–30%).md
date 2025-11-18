@@ -202,3 +202,10 @@ You can find those on Perm users and groups
 Above same can be done via entra.microsoft.com
 ![](../../Attachements/Pasted%20image%2020251118144435.png)
 
+
+Below you can see Entra connect Sync Status
+
+![](../../Attachements/Pasted%20image%2020251118144502.png)
+
+### CLOUD SYNC::
+You will use either Cloud Sync or connect SYNC.
