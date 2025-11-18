@@ -84,3 +84,5 @@ When to use?
 
 
 #### Drawing out Entra Connect Sync and Entra Cloud Sync
+
+ENTRS CONNECT SYNC
