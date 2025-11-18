@@ -134,8 +134,8 @@ Download from github and run on ADDS server
 
 
 
-
-We created A User, groups inside new O
+#### Implement and manage directory synchronization by using Microsoft Entra Connect
+We created A User, groups inside new OU and we cona connect the OU insted of whole domain in the cloud.
 ![](../../Attachements/Pasted%20image%2020251118141237.png)
 Likewise, turn off IE Enhanced Security Configuration::
 ![](../../Attachements/Pasted%20image%2020251118141320.png)
