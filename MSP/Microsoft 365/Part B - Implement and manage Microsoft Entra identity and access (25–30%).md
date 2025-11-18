@@ -207,12 +207,19 @@ Below you can see Entra connect Sync Status
 
 ![](../../Attachements/Pasted%20image%2020251118144502.png)
 
-### CLOUD SYNC::
+### CLOUD SYNC:: In above AD COnnect sync his physical domain was synced and in this cloud sync demo he is creating new Cloud Vmware ADDS and syncing it..
+Virtual on perm ADDS lai cloud ma sync garna lako xa mula le.
 You will use either Cloud Sync or connect SYNC.
 We gonna create new virtual machine and resource group
 ![](../../Attachements/Pasted%20image%2020251118212348.png)
 Do next  next next create the group set user name and all..
 ..
+
 DO RDP and connect to the server and open it and set up domain services..
+First always turn off IE Enhanced Security Configuration off::
+![](../../Attachements/Pasted%20image%2020251118213239.png)
+
+
+Go to manage and add roles and features and do next next next and install ADDS on the virtual server..
 ![](../../Attachements/Pasted%20image%2020251118212657.png)
 
