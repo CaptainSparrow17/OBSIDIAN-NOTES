@@ -97,7 +97,8 @@ Federate can be used in compliance issue company.
 ADFS server will be there in domain controller in case of ADFS
 
 Firewall ISSSUE IN ADFS
-
+The can be firewall issue so DFS proxy server is added inside DMZ network and At first ENTRA ID communicat with proxy and proxy communicate with ADFS.
+![](../../Attachements/Pasted%20image%2020251118125755.png)
 
 
 ##### ENTRA CLOUD SYNC
