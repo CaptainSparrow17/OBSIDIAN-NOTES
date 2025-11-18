@@ -154,3 +154,8 @@ In below window if you select use express setting it gonna sync whole domain but
 ![](../../Attachements/Pasted%20image%2020251118142000.png)
 
 Instead select customize::
+Then dont tick mark on below and select install.
+
+![](../../Attachements/Pasted%20image%2020251118142125.png)
+
+THEN It gonna ask for s
