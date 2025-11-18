@@ -158,4 +158,5 @@ Then dont tick mark on below and select install.
 
 ![](../../Attachements/Pasted%20image%2020251118142125.png)
 
-THEN It gonna ask for s
+THEN It gonna ask for sign in method like below:: We selected Password hash 
+![](../../Attachements/Pasted%20image%2020251118142239.png)
