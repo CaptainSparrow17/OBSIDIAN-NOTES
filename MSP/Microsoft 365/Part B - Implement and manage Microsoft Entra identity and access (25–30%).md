@@ -82,3 +82,4 @@ In the context of the Microsoft MS-102 exam (Microsoft 365 Administrator), **wr
 When to use?
 ![](../../Attachements/Pasted%20image%2020251118115741.png)
 
+
