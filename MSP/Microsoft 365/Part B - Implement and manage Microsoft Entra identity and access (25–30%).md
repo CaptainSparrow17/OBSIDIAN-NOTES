@@ -63,3 +63,8 @@ SIGN IN METHODS::
 PASS-THrough Authenticatin (PTA)
 ![](../../Attachements/Pasted%20image%2020251118105326.png)
 
+
+![](../../Attachements/Pasted%20image%2020251118105642.png)
+
+Enable Single Sign-On options
+![](../../Attachements/Pasted%20image%2020251118105628.png)
