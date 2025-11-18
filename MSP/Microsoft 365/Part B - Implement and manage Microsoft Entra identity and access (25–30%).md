@@ -176,3 +176,6 @@ Then select create new AD account: select username and password
 This will create an account for joining propose on ON perm.. This account will be on on PERM...
 ![](../../Attachements/Pasted%20image%2020251118142544.png)
 Select next next next
+![](../../Attachements/Pasted%20image%2020251118143018.png)
+It will ask weather to sync all domain and OU but we gonna select only one OU
+![](../../Attachements/Pasted%20image%2020251118143055.png)
