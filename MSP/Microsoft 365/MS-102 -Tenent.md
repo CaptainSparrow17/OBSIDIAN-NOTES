@@ -813,3 +813,5 @@ More Terminology::
 ### Manage Microsoft Entra roles in Entra privileged identity management (PIM)
 portal.azure.com
 Then search priv in search bar like below::
+![](../../Attachements/Pasted%20image%2020251118094232.png)
+
