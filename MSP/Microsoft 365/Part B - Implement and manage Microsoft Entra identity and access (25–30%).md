@@ -52,3 +52,4 @@ ALways remember: ENTRA is new Azure AD
 You need Entra Connect Sync wizard application to connect on prem and cloud.
 
 You can only sync on PERM to cloud, cloud to ON PERM is not available
+Supports staging-stage things
