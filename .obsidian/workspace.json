@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Microsoft 365/MS-102 -Tenent.md",
+                "file": "MSP/Microsoft 365/To Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MS-102 -Tenent"
+              "title": "To Study"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "3b6973e20fb6d63c",
   "lastOpenFiles": [
+    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "Attachements/Pasted image 20251115164326.png",
     "Attachements/Pasted image 20251115164220.png",
     "Attachements/Pasted image 20251115164107.png",
@@ -216,9 +217,7 @@
     "Attachements/Pasted image 20251115114018.png",
     "Attachements/Pasted image 20251115113904.png",
     "Attachements/Pasted image 20251115113829.png",
-    "Attachements/Pasted image 20251115113206.png",
     "MSP/Microsoft 365/To Study.md",
-    "MSP/Microsoft 365/MS-102 -Tenent.md",
     "MSP/Microsoft 365/Untitled",
     "MSP/Microsoft 365/Mailing Services.md",
     "OSCP/7.0 Vulnerability Scanning.md",
