@@ -198,3 +198,7 @@ Do next next next and install::
 Now once done if you go to portal.azure.com
 You can find those on Perm users and groups
 ![](../../Attachements/Pasted%20image%2020251118144327.png)
+
+Above same can be done via entra.microsoft.com
+![](../../Attachements/Pasted%20image%2020251118144435.png)
+
