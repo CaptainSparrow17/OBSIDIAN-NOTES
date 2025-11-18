@@ -59,3 +59,7 @@ SIGN IN METHODS::
 
 #### Password Hash SYNC
 ![](../../Attachements/Pasted%20image%2020251118105152.png)
+
+PASS-THrough Authenticatin (PTA)
+![](../../Attachements/Pasted%20image%2020251118105326.png)
+
