@@ -239,3 +239,5 @@ Like below select and download cloud sync and start the process::
 ![](../../Attachements/Pasted%20image%2020251119121353.png)
 
 Similarly 2nd step to go there is shown below to the area where we can start cloud sync. ANy site you use will end up in Azure AD which is Entra ID.
+
+Go to entra.microsoft.com
