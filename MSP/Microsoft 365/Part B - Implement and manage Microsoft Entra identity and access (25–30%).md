@@ -242,5 +242,8 @@ Similarly 2nd step to go there is shown below to the area where we can start clo
 2nd::
 Go to entra.microsoft.com
 Identity -> Show More
-
+And select Hybrid connect and will take to same Place
 ![](../../Attachements/Pasted%20image%2020251119121546.png)
+
+Now, Download and install the agent. Its very light weight.
+
