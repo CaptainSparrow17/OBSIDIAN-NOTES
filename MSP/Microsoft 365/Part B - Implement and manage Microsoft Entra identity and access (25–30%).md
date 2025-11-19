@@ -232,4 +232,6 @@ Now server is setup with ADDS and you can see below::
 The above process is just to simulate real On PERM real ADDS for us to do Intra Cloud Sync.
 Now let the steps starts:
 Go to portal.azure.com
-Then select Microfost 
+Then select Microfost Entra ID from right hand side.
+Then go to view all and select Microsoft Entra Connect like below::
+![](../../Attachements/Pasted%20image%2020251119121123.png)
