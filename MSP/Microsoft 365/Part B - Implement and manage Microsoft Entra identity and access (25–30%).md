@@ -227,3 +227,6 @@ Now we gonna promote this server to the domain controller::
 ![](../../Attachements/Pasted%20image%2020251118214714.png)
 Then do the setting process and all..
 
+Now server is setup with ADDS and you can see below::
+![](../../Attachements/Pasted%20image%2020251119120716.png)
+
