@@ -230,3 +230,6 @@ Then do the setting process and all..
 Now server is setup with ADDS and you can see below::
 ![](../../Attachements/Pasted%20image%2020251119120716.png)
 The above process is just to simulate real On PERM real ADDS for us to do Intra Cloud Sync.
+Now let the steps starts:
+Go to portal.azure.com
+Then select Microfost 
