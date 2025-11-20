@@ -271,4 +271,9 @@ Then below tis opened
 
 Then go to configuration-> new configuration=> AD to microsoft Entra ID Sync like below:
 ![](../../Attachements/Pasted%20image%2020251120073906.png)
-
+It will auto detect like below:
+![](../../Attachements/Pasted%20image%2020251120073940.png)
+Select create in above site.
+Now below profi;e is opened::
+![](../../Attachements/Pasted%20image%2020251120074011.png)
+The above will not sync anything, we hav
