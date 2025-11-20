@@ -411,3 +411,8 @@ Password protection for windows server Active Directory: => yo chai custom paswo
 yo on garyo vani cahi banned password hybrid ra cloud 2tai lai hunxa.
 Sirf custom password banned lai vanna khojeko ho hai saila...
 ![](../../Attachements/Pasted%20image%2020251120090716.png)
+
+MODE::
+![](../../Attachements/Pasted%20image%2020251120090905.png)
+Audit= kosle use gareko xa matra thaha hunxa banned password, ko ko audit/effect ma parxa
+Enforced gar
