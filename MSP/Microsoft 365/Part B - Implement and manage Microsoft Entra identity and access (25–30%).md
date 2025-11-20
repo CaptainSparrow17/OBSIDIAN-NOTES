@@ -356,3 +356,6 @@ The below Provisioning logs and Audit logs will als tells many things
 Portal.azure.com
 Microsoft Entra ID
 Security
+![](../../Attachements/Pasted%20image%2020251120083446.png)
+
+![](../../Attachements/Pasted%20image%2020251120083536.png)
