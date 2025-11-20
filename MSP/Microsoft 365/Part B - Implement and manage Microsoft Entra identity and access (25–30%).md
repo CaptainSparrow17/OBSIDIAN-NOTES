@@ -431,3 +431,9 @@ activity
 user and registration details::
 ![](../../Attachements/Pasted%20image%2020251120091354.png)
 
+Registration and reset events:
+![](../../Attachements/Pasted%20image%2020251120091501.png)
+Above Shows log of reset event
+
+Bult operations
+![](../../Attachements/Pasted%20image%2020251120091539.png)
