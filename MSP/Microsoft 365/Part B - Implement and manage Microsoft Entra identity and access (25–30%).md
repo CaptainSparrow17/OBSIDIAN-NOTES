@@ -246,4 +246,8 @@ And select Hybrid connect and will take to same Place
 ![](../../Attachements/Pasted%20image%2020251119121546.png)
 
 Now, Download and install the agent. Its very light weight.
-
+Below popo up will come and select next:
+![](../../Attachements/Pasted%20image%2020251120073036.png)
+select 1st entra cloud sync
+![](../../Attachements/Pasted%20image%2020251120073109.png)
+It will ask for authenticate and authent
