@@ -325,3 +325,5 @@ IMP=> another solution is see if services is running on ON PERM ADDS like below:
 ![](../../Attachements/Pasted%20image%2020251120080239.png)Services like Azure AD Connect Agent must be running:
 ![](../../Attachements/Pasted%20image%2020251120080306.png)
 
+Microsoft Entra connect health agent must also be running:
+![](../../Attachements/Pasted%20image%2020251120080422.png)
