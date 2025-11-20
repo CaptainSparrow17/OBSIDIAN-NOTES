@@ -393,3 +393,10 @@ set passwords to never expire:: hybrid user don't fall here in this section::
 Only cloud users fall here
 ![](../../Attachements/Pasted%20image%2020251120090002.png)
 You can uncheck and set password expiry date:
+![](../../Attachements/Pasted%20image%2020251120090143.png)
+
+Arko:
+portal.azure.com
+Microsoft entra ID
+manage
+security
