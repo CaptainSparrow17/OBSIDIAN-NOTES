@@ -281,5 +281,7 @@ Now go to manage-> scoping filter and selects what you wanna sync.
 At end you have to review and enable.
 ![](../../Attachements/Pasted%20image%2020251120074110.png)
 
-Go to the OU which you wanna sync and go to properties and attribute editor and copy distinguished 
+Go to the OU which you wanna sync and go to properties and attribute editor and copy distinguished name from there.
 ![](../../Attachements/Pasted%20image%2020251120074240.png)
+
+Once coping go back to scoping filter and paste like below:
