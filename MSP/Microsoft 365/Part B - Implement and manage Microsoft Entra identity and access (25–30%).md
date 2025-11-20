@@ -385,3 +385,8 @@ There is many question which you can add, edit, delete or remove:
 If selected, password write back, both place will be password resseted.
 
 ### Implement and manage Microsoft Entra Password Protection
+admin.microsoft.com
+setting
+organisation 
+set passwords to never expire::
+![](../../Attachements/Pasted%20image%2020251120090002.png)
