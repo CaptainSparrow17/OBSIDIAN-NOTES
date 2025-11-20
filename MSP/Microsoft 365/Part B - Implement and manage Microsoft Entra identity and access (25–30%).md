@@ -331,5 +331,10 @@ Try do restart if needed:
 ![](../../Attachements/Pasted%20image%2020251120080618.png)
 
 
-IMP
+IMP => Event Viewer:
 This is microsoft main log
+![](../../Attachements/Pasted%20image%2020251120082202.png)
+
+And check the logs
+![](../../Attachements/Pasted%20image%2020251120082228.png)
+
