@@ -440,3 +440,15 @@ Bulk operations
 
 Yema main vaneko chai Activity and user registration details hun.. Tya bata idea hunxa...
 
+
+#### Implement and manage secure access
+
+- Plan for identity protection
+    
+- Implement and manage Microsoft Entra ID Protection
+    
+- Plan Conditional Access policies
+    
+- Implement and manage Conditional Access policies
+    
+- Implement and manage multifactor authentication (MFA) by using conditional access policies
