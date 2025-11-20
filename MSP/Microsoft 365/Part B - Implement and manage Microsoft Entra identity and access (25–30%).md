@@ -362,3 +362,7 @@ security-> Auth Methods::
 
 Select the authentication and configure as required:
 ![](../../Attachements/Pasted%20image%2020251120083615.png)
+
+
+### Implement and manage self-service password reset (SSPR)
+
