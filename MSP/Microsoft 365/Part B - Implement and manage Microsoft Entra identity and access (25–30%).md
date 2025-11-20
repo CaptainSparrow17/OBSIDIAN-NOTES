@@ -333,4 +333,3 @@ Try do restart if needed:
 
 IMP
 This is microsoft main log
-![](../../Attachements/Pasted%20image%2020251120080651.png)
