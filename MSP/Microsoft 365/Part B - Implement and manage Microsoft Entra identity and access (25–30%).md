@@ -293,4 +293,5 @@ and select enable configuration:
 
 Now everything will be synced.
 
-Thus the users in t
+Thus the users in that particular OU will be synced.
+
