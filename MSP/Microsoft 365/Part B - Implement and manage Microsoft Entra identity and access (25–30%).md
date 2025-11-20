@@ -250,4 +250,4 @@ Below popo up will come and select next:
 ![](../../Attachements/Pasted%20image%2020251120073036.png)
 select 1st entra cloud sync
 ![](../../Attachements/Pasted%20image%2020251120073109.png)
-It will ask for authenticate and authent
+It will ask for authenticate and authenticate it.
