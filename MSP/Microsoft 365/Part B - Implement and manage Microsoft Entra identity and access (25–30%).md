@@ -428,3 +428,6 @@ Monotoring
 activity
 ![](../../Attachements/Pasted%20image%2020251120091322.png)
 
+user and registration details::
+![](../../Attachements/Pasted%20image%2020251120091354.png)
+
