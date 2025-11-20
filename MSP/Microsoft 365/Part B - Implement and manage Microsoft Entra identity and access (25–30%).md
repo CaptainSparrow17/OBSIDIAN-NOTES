@@ -422,4 +422,9 @@ portal.azure.com
 Microsoft entra ID
 manage
 security
-authentications Met
+authentications Methods => shows authetication methods
+
+Monotoring
+activity
+![](../../Attachements/Pasted%20image%2020251120091322.png)
+
