@@ -344,3 +344,5 @@ Microsoft Entra ID
 Microsoft Entra CLoud
 ![](../../Attachements/Pasted%20image%2020251120082318.png)
 ANd like in above you can check health:
+click on that it will take you to configuration profile and you can check there aswell.
+![](../../Attachements/Pasted%20image%2020251120082413.png)
