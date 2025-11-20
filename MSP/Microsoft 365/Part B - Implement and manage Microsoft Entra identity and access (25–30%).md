@@ -395,8 +395,11 @@ Only cloud users fall here
 You can uncheck and set password expiry date:
 ![](../../Attachements/Pasted%20image%2020251120090143.png)
 
-Arko:
+Arko: Yo pani cloud user lai matra ho, sync user lai matlab xaina hai
 portal.azure.com
 Microsoft entra ID
 manage
 security
+Authentication methods
+password protection
+![](../../Attachements/Pasted%20image%2020251120090301.png)
