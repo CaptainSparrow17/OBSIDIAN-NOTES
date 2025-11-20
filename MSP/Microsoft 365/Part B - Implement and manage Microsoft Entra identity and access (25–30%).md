@@ -329,3 +329,8 @@ Microsoft Entra connect health agent must also be running:
 ![](../../Attachements/Pasted%20image%2020251120080422.png)
 Try do restart if needed:
 ![](../../Attachements/Pasted%20image%2020251120080618.png)
+
+
+IMP
+This is microsoft main log
+![](../../Attachements/Pasted%20image%2020251120080651.png)
