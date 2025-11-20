@@ -327,3 +327,5 @@ IMP=> another solution is see if services is running on ON PERM ADDS like below:
 
 Microsoft Entra connect health agent must also be running:
 ![](../../Attachements/Pasted%20image%2020251120080422.png)
+Try do restart if needed:
+![](../../Attachements/Pasted%20image%2020251120080618.png)
