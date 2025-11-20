@@ -263,4 +263,9 @@ DO next next next::
 Once done exit it..
 
 Once this is done go to portal.azure.com
-Mic
+show all
+microsoft entra connetc
+cloud sync
+Then below tis opened
+![](../../Attachements/Pasted%20image%2020251120073807.png)
+
