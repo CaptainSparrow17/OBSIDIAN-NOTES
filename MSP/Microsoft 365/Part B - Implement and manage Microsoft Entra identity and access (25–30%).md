@@ -406,5 +406,8 @@ password protection
 lockout threshold=> atempt before lockout
 duration=> kati min lock
 custom banned passwords=> google ma top 10 thousands password and ban them
-Password protection for windows server Active Directory: => yo chai custom pasword ko lagi matra ho, sab set
+
+Password protection for windows server Active Directory: => yo chai custom pasword ko lagi matra ho, sab setting ADDS lai vanna khojeko hoin.
+yo on garyo vani cahi banned password hybrid ra cloud 2tai lai hunxa.
+Sirf custom password banned lai vanna khojeko ho hai saila...
 ![](../../Attachements/Pasted%20image%2020251120090716.png)
