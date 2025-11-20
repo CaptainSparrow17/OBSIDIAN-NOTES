@@ -416,3 +416,10 @@ MODE::
 ![](../../Attachements/Pasted%20image%2020251120090905.png)
 Audit= kosle use gareko xa matra thaha hunxa banned password, ko ko audit/effect ma parxa
 Enforced garyo vani cahi matra lagu hunxa..
+
+### Investigate and resolve authentication issues
+portal.azure.com
+Microsoft entra ID
+manage
+security
+authentications Met
