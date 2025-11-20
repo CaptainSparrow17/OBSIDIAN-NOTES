@@ -297,3 +297,5 @@ Thus the users in that particular OU will be synced.
 
 
 #### Monitor synchronization by using Microsoft Entra Connect Health
+![](../../Attachements/Pasted%20image%2020251120075410.png)
+Click above shown Health and Analytics:
