@@ -338,3 +338,9 @@ This is microsoft main log
 And check the logs
 ![](../../Attachements/Pasted%20image%2020251120082228.png)
 
+###### For Cloud SYNC Health
+portal.azure.com
+Microsoft Entra ID
+Microsoft Entra CLoud
+![](../../Attachements/Pasted%20image%2020251120082318.png)
+ANd like in above you can check health:
