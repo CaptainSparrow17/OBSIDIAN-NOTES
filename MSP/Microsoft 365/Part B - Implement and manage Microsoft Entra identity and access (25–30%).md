@@ -357,5 +357,8 @@ Portal.azure.com
 Microsoft Entra ID
 Security
 ![](../../Attachements/Pasted%20image%2020251120083446.png)
-
+security-> Auth Methods::
 ![](../../Attachements/Pasted%20image%2020251120083536.png)
+
+Select the authentication and configure as required:
+![](../../Attachements/Pasted%20image%2020251120083615.png)
