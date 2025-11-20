@@ -316,3 +316,7 @@ Thats how we gonna see if any sync error are there::
 Go to health and analytic as above part and from there you can see everything:
 ![](../../Attachements/Pasted%20image%2020251120080028.png)
 
+If you select in sync services it shows is healthy or not:
+![](../../Attachements/Pasted%20image%2020251120080112.png)
+
+IMP=> Other solution i
