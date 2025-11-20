@@ -310,6 +310,6 @@ For ADFS select 1st one.
 
 TO view go to sync error and services and view it:
 ![](../../Attachements/Pasted%20image%2020251120075800.png)
-Thats how we gonna see if any sync error are there
+Thats how we gonna see if any sync error are there::
 
 #### Troubleshoot synchronization, including Entra Connect Sync and Entra Cloud Sync
