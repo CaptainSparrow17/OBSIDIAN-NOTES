@@ -302,4 +302,9 @@ Click above shown Health and Analytics:
 ![](../../Attachements/Pasted%20image%2020251120075512.png)
 The above highlighted agent will already be installed, If not installed try again and install it.
 
+For other domain last one can be installed:
+![](../../Attachements/Pasted%20image%2020251120075711.png)
+
+For ADFS select 1st one.
+
 
