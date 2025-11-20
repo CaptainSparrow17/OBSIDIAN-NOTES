@@ -346,3 +346,5 @@ Microsoft Entra CLoud
 ANd like in above you can check health:
 click on that it will take you to configuration profile and you can check there aswell.
 ![](../../Attachements/Pasted%20image%2020251120082413.png)
+The below Provisioning logs and Audit logs will als tells many things
+![](../../Attachements/Pasted%20image%2020251120082517.png)
