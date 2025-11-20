@@ -319,4 +319,6 @@ Go to health and analytic as above part and from there you can see everything:
 If you select in sync services it shows is healthy or not:
 ![](../../Attachements/Pasted%20image%2020251120080112.png)
 
-IMP=> Other solution i
+IMP=> Other solution is reboot everything
+
+IMP=> another solution is see if services is running on ON PERM ADDS like be
