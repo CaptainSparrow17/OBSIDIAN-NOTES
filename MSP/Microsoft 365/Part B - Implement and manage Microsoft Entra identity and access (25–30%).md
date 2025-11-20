@@ -374,3 +374,8 @@ paword reset
 Then select for either group or for all
 ![](../../Attachements/Pasted%20image%2020251120085134.png)
 
+Now go to Auth method and selects what required:
+![](../../Attachements/Pasted%20image%2020251120085159.png)
+You can select questions also:
+![](../../Attachements/Pasted%20image%2020251120085224.png)
+There is many question which you can add, edit, de
