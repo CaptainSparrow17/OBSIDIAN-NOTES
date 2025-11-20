@@ -251,3 +251,7 @@ Below popo up will come and select next:
 select 1st entra cloud sync
 ![](../../Attachements/Pasted%20image%2020251120073109.png)
 It will ask for authenticate and authenticate it.
+Once cred is done and authenticate:
+It will ask it needs to create gMSA(Group managed service account)
+Better use create GSMA
+![](../../Attachements/Pasted%20image%2020251120073309.png)
