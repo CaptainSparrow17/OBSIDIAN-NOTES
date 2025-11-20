@@ -365,4 +365,8 @@ Select the authentication and configure as required:
 
 
 ### Implement and manage self-service password reset (SSPR)
-By default if not turned 
+By default if not turned, Admin need to reset user pasword. Better turn this on.
+portal.azure.com
+microsoft entra id
+manage
+pa
