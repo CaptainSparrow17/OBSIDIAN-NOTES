@@ -259,3 +259,6 @@ On pern virtual admin account
 ![](../../Attachements/Pasted%20image%2020251120073355.png)
 
 DO next next next::
+![](../../Attachements/Pasted%20image%2020251120073427.png)
+Once done exit it..
+
