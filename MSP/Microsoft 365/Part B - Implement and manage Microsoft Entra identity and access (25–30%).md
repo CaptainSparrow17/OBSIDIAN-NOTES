@@ -269,3 +269,6 @@ cloud sync
 Then below tis opened
 ![](../../Attachements/Pasted%20image%2020251120073807.png)
 
+Then go to configuration-> new configuration=> AD to microsoft Entra ID Sync like below:
+![](../../Attachements/Pasted%20image%2020251120073906.png)
+
