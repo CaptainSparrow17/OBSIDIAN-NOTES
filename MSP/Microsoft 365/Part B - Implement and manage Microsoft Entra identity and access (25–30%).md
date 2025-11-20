@@ -276,4 +276,7 @@ It will auto detect like below:
 Select create in above site.
 Now below profi;e is opened::
 ![](../../Attachements/Pasted%20image%2020251120074011.png)
-The above will not sync anything, we hav
+The above will not sync anything, we have to open and sync it ourselves.
+Now go to manage-> scoping filter and selects what you wanna sync.
+
+![](../../Attachements/Pasted%20image%2020251120074110.png)
