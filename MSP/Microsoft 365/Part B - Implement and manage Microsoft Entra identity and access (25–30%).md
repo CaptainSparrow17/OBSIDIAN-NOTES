@@ -369,4 +369,8 @@ By default if not turned, Admin need to reset user pasword. Better turn this on.
 portal.azure.com
 microsoft entra id
 manage
-pa
+paword reset
+![](../../Attachements/Pasted%20image%2020251120085052.png)
+Then select for either group or for all
+![](../../Attachements/Pasted%20image%2020251120085134.png)
+
