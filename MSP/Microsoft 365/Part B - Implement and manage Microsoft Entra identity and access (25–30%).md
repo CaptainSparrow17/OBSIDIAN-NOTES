@@ -383,3 +383,5 @@ There is many question which you can add, edit, delete or remove:
 ##### Password write back for On-perm Integeration
 ![](../../Attachements/Pasted%20image%2020251120085509.png)
 If selected, password write back, both place will be password resseted.
+
+### Implement and manage Microsoft Entra Password Protection
