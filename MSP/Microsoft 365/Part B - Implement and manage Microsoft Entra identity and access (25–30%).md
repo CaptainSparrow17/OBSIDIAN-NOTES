@@ -405,3 +405,4 @@ password protection
 ![](../../Attachements/Pasted%20image%2020251120090301.png)
 lockout threshold=> atempt before lockout
 duration=> kati min lock
+custom banned passwords=> google ma top 10 thousands password and ban them
