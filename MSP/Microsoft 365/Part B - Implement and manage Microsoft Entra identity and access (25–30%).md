@@ -313,3 +313,6 @@ TO view go to sync error and services and view it:
 Thats how we gonna see if any sync error are there::
 
 #### Troubleshoot synchronization, including Entra Connect Sync and Entra Cloud Sync
+Go to health and analytic as above part and from there you can see everything:
+![](../../Attachements/Pasted%20image%2020251120080028.png)
+
