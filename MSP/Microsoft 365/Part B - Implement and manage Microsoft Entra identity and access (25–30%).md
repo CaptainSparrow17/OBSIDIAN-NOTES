@@ -403,3 +403,5 @@ security
 Authentication methods
 password protection
 ![](../../Attachements/Pasted%20image%2020251120090301.png)
+lockout threshold=> atempt before lockout
+duration=> kati min lock
