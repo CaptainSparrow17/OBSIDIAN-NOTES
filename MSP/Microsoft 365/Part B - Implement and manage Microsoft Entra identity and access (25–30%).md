@@ -435,5 +435,8 @@ Registration and reset events:
 ![](../../Attachements/Pasted%20image%2020251120091501.png)
 Above Shows log of reset event
 
-Bult operations
+Bulk operations
 ![](../../Attachements/Pasted%20image%2020251120091539.png)
+
+Yema main vaneko chai Activity and user registration details hun.. Tya bata idea hunxa...
+
