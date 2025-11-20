@@ -387,6 +387,9 @@ If selected, password write back, both place will be password resseted.
 ### Implement and manage Microsoft Entra Password Protection
 admin.microsoft.com
 setting
-organisation 
-set passwords to never expire::
+organisation settings
+
+set passwords to never expire:: hybrid user don't fall here in this section::
+Only cloud users fall here
 ![](../../Attachements/Pasted%20image%2020251120090002.png)
+You can uncheck and set password expiry date:
