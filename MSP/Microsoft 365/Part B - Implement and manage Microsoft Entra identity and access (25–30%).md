@@ -288,3 +288,9 @@ Once coping go back to scoping filter and paste like below and save it:
 ![](../../Attachements/Pasted%20image%2020251120074458.png)
 
 Now go to review and enable
+![](../../Attachements/Pasted%20image%2020251120074524.png)
+and select enable configuration:
+
+Now everything will be synced.
+
+Thus the users in t
