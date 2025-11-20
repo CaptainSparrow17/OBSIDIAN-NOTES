@@ -262,3 +262,5 @@ DO next next next::
 ![](../../Attachements/Pasted%20image%2020251120073427.png)
 Once done exit it..
 
+Once this is done go to portal.azure.com
+Mic
