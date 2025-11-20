@@ -253,5 +253,9 @@ select 1st entra cloud sync
 It will ask for authenticate and authenticate it.
 Once cred is done and authenticate:
 It will ask it needs to create gMSA(Group managed service account)
-Better use create GSMA
-![](../../Attachements/Pasted%20image%2020251120073309.png)
+Better use create gSMA
+We gonna use admin cred of on perm account::
+On pern virtual admin account
+![](../../Attachements/Pasted%20image%2020251120073355.png)
+
+DO next next next::
