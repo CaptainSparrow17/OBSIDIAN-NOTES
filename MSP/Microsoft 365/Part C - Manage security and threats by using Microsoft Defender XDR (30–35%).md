@@ -110,3 +110,7 @@ It will show any attacks you have and provide more information
 ![](../../Attachements/Pasted%20image%2020251121213008.png)
 
 You can asssign it and resolve it.
+Likewise it will shows any attacks and affected emails:
+![](../../Attachements/Pasted%20image%2020251121213343.png)
+
+
