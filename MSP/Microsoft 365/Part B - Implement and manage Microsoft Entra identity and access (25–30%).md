@@ -623,4 +623,6 @@ Entra ID => Security => Conditional Access
 create a new policy:: and in grant section select require multi factor authentication
 ![](../../Attachements/Pasted%20image%2020251121094358.png)
 
-on e
+on enable policy select on and create:
+![](../../Attachements/Pasted%20image%2020251121094459.png)
+
