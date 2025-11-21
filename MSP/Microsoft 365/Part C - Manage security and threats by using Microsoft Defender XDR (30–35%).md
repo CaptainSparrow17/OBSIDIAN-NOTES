@@ -80,4 +80,8 @@ I was able to browse secure score using above link but not via tab like above pi
 ![](../../Attachements/Pasted%20image%2020251121211226.png)
 ABove it will show last 90 days data.
 
-It looks at all users devices and everything and givees
+It looks at all users devices and everything and gives us score based on all data.
+Lists all thing we can de to improve security and gives scores.
+compares our security with our similar company and gives us score.
+
+Lets check my company security::
