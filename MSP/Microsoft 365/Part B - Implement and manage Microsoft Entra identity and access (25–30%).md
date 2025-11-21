@@ -563,4 +563,6 @@ You can grant or block assess if any conditions are met:
 ![](../../Attachements/Pasted%20image%2020251121083627.png)
 
 sessions: based on sessions.
-
+![](../../Attachements/Pasted%20image%2020251121083918.png)
+in 
+Once done select create and policy will be created
