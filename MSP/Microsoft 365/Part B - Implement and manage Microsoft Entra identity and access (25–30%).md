@@ -478,3 +478,5 @@ Required Roles:
 ![](../../Attachements/Pasted%20image%2020251121072942.png)
 
 #### Implement and manage Microsoft Entra ID Protection
+Entra ID P2 will have all features:
+portal.azure.com
