@@ -517,3 +517,7 @@ If any aleart you can notify somone or admin like below:
 The Dilemma
 ![](../../Attachements/Pasted%20image%2020251121081000.png)
 
+COmmon SIgnals::
+![](../../Attachements/Pasted%20image%2020251121081411.png)
+
+
