@@ -455,3 +455,5 @@ Yema main vaneko chai Activity and user registration details hun.. Tya bata idea
 
 ## Plan for Identity Protection
 Used to be called Azure AD protection
+![](../../Attachements/Pasted%20image%2020251121071202.png)
+Checking weather you are what you are saying you are.
