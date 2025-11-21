@@ -576,3 +576,6 @@ How MFA works in Entra ID
 MFA Supported by Microsoft:
 ![](../../Attachements/Pasted%20image%2020251121085240.png)
 
+What license you need?
+![](../../Attachements/Pasted%20image%2020251121085505.png)
+The above risk base
