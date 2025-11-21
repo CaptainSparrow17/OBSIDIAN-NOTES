@@ -615,3 +615,8 @@ Now lets go to Multifactor authentication::
 ![](../../Attachements/Pasted%20image%2020251121093003.png)
 OATH => Its key file which we can give customer/stamm/contractor to login
 It is CSV files with auth code
+
+##### Now lets deploy MFA without using Security default
+We gonna use conditional access:
+
+Entra ID => Security => Conditional Access
