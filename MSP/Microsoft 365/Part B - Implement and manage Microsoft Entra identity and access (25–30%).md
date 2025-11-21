@@ -559,4 +559,6 @@ conditions:: conditions for policy to get affected.
 This is tied to identity protection:
 ![](../../Attachements/Pasted%20image%2020251121083305.png)
 
+You can grant or block assess if any conditions are met:
+![](../../Attachements/Pasted%20image%2020251121083627.png)
 
