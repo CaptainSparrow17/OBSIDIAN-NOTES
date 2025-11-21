@@ -554,3 +554,4 @@ Select create to create a new policy
 The below tab will get opened and select user and groups where you wanna implement policy:
 
 ![](../../Attachements/Pasted%20image%2020251121083000.png)
+Target resource = cloud apps
