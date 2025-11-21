@@ -539,3 +539,12 @@ protection
 conditional access => whereever you go, it gonna take get saved in Entra ID( FOrmally called Azure AD)
 ![](../../Attachements/Pasted%20image%2020251121082659.png)
 
+Other:
+intune.microsoft.com
+devices
+conditional Access:
+![](../../Attachements/Pasted%20image%2020251121082751.png)
+
+Where ever you create conditional access policies, it will get linked to conditional access policy.
+
+Lets get back to portal.az
