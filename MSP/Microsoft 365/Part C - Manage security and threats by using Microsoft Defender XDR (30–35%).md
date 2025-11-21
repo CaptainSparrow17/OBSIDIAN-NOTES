@@ -109,3 +109,4 @@ incident & alerts
 It will show any attacks you have and provide more information
 ![](../../Attachements/Pasted%20image%2020251121213008.png)
 
+You can asssign it and resolve it.
