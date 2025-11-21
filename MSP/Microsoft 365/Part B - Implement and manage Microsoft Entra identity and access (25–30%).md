@@ -588,7 +588,8 @@ Microsoft Entra ID
 MAnage
 Properties
 ![](../../Attachements/Pasted%20image%2020251121091651.png)
-see 
+see below as well, Mathi ko chai on xa tehi vayera testo dekhayo, talako on xaina tehi vayera yesto dekhauxa..
+![](../../Attachements/Pasted%20image%2020251121091849.png)
 Might be implemented by default:
 ![](../../Attachements/Pasted%20image%2020251121091750.png)
 
