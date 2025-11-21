@@ -71,3 +71,5 @@ Section 12 22 min
 
 
 ## Review & take actions to improve the MS Secure Score in the Microsoft Defender
+ Go to admin.microsoft.com and select security tabs:
+ 
