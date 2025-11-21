@@ -513,3 +513,7 @@ If any aleart you can notify somone or admin like below:
 #### COnditional ACCESS
 ![](../../Attachements/Pasted%20image%2020251121080718.png)
 
+
+The Dilemma
+![](../../Attachements/Pasted%20image%2020251121081000.png)
+
