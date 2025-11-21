@@ -7,6 +7,8 @@ Access and maintain share point
 [atishojha@atishojhanepal.onmicrosoft.com](mailto:atishojha@atishojhanepal.onmicrosoft.com)
 **Binita1!
 
+atishojha@atishojhanepal.onmicrosoft.com
+
 
 https://www.udemy.com/course/ms-102-microsoft-365-administrator-practice-tests-2024/?couponCode=KEEPLEARNINGGB => Buy this test questions
 
