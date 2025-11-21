@@ -85,3 +85,8 @@ Lists all thing we can de to improve security and gives scores.
 compares our security with our similar company and gives us score.
 
 Lets check my company security::
+![](../../Attachements/Pasted%20image%2020251121211940.png)
+
+Shows recommendation actions like below:
+![](../../Attachements/Pasted%20image%2020251121212018.png)
+
