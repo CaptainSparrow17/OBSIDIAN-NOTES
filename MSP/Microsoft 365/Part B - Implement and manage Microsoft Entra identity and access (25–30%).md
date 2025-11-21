@@ -602,4 +602,5 @@ Authentication methods
 Then below tab will open:
 ![](../../Attachements/Pasted%20image%2020251121092056.png)
 The above are the MFA supported and you can see weather enabled or not.
-You can use what MFA method to select and 
+You can use what MFA method to select and enable
+can be done for specific users or all users.
