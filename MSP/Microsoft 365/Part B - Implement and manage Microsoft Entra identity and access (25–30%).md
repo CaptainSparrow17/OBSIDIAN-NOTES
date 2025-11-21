@@ -588,5 +588,7 @@ Microsoft Entra ID
 MAnage
 Properties
 ![](../../Attachements/Pasted%20image%2020251121091651.png)
-
+see 
+Might be implemented by default:
+![](../../Attachements/Pasted%20image%2020251121091750.png)
 
