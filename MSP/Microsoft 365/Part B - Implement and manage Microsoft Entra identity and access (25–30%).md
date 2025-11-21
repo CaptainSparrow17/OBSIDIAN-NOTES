@@ -496,3 +496,4 @@ Access::What to do if flagged is happened?
 Block? Ask Multi factor Authentication..
 ![](../../Attachements/Pasted%20image%2020251121073710.png)
 
+Same cocept 
