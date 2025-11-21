@@ -524,3 +524,6 @@ COmmon SIgnals::
 SIgnal Examples::
 ![](../../Attachements/Pasted%20image%2020251121081727.png)
 
+What to do if SIgnals are Detected::
+![](../../Attachements/Pasted%20image%2020251121082120.png)
+
