@@ -527,3 +527,8 @@ SIgnal Examples::
 What to do if SIgnals are Detected::
 ![](../../Attachements/Pasted%20image%2020251121082120.png)
 
+###
+portal.azure.com
+Microsoft Entra ID
+Security
+conditional access
