@@ -536,4 +536,6 @@ conditional access
 
 Can go to entra.microsoft.com
 protection
-conditional access => whereever you go, it gonna take you to 
+conditional access => whereever you go, it gonna take get saved in Entra ID( FOrmally called Azure AD)
+![](../../Attachements/Pasted%20image%2020251121082659.png)
+
