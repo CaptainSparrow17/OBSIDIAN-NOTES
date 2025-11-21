@@ -593,3 +593,8 @@ see below as well, Mathi ko chai on xa tehi vayera testo dekhayo, talako on xain
 Might be implemented by default:
 ![](../../Attachements/Pasted%20image%2020251121091750.png)
 
+NOw lets go to:
+portal.azure.com
+micro intra ID
+security
+Authentication methods
