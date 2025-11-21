@@ -566,3 +566,6 @@ sessions: based on sessions.
 ![](../../Attachements/Pasted%20image%2020251121083918.png)
 in above enable it or report it.
 Once done select create and policy will be created
+
+### Concepts of multi-factor authentication (MFA)
+![](../../Attachements/Pasted%20image%2020251121084050.png)
