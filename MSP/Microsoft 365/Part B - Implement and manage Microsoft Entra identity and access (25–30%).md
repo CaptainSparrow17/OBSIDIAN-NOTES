@@ -556,4 +556,7 @@ The below tab will get opened and select user and groups where you wanna impleme
 ![](../../Attachements/Pasted%20image%2020251121083000.png)
 Target resource = cloud apps
 conditions:: conditions for policy to get affected.
-This is tied to ident
+This is tied to identity protection:
+![](../../Attachements/Pasted%20image%2020251121083305.png)
+
+
