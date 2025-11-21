@@ -521,3 +521,6 @@ COmmon SIgnals::
 ![](../../Attachements/Pasted%20image%2020251121081411.png)
 
 
+SIgnal Examples::
+![](../../Attachements/Pasted%20image%2020251121081727.png)
+
