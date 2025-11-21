@@ -473,3 +473,7 @@ User Risk Detections:
 
 License Requirements:
 ![](../../Attachements/Pasted%20image%2020251121072814.png)
+
+Required Roles:
+![](../../Attachements/Pasted%20image%2020251121072942.png)
+
