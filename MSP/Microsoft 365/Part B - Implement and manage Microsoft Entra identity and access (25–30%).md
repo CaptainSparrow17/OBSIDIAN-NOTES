@@ -477,3 +477,4 @@ License Requirements:
 Required Roles:
 ![](../../Attachements/Pasted%20image%2020251121072942.png)
 
+### Implement and manage Microsoft Entra ID Protection
