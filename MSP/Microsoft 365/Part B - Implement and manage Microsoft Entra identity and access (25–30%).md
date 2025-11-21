@@ -467,3 +467,4 @@ Types of Risk
 ![](../../Attachements/Pasted%20image%2020251121072248.png)
 Risky Sign in: sinin from india and china within one min difference
 Risky user: used to work 9-5, but one day logged in at 1 am
+![](../../Attachements/Pasted%20image%2020251121072430.png)
