@@ -611,4 +611,7 @@ More:
 ![](../../Attachements/Pasted%20image%2020251121092753.png)
 See above you can see Authentication method and Multifactot Authentication. Talai lagla multifactor authentication tab ma sab garni ho tara testo hoina, authentication methods ma chai sab garni ho,,
 
-Now lets g
+Now lets go to Multifactor authentication::
+![](../../Attachements/Pasted%20image%2020251121093003.png)
+OATH => Its key file which we can give customer/stamm/contractor to login
+It is CSV files with auth code
