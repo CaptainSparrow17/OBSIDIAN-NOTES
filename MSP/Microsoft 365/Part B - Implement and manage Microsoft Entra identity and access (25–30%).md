@@ -462,3 +462,7 @@ Can be paired of conditional access policy and if certain signals are generated 
 
 Entra ID Signals
 ![](../../Attachements/Pasted%20image%2020251121072039.png)
+
+Types of Risk
+![](../../Attachements/Pasted%20image%2020251121072248.png)
+Risky
