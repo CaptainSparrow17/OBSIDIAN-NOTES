@@ -587,3 +587,6 @@ portal.azure.com
 Microsoft Entra ID
 MAnage
 Properties
+![](../../Attachements/Pasted%20image%2020251121091651.png)
+
+
