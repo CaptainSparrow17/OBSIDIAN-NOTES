@@ -547,4 +547,8 @@ conditional Access:
 
 Where ever you create conditional access policies, it will get linked to conditional access policy.
 
-Lets get back to portal.az
+Lets get back to portal.azure.com
+Select create to create a new policy
+
+![](../../Attachements/Pasted%20image%2020251121082904.png)
+The below tab will get opened and sel
