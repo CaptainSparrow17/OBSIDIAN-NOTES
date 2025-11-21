@@ -579,3 +579,8 @@ MFA Supported by Microsoft:
 What license you need?
 ![](../../Attachements/Pasted%20image%2020251121085505.png)
 The above risk based falls on conditional access MFA but needs the license.
+
+
+#### Implement multi-factor authentication (MFA) by using conditional access policies
+##### Security defaults::
+portal.azure.com
