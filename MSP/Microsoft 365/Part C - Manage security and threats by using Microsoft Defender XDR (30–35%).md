@@ -53,4 +53,7 @@
     
 - Review and respond to issues identified in Cloud App Discovery
 
-Section 9/10/11/12
+Section 9 20 min
+Section 10 
+Section 11
+Section 12
