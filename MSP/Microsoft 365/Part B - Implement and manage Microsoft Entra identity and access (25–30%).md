@@ -578,4 +578,4 @@ MFA Supported by Microsoft:
 
 What license you need?
 ![](../../Attachements/Pasted%20image%2020251121085505.png)
-The above risk base
+The above risk based falls on conditional access MFA but needs the license.
