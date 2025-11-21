@@ -598,3 +598,6 @@ portal.azure.com
 micro intra ID
 security
 Authentication methods
+![](../../Attachements/Pasted%20image%2020251121092038.png)
+Then below tab will open:
+![](../../Attachements/Pasted%20image%2020251121092056.png)
