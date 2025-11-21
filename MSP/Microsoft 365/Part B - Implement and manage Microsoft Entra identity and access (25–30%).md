@@ -620,4 +620,7 @@ It is CSV files with auth code
 We gonna use conditional access:
 
 Entra ID => Security => Conditional Access
-create a new policy::
+create a new policy:: and in grant section select require multi factor authentication
+![](../../Attachements/Pasted%20image%2020251121094358.png)
+
+on e
