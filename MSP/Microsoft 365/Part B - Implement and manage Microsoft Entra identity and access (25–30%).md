@@ -620,3 +620,4 @@ It is CSV files with auth code
 We gonna use conditional access:
 
 Entra ID => Security => Conditional Access
+create a new policy::
