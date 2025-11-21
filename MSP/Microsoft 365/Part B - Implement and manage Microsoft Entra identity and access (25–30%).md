@@ -584,3 +584,6 @@ The above risk based falls on conditional access MFA but needs the license.
 #### Implement multi-factor authentication (MFA) by using conditional access policies
 ##### Security defaults::
 portal.azure.com
+Microsoft Entra ID
+MAnage
+Properties
