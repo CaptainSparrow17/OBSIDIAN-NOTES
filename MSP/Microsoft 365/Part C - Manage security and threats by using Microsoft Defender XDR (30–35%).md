@@ -103,3 +103,9 @@ Below metrics and trend gives data compared to other orgn with similar sizes.
 portal.microsofr.com
 security
 incident & alerts
+
+![](../../Attachements/Pasted%20image%2020251121212939.png)
+
+It will show any attacks you have and provide more information
+![](../../Attachements/Pasted%20image%2020251121213008.png)
+
