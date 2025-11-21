@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
+                "file": "MSP/Microsoft 365/To Study.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part B - Implement and manage Microsoft Entra identity and access (25–30%)"
+              "title": "To Study"
+            }
+          },
+          {
+            "id": "8c71e7c70d9bd1b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSP/Microsoft 365/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           },
           {
@@ -64,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,8 +232,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4269ae0e4d785e7e",
+  "active": "8c71e7c70d9bd1b4",
   "lastOpenFiles": [
+    "MSP/Microsoft 365/To Study.md",
+    "MSP/Microsoft 365/Untitled.md",
+    "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "Attachements/Pasted image 20251121094459.png",
     "Attachements/Pasted image 20251121094358.png",
     "Attachements/Pasted image 20251121093003.png",
@@ -230,9 +247,6 @@
     "Attachements/Pasted image 20251121091750.png",
     "Attachements/Pasted image 20251121091651.png",
     "Attachements/Pasted image 20251121085505.png",
-    "Attachements/Pasted image 20251121085240.png",
-    "MSP/Microsoft 365/To Study.md",
-    "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
     "MSP/Microsoft 365/Mailing Services.md",
     "MSP/Microsoft 365/Untitled",
