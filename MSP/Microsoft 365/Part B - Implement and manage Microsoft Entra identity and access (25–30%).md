@@ -564,5 +564,5 @@ You can grant or block assess if any conditions are met:
 
 sessions: based on sessions.
 ![](../../Attachements/Pasted%20image%2020251121083918.png)
-in 
+in above enable it or report it.
 Once done select create and policy will be created
