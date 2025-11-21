@@ -74,4 +74,6 @@ Section 12 22 min
  Go to admin.microsoft.com and select security tabs:
  Then it gonna open Welcome to Microsoft Defender ICON::
  ![](../../Attachements/Pasted%20image%2020251121205558.png)
+https://security.microsoft.com/securescore
+I was able to browse secure score using above link but not via tab like above picx.
 
