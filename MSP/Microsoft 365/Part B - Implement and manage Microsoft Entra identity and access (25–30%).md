@@ -572,3 +572,7 @@ Once done select create and policy will be created
 
 How MFA works in Entra ID
 ![](../../Attachements/Pasted%20image%2020251121085007.png)
+
+MFA Supported by Microsoft:
+![](../../Attachements/Pasted%20image%2020251121085240.png)
+
