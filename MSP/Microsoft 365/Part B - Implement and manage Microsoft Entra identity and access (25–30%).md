@@ -507,3 +507,6 @@ Multifactor authentication registation policy: better tell all user to use MFA.
 In report you can view risky users, words, signins and all
 ![](../../Attachements/Pasted%20image%2020251121074852.png)
 
+If any aleart you can notify somone or admin like below:
+![](../../Attachements/Pasted%20image%2020251121075211.png)
+
