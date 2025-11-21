@@ -569,3 +569,6 @@ Once done select create and policy will be created
 
 ### Concepts of multi-factor authentication (MFA)
 ![](../../Attachements/Pasted%20image%2020251121084050.png)
+
+How MFA works in Entra ID
+![](../../Attachements/Pasted%20image%2020251121085007.png)
