@@ -457,3 +457,5 @@ Yema main vaneko chai Activity and user registration details hun.. Tya bata idea
 Used to be called Azure AD protection
 ![](../../Attachements/Pasted%20image%2020251121071202.png)
 Checking weather you are what you are saying you are. The user are chai jo vanera vaneko tehi ho hacker hoina. Password thahapayera login garna lako hoina.
+AI - looks when someone is loging are from where, from where they are loging what devices and at what time. AI will monitor all of it.
+Can be paired of con
