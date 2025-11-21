@@ -607,3 +607,6 @@ can be done for specific users or all users.
 
 The idea is select them and turn them on or off.
 
+More:
+![](../../Attachements/Pasted%20image%2020251121092753.png)
+See above you can see Authentication method and Multifactot Authentication. Talai lagla multifactor authentication tab ma sab garni ho tara testo hoina, authentication methods ma chai sab gar
