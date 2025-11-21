@@ -77,3 +77,5 @@ Section 12 22 min
 https://security.microsoft.com/securescore
 I was able to browse secure score using above link but not via tab like above picx.
 
+![](../../Attachements/Pasted%20image%2020251121211226.png)
+ABove it will show last 90 days data.
