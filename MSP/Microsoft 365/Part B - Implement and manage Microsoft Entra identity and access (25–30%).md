@@ -492,5 +492,7 @@ Sign - in -risk
 ![](../../Attachements/Pasted%20image%2020251121073523.png)
 Like above you can change it to medium or small or high
 
-Access::What to do 
+Access::What to do if flagged is happened? 
+Block? Ask Multi factor Authentication..
 ![](../../Attachements/Pasted%20image%2020251121073710.png)
+
