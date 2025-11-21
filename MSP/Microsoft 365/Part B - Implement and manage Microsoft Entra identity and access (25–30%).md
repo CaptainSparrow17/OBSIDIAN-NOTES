@@ -491,3 +491,6 @@ We have user risk policy and signin policy:
 Sign - in -risk
 ![](../../Attachements/Pasted%20image%2020251121073523.png)
 Like above you can change it to medium or small or high
+
+Access::What to do 
+![](../../Attachements/Pasted%20image%2020251121073710.png)
