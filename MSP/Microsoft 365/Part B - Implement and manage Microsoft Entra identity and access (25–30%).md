@@ -604,3 +604,6 @@ Then below tab will open:
 The above are the MFA supported and you can see weather enabled or not.
 You can use what MFA method to select and enable
 can be done for specific users or all users.
+
+The idea is select them and turn them on or off.
+
