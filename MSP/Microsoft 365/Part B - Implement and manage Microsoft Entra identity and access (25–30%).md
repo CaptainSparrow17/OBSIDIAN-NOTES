@@ -504,3 +504,6 @@ We can also have conditional Access policy in combined with this::
 Multifactor authentication registation policy: better tell all user to use MFA.
 ![](../../Attachements/Pasted%20image%2020251121074747.png)
 
+In report you can view risky users, words, signins and all
+![](../../Attachements/Pasted%20image%2020251121074852.png)
+
