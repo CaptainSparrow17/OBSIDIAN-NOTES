@@ -625,4 +625,5 @@ create a new policy:: and in grant section select require multi factor authentic
 
 on enable policy select on and create:
 ![](../../Attachements/Pasted%20image%2020251121094459.png)
+by default admin needs mfa
 
