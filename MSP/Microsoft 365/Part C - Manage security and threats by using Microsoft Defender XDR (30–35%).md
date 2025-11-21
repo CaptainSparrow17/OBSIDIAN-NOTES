@@ -79,3 +79,5 @@ I was able to browse secure score using above link but not via tab like above pi
 
 ![](../../Attachements/Pasted%20image%2020251121211226.png)
 ABove it will show last 90 days data.
+
+It looks at all users devices and everything and givees
