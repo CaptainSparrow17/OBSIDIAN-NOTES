@@ -71,6 +71,8 @@ Section 12 22 min
 
 
 ## Review & take actions to improve the MS Secure Score in the Microsoft Defender
+Just found secure score
+![](../../Attachements/Pasted%20image%2020251121212811.png)
  Go to admin.microsoft.com and select security tabs:
  Then it gonna open Welcome to Microsoft Defender ICON::
  ![](../../Attachements/Pasted%20image%2020251121205558.png)
