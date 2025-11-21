@@ -90,3 +90,7 @@ Lets check my company security::
 Shows recommendation actions like below:
 ![](../../Attachements/Pasted%20image%2020251121212018.png)
 
+When clicked it shows what to do and explain it:
+provides step by step action how to implement it.
+![](../../Attachements/Pasted%20image%2020251121212207.png)
+
