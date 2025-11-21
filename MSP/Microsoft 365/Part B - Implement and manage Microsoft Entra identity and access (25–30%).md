@@ -453,4 +453,5 @@ Yema main vaneko chai Activity and user registration details hun.. Tya bata idea
     
 - Implement and manage multifactor authentication (MFA) by using conditional access policies
 
-###
+## Plan for Identity Protection
+Used to be called Azure AD protection
