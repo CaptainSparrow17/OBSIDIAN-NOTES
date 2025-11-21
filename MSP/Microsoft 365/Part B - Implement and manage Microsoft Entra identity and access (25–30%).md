@@ -527,8 +527,13 @@ SIgnal Examples::
 What to do if SIgnals are Detected::
 ![](../../Attachements/Pasted%20image%2020251121082120.png)
 
-###
+### Implement and manage Conditional Access policies
 portal.azure.com
 Microsoft Entra ID
 Security
 conditional access
+![](../../Attachements/Pasted%20image%2020251121082532.png)
+
+Can go to entra.microsoft.com
+protection
+conditional access => whereever you go, it gonna take you to 
