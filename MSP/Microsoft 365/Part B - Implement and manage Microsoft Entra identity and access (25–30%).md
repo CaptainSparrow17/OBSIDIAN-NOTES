@@ -481,5 +481,11 @@ Required Roles:
 Entra ID P2 will have all features:
 portal.azure.com
 Microsoft Entra ID
-
+security
+Identity protection
 ![](../../Attachements/Pasted%20image%2020251121073326.png)
+
+We have user risk policy and signin policy:
+![](../../Attachements/Pasted%20image%2020251121073500.png)
+
+Sign
