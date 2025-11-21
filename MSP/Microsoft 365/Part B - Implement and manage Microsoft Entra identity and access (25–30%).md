@@ -510,3 +510,6 @@ In report you can view risky users, words, signins and all
 If any aleart you can notify somone or admin like below:
 ![](../../Attachements/Pasted%20image%2020251121075211.png)
 
+#### COnditional ACCESS
+![](../../Attachements/Pasted%20image%2020251121080718.png)
+
