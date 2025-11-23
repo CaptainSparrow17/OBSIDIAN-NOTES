@@ -134,3 +134,10 @@ It has devices and any reports with it:
 
 It shows all threat analytic data and all.
 
+### Review and respond to threats identified in threat analytics
+admin.microsoft.com
+security
+Threat Intelligence-> Threat analytics
+![](../../Attachements/Pasted%20image%2020251123085207.png)
+
+Microsoft always looks for threat intel
