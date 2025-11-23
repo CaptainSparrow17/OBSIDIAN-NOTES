@@ -142,3 +142,7 @@ Threat Intelligence-> Threat analytics
 
 Microsoft always looks for threat intelligence.
 It keeps tracks of latest and greatest threats
+
+There is also email notification settings::
+![](../../Attachements/Pasted%20image%2020251123092103.png)
+It will notify of threats if anythings happens.
