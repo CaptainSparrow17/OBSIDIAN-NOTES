@@ -172,4 +172,4 @@ Previously it was just email. Now it is a solid defender
 POLICIES::
 ![](../../Attachements/Pasted%20image%2020251123094107.png)
 
-File will be checked in detenation chambe
+File will be checked in detenation chamber and tested there. 
