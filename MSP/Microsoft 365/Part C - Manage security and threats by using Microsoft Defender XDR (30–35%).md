@@ -182,4 +182,8 @@ portal.microsoft.com
 security => Take you to 365 security
 ![](../../Attachements/Pasted%20image%2020251123094859.png)
 
-Threat policies has 3/
+Threat policies has 3/4 sections::
+Templated Policies
+Policies
+Rules 
+Others
