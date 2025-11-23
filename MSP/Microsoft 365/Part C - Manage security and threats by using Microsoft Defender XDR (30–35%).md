@@ -125,4 +125,7 @@ reports = > security reports
 We have data and DLP (Data loss prevention ) policy
 ![](../../Attachements/Pasted%20image%2020251123084457.png)
 
-It has D
+It has DLP false positives as well
+![](../../Attachements/Pasted%20image%2020251123084538.png)
+
+It ha devices and any reports with it:
