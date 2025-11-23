@@ -176,3 +176,7 @@ File will be checked in detenation chamber and tested there.
 Uh, if it's if it's attached to SharePoint, OneDrive, teams shared, you know, for collaboration, the file will be tested in the detonation chamber. The detonation chamber is actually a container like virtual machine type of environment. Uh, and it gets opened up inside that detonation chamber and it gets tested to see what that file is trying to do. If it's attempting to, um, you know, access the registry and windows, if it's attempting to, uh, change a system file, you know, it kind of analyzes what that file is doing, and then it gives it a rating based on the activities of it.
 
 Can also see who all are clicking the Phishing emails and all..
+
+### Implement policies and rules in Defender for Office 365
+portal.microsoft.com
+security
