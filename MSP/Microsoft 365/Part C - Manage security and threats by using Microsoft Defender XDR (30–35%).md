@@ -179,4 +179,6 @@ Can also see who all are clicking the Phishing emails and all..
 
 ### Implement policies and rules in Defender for Office 365
 portal.microsoft.com
-security
+security => Take you to 365 security
+![](../../Attachements/Pasted%20image%2020251123094859.png)
+
