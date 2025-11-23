@@ -165,3 +165,10 @@ It will notify of threats if anythings happens.
 
 
 ### Understanding Defender for Office 365
+
+Previously it was just email. Now it is a solid defender
+![](../../Attachements/Pasted%20image%2020251123094025.png)
+
+POLICIES::
+![](../../Attachements/Pasted%20image%2020251123094107.png)
+
