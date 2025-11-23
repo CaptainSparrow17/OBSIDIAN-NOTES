@@ -117,5 +117,7 @@ Likewise it will shows any attacks and affected emails:
 
 ## Review and respond to issues identified in security & compliance reports
 
-Go to admin.m
+Go to admin.micro.com
+security
+reports = > security reports
 ![](../../Attachements/Pasted%20image%2020251123084220.png)
