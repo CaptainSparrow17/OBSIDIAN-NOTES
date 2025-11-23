@@ -140,4 +140,5 @@ security
 Threat Intelligence-> Threat analytics
 ![](../../Attachements/Pasted%20image%2020251123085207.png)
 
-Microsoft always looks for threat intel
+Microsoft always looks for threat intelligence.
+It keeps tracks of latest and greatest threats
