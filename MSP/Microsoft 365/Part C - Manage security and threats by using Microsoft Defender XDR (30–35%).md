@@ -146,3 +146,19 @@ It keeps tracks of latest and greatest threats
 There is also email notification settings::
 ![](../../Attachements/Pasted%20image%2020251123092103.png)
 It will notify of threats if anythings happens.
+
+
+#### Implement and manage email and collaboration protection by using Microsoft Defender for Office 365
+
+- Implement threat policies and rules in Microsoft Defender for Office 365
+    
+- Configure alert policies in Microsoft Defender for Office 365
+    
+- Investigate and respond to email and collaboration threats by using Microsoft Defender for Office 365
+    
+- Manage attack simulations, including training campaigns
+    
+- Manage restricted entities, including blocked users
+
+
+### Understanding Defender for Office 365
