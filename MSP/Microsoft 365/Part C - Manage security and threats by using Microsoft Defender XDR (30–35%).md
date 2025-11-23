@@ -121,3 +121,8 @@ Go to admin.micro.com
 security
 reports = > security reports
 ![](../../Attachements/Pasted%20image%2020251123084220.png)
+
+We have data and DLP (Data loss prevention ) policy
+![](../../Attachements/Pasted%20image%2020251123084457.png)
+
+It has D
