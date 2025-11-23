@@ -128,4 +128,9 @@ We have data and DLP (Data loss prevention ) policy
 It has DLP false positives as well
 ![](../../Attachements/Pasted%20image%2020251123084538.png)
 
-It ha devices and any reports with it:
+It has devices and any reports with it:
+![](../../Attachements/Pasted%20image%2020251123084632.png)
+
+
+It shows all threat analytic data and all.
+
