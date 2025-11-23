@@ -114,3 +114,5 @@ Likewise it will shows any attacks and affected emails:
 ![](../../Attachements/Pasted%20image%2020251121213343.png)
 
 
+
+## Review and respond to issues identified in security & compliance reports
