@@ -126,12 +126,14 @@
             "id": "d85f072e88d11235",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "Google Cybersecurity/1. Foundations of Cybersecurity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "1. Foundations of Cybersecurity"
             }
           },
           {
