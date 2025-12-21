@@ -123,6 +123,18 @@
             }
           },
           {
+            "id": "d85f072e88d11235",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
             "id": "292b26343f43319a",
             "type": "leaf",
             "state": {
@@ -151,7 +163,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -305,7 +317,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cdda27b07b13f777",
+  "active": "d85f072e88d11235",
   "lastOpenFiles": [
     "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
     "Google Cybersecurity/1. Foundations of Cybersecurity.md",
