@@ -7,9 +7,12 @@ PDF: pdfcrack, john (via pdf2john)
 ZIP: fcrackzip, john (via zip2john)
 General: john (very flexible) and hashcat (GPU acceleration, more advanced)
 
+
+#### pdfcrack to crack pdf
 ```
 pdfcrack -f flag.pdf -w /usr/share/wordlists/rockyou.txt 
 ```
 
 
 #### John to crack zip
+![](../Attachements/Pasted%20image%2020251224182620.png)
