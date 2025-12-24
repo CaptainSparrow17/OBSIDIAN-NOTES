@@ -11,3 +11,5 @@ General: john (very flexible) and hashcat (GPU acceleration, more advanced)
 pdfcrack -f flag.pdf -w /usr/share/wordlists/rockyou.txt 
 ```
 
+
+#### John to crack zip
