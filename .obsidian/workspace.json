@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "0. Google Cybersecurity Certificate courses"
             }
+          },
+          {
+            "id": "ed3d56634076cc4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. Connect and Protect; Networks and Network Security"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,11 +204,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d4534fc3c2ce3ac2",
+  "active": "ed3d56634076cc4d",
   "lastOpenFiles": [
+    "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
+    "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
     "Google Cybersecurity/2. Play It Safe; Manage Security Risks.md",
     "Google Cybersecurity/1. Foundations of Cybersecurity.md",
-    "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
     "CYBERSECURITY/Password Attacks.md",
     "Attachements/Pasted image 20251224182620.png",
     "Attachements/Pasted image 20251224163728.png",
@@ -237,7 +252,6 @@
     "OSCP/6.0 Information Gathering.md",
     "OSCP/001.md",
     "OSCP/2.0 Task 2 (Info).md",
-    "CYBERSECURITY/ENUMURATION/SMB 445.md",
     "CYBERSECURITY/ENUMURATION"
   ]
 }
