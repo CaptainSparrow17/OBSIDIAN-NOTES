@@ -48,9 +48,21 @@
               "icon": "lucide-file",
               "title": "0. Google Cybersecurity Certificate courses"
             }
+          },
+          {
+            "id": "cc242fe8fb7615bd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -204,7 +216,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed3d56634076cc4d",
+  "active": "cc242fe8fb7615bd",
   "lastOpenFiles": [
     "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
     "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
