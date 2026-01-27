@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "2. Play It Safe; Manage Security Risks"
             }
+          },
+          {
+            "id": "8e9d46df36af7249",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4c1fa43bdc508f61",
+  "active": "8e9d46df36af7249",
   "lastOpenFiles": [
     "Google Cybersecurity/7. Automate Cybersecurity Tasks with Python.md",
     "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
