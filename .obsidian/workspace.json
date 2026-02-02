@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Google Cybersecurity/2. Play It Safe; Manage Security Risks.md",
+                "file": "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Play It Safe; Manage Security Risks"
+              "title": "3. Connect and Protect; Networks and Network Security"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "71c69865f826e04a",
   "lastOpenFiles": [
-    "Google Cybersecurity/7. Automate Cybersecurity Tasks with Python.md",
     "Google Cybersecurity/2. Play It Safe; Manage Security Risks.md",
+    "Google Cybersecurity/7. Automate Cybersecurity Tasks with Python.md",
     "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
     "Google Cybersecurity/1. Foundations of Cybersecurity.md",
     "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
