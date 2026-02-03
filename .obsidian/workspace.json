@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "3. Connect and Protect; Networks and Network Security"
             }
+          },
+          {
+            "id": "afda61f9d126e77d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity/2. Play It Safe; Manage Security Risks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Play It Safe; Manage Security Risks"
+            }
+          },
+          {
+            "id": "20a2f2e2a63e0a21",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Google Cybersecurity/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,11 +204,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71c69865f826e04a",
+  "active": "20a2f2e2a63e0a21",
   "lastOpenFiles": [
     "Google Cybersecurity/2. Play It Safe; Manage Security Risks.md",
-    "Google Cybersecurity/7. Automate Cybersecurity Tasks with Python.md",
+    "Google Cybersecurity/Untitled.md",
+    "Google Cybersecurity/5. Assets, Threats, and Vulnerabilities.md",
     "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
+    "Untitled",
+    "Google Cybersecurity/7. Automate Cybersecurity Tasks with Python.md",
     "Google Cybersecurity/1. Foundations of Cybersecurity.md",
     "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
     "CYBERSECURITY/Password Attacks.md",
@@ -220,9 +252,6 @@
     "MSP",
     "CYBERSECURITY/ENUMURATION/SSH(22).md",
     "CYBERSECURITY/ENUMURATION/FTP.md",
-    "CYBERSECURITY/ENUMURATION/Untitled 1.md",
-    "OSCP/6.0 Information Gathering.md",
-    "OSCP/001.md",
-    "CYBERSECURITY/ENUMURATION"
+    "CYBERSECURITY/ENUMURATION/Untitled 1.md"
   ]
 }
