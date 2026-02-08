@@ -62,9 +62,21 @@
               "icon": "lucide-file",
               "title": "6. Sound the Alarm; Detection and Response"
             }
+          },
+          {
+            "id": "66ab7d17ad93bc61",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -218,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0145bf1ee6ef8ea7",
+  "active": "66ab7d17ad93bc61",
   "lastOpenFiles": [
     "Attachements/Pasted image 20260207194426.png",
     "Google Cybersecurity/5. Assets, Threats, and Vulnerabilities.md",
