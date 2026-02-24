@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
+                "file": "extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Part B - Implement and manage Microsoft Entra identity and access (25–30%)"
+              "title": "extra"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffuf",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,8 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a52206c921365b54",
+  "active": "71c69865f826e04a",
   "lastOpenFiles": [
+    "2025-10-14 MS-102.md",
+    "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
     "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
     "Google Cybersecurity/6. Sound the Alarm; Detection and Response.md",
@@ -208,16 +209,14 @@
     "Attachements/Pasted image 20251123084632.png",
     "Attachements/Pasted image 20251123084538.png",
     "MSP/Microsoft 365/To Study.md",
-    "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "MSP/Microsoft 365/Mailing Services.md",
     "MSP/Microsoft 365/Untitled",
     "OSCP/7.0 Vulnerability Scanning.md",
     "MSP/Microsoft 365/Untitled 1.base",
     "MSP/Microsoft 365/Untitled.base",
-    "2025-10-26.md",
+    "extra.md",
     "Attachements/Identities+in+Microsoft+Entra+ID.pdf",
     "CYBERSECURITY/WEB APP VULNERABILITIES.md",
-    "2025-10-14 MS-102.md",
     "MSP/AD DS/AD DS.md",
     "MSP/AD DS",
     "MSP/Untitled/Untitled",
