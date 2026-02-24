@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ffuf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71c69865f826e04a",
+  "active": "a52206c921365b54",
   "lastOpenFiles": [
     "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
     "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
