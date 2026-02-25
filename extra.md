@@ -11,3 +11,7 @@ xset s noblank
 xset -dpms
 
 this works for me and keeps it open, I do it everytime I boot Kali because it doesn’t persist but I don’t mind 3 simple commands quick to type in and never had any issues this way.
+
+xset s off
+xset s noblank
+xset -dpms
