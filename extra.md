@@ -15,3 +15,6 @@ this works for me and keeps it open, I do it everytime I boot Kali because it do
 xset s off
 xset s noblank
 xset -dpms
+print(1)
+print(1)
+print(1)
