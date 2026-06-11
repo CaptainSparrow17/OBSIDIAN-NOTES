@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "extra"
             }
+          },
+          {
+            "id": "da576966354d2257",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "08262d295559b607",
+  "active": "da576966354d2257",
   "lastOpenFiles": [
     "HTB/1.0.md",
     "Attachements/Pasted image 20260228112507.png",
