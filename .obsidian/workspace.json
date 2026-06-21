@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands.md",
+                "file": "COMMANDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Commands"
+              "title": "COMMANDS"
             }
           }
         ]
@@ -175,10 +175,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2e95276b132fcf",
+  "active": "891682f413465609",
   "lastOpenFiles": [
+    "Attachements/Pasted image 20260621103444.png",
     "2025-10-14 MS-102.md",
-    "Commands.md",
+    "COMMANDS.md",
     "HTB/1.1 Nmap.md",
     "HTB/1.0.md",
     "HTB/0.1 Introduction to the Penetration Tester Path.md",
@@ -220,7 +221,6 @@
     "MSP/Microsoft 365/Untitled.md",
     "MSP/Microsoft 365/Part C - Manage security and threats by using Microsoft Defender XDR (30–35%).md",
     "MSP/Microsoft 365/To Study.md",
-    "MSP/Microsoft 365/Mailing Services.md",
     "MSP/Microsoft 365/Untitled",
     "MSP/Microsoft 365/Untitled 1.base",
     "MSP/Microsoft 365/Untitled.base",
