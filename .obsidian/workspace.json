@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "-Pn",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,6 +177,14 @@
   },
   "active": "891682f413465609",
   "lastOpenFiles": [
+    "HTB/1.0.md",
+    "HTB/0.1 Introduction to the Penetration Tester Path.md",
+    "2026-06-21.md",
+    "Untitled.canvas",
+    "HTB/Untitled 2.base",
+    "HTB/Untitled 1.base",
+    "HTB/Untitled.base",
+    "HTB/1.1 Nmap.md",
     "Attachements/Pasted image 20260621101418.png",
     "Attachements/Pasted image 20260621080356.png",
     "Attachements/Pasted image 20260621080257.png",
@@ -186,9 +193,6 @@
     "Attachements/Pasted image 20260619080123.png",
     "Attachements/Pasted image 20260619075941.png",
     "Attachements/Pasted image 20260616200341.png",
-    "HTB/0.1 Introduction to the Penetration Tester Path.md",
-    "HTB/1.1 Nmap.md",
-    "HTB/1.0.md",
     "Attachements/Pasted image 20260228112507.png",
     "extra.md",
     "HTB",
@@ -206,7 +210,6 @@
     "Google Cybersecurity/1. Foundations of Cybersecurity.md",
     "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
     "CYBERSECURITY/Password Attacks.md",
-    "Attachements/Pasted image 20251224182620.png",
     "CYBERSECURITY/PASSWORD ATTACK.canvas",
     "CYBERSECURITY/EXTRA.md",
     "CYBERSECURITY/Untitled 1.md",
@@ -218,12 +221,8 @@
     "MSP/Microsoft 365/To Study.md",
     "MSP/Microsoft 365/Mailing Services.md",
     "MSP/Microsoft 365/Untitled",
-    "OSCP/7.0 Vulnerability Scanning.md",
     "MSP/Microsoft 365/Untitled 1.base",
     "MSP/Microsoft 365/Untitled.base",
-    "Attachements/Identities+in+Microsoft+Entra+ID.pdf",
-    "MSP/AD DS",
-    "MSP/Untitled/Untitled",
-    "MSP/Microsoft 365"
+    "Attachements/Identities+in+Microsoft+Entra+ID.pdf"
   ]
 }
