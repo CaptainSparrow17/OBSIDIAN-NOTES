@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Untitled 1.md",
+                "file": "extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "extra"
             }
           }
         ]
@@ -177,11 +177,12 @@
   },
   "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
+    "COMMANDS.md",
+    "HTB/Untitled 1.md",
     "HTB/Untitled 2.md",
     "HTB/Untitled 3.md",
     "HTB/Untitled 4.md",
     "HTB/Untitled 5.md",
-    "COMMANDS.md",
     "2026-06-21.md",
     "2025-10-14 MS-102.md",
     "ZOTHERS/Untitled 2.base",
@@ -192,7 +193,6 @@
     "Attachements/Pasted image 20260627155516.png",
     "Attachements/Pasted image 20260627155412.png",
     "Attachements/Pasted image 20260627154218.png",
-    "HTB/Untitled 1.md",
     "Attachements/Pasted image 20260627145223.png",
     "Attachements/Pasted image 20260627145156.png",
     "Attachements/Pasted image 20260627140406.png",
