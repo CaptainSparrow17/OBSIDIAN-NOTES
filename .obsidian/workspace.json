@@ -11,14 +11,13 @@
             "id": "7dd94ba7afadcb20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "HTB/4. FOOTPRINTING.md",
-                "mode": "source",
-                "source": false
+                "file": "ZOTHERS/Untitled 2.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "4. FOOTPRINTING"
+              "icon": "lucide-table",
+              "title": "Untitled 2"
             }
           }
         ]
@@ -177,6 +176,9 @@
   },
   "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
+    "ZOTHERS/Untitled 1.base",
+    "ZOTHERS/Untitled.base",
+    "HTB/4. FOOTPRINTING.md",
     "Attachements/Pasted image 20260627133949.png",
     "Attachements/Pasted image 20260627133824.png",
     "Attachements/Pasted image 20260627133521.png",
@@ -187,10 +189,7 @@
     "Attachements/Pasted image 20260627092903.png",
     "Attachements/Pasted image 20260627092520.png",
     "Attachements/Pasted image 20260627085257.png",
-    "Attachements/Pasted image 20260627085207.png",
     "ZOTHERS/Untitled 2.base",
-    "ZOTHERS/Untitled 1.base",
-    "ZOTHERS/Untitled.base",
     "HTB/Untitled 5.md",
     "Untitled/desktop.ini",
     "ZOTHERS",
@@ -198,7 +197,6 @@
     "HTB/Untitled 3.md",
     "HTB/Untitled 2.md",
     "HTB/Untitled 1.md",
-    "HTB/4. FOOTPRINTING.md",
     "HTB/3. Network Enumeration with Nmap.md",
     "HTB/0.1 Introduction to the Penetration Tester Path.md",
     "COMMANDS.md",
