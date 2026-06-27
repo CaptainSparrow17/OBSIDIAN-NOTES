@@ -9,6 +9,7 @@ Revershe shell
 
 ---
 Bind Shell
+Might be used to bypass firewall
 ![](../Attachements/Pasted%20image%2020260627145223.png)
 
 ---
