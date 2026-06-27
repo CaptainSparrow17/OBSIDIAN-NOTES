@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.1 NFS.md",
+                "file": "HTB/1.0 Intro/0.1 Introduction to the Penetration Tester Path.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.1 NFS"
+              "title": "0.1 Introduction to the Penetration Tester Path"
             }
           }
         ]
@@ -175,13 +175,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd94ba7afadcb20",
+  "active": "4b2e95276b132fcf",
   "lastOpenFiles": [
-    "HTB/4. FOOTPRINTING.md",
-    "HTB/4.1 NFS.md",
+    "HTB/4.0 Footprinting/4.1 NFS.md",
+    "HTB/Untitled 3",
+    "HTB/Untitled 2",
+    "HTB/Untitled 1",
+    "HTB/4.0 Footprinting/4. FOOTPRINTING.md",
     "HTB/4.0 Footprinting/canvas.canvas",
     "HTB/4.0 Footprinting",
-    "Untitled",
+    "HTB/1.0 Intro",
     "HTB/4.1",
     "extra.md",
     "COMMANDS.md",
@@ -205,12 +208,10 @@
     "Attachements/Pasted image 20260627140334.png",
     "ZOTHERS/Untitled.base",
     "Untitled/desktop.ini",
-    "ZOTHERS",
-    "HTB/3. Network Enumeration with Nmap.md",
-    "HTB/0.1 Introduction to the Penetration Tester Path.md",
+    "HTB/Untitled 1/3. Network Enumeration with Nmap.md",
+    "HTB/1.0 Intro/0.1 Introduction to the Penetration Tester Path.md",
     "HTB/1.0.md",
     "Untitled.canvas",
-    "HTB",
     "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
     "Google Cybersecurity/3. Connect and Protect; Networks and Network Security.md",
@@ -218,7 +219,6 @@
     "Google Cybersecurity/2. Play It Safe; Manage Security Risks.md",
     "Google Cybersecurity/5. Assets, Threats, and Vulnerabilities.md",
     "Google Cybersecurity/4.  Tools of the Trade; Linux and SQL.md",
-    "COmmands",
     "Google Cybersecurity/7. Automate Cybersecurity Tasks with Python.md",
     "Google Cybersecurity/1. Foundations of Cybersecurity.md",
     "Google Cybersecurity/0. Google Cybersecurity Certificate courses.md",
