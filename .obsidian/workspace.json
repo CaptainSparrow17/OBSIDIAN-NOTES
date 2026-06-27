@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4. FOOTPRINTING.md",
+                "file": "HTB/Untitled 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. FOOTPRINTING"
+              "title": "Untitled 1"
             }
           }
         ]
@@ -177,13 +177,16 @@
   },
   "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
-    "Attachements/Pasted image 20260627135654.png",
+    "HTB/Untitled 2.md",
+    "HTB/Untitled 3.md",
+    "HTB/Untitled 4.md",
     "HTB/Untitled 1.md",
+    "HTB/4. FOOTPRINTING.md",
+    "Attachements/Pasted image 20260627135654.png",
     "Attachements/Pasted image 20260627135107.png",
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
     "ZOTHERS/Untitled.base",
-    "HTB/4. FOOTPRINTING.md",
     "Attachements/Pasted image 20260627133949.png",
     "Attachements/Pasted image 20260627133824.png",
     "Attachements/Pasted image 20260627133521.png",
@@ -192,13 +195,9 @@
     "Attachements/Pasted image 20260627093036.png",
     "Attachements/Pasted image 20260627093000.png",
     "Attachements/Pasted image 20260627092903.png",
-    "Attachements/Pasted image 20260627092520.png",
     "HTB/Untitled 5.md",
     "Untitled/desktop.ini",
     "ZOTHERS",
-    "HTB/Untitled 4.md",
-    "HTB/Untitled 3.md",
-    "HTB/Untitled 2.md",
     "HTB/3. Network Enumeration with Nmap.md",
     "HTB/0.1 Introduction to the Penetration Tester Path.md",
     "COMMANDS.md",
