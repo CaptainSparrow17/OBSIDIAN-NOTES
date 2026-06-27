@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extra.md",
+                "file": "HTB/4. FOOTPRINTING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "extra"
+              "title": "4. FOOTPRINTING"
             }
           }
         ]
@@ -177,6 +177,7 @@
   },
   "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
+    "extra.md",
     "COMMANDS.md",
     "HTB/Untitled 1.md",
     "HTB/Untitled 2.md",
@@ -205,7 +206,6 @@
     "HTB/0.1 Introduction to the Penetration Tester Path.md",
     "HTB/1.0.md",
     "Untitled.canvas",
-    "extra.md",
     "HTB",
     "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
