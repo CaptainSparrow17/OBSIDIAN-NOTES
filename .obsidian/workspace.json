@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/Untitled 1.md",
+                "file": "HTB/4.1 NFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "4.1 NFS"
             }
           }
         ]
@@ -175,12 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2e95276b132fcf",
+  "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
     "Untitled",
     "HTB/4. FOOTPRINTING.md",
     "HTB/4.1",
-    "HTB/Untitled 1.md",
+    "HTB/4.1 NFS.md",
     "extra.md",
     "COMMANDS.md",
     "HTB/Untitled 2.md",
