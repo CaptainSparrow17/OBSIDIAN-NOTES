@@ -11,13 +11,14 @@
             "id": "7dd94ba7afadcb20",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "ZOTHERS/Untitled 2.base",
-                "viewName": "Table"
+                "file": "HTB/Untitled 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled 2"
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -176,6 +177,7 @@
   },
   "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
+    "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
     "ZOTHERS/Untitled.base",
     "HTB/4. FOOTPRINTING.md",
@@ -189,7 +191,6 @@
     "Attachements/Pasted image 20260627092903.png",
     "Attachements/Pasted image 20260627092520.png",
     "Attachements/Pasted image 20260627085257.png",
-    "ZOTHERS/Untitled 2.base",
     "HTB/Untitled 5.md",
     "Untitled/desktop.ini",
     "ZOTHERS",
