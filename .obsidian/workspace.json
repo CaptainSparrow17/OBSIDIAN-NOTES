@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4. FOOTPRINTING.md",
+                "file": "HTB/4.1 NFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. FOOTPRINTING"
+              "title": "4.1 NFS"
             }
           }
         ]
@@ -175,10 +175,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd94ba7afadcb20",
+  "active": "4b2e95276b132fcf",
   "lastOpenFiles": [
-    "HTB/4.1 NFS.md",
     "HTB/4. FOOTPRINTING.md",
+    "HTB/4.1 NFS.md",
     "HTB/4.0 Footprinting/canvas.canvas",
     "HTB/4.0 Footprinting",
     "Untitled",
