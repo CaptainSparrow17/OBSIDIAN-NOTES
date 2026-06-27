@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-10-14 MS-102.md",
+                "file": "HTB/4.0 Footprinting/4.1 NFS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-10-14 MS-102"
+              "title": "4.1 NFS"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
+    "MSP/Microsoft 365/2025-10-14 MS-102.md",
     "2026-06-21.md",
-    "2025-10-14 MS-102.md",
     "extra.md",
     "COMMANDS.md",
     "HTB/1.0 Intro/1.0.md",
