@@ -1,7 +1,5 @@
+  ---
   
-
-  
-
 I’m sure other people change it in their settings to make it permanent, but whenever I boot up my Kali out of habit I instantly rapid fire these 3 commands
 
 xset s off
@@ -18,3 +16,11 @@ xset -dpms
 print(1)
 print(1)
 print(1)
+
+---
+
+Module to go Through::
+https://academy.hackthebox.com/app/paths/20/details
+
+---
+
