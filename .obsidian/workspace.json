@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "3.3 NFS"
             }
+          },
+          {
+            "id": "2f18189058ad47bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB/4.0 Footprinting/3.4 DNS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.4 DNS"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7dd94ba7afadcb20",
+  "active": "2f18189058ad47bb",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/3.3 NFS.md",
+    "HTB/4.0 Footprinting/3.4 DNS.md",
     "Attachements/Pasted image 20260627193908.png",
     "Attachements/Pasted image 20260627193836.png",
     "Attachements/Pasted image 20260627193549.png",
@@ -187,7 +204,6 @@
     "Attachements/Pasted image 20260627192803.png",
     "Attachements/Pasted image 20260627192713.png",
     "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
-    "HTB/4.0 Footprinting/3.3 NFS.md",
     "MSP/Microsoft 365/2025-10-14 MS-102.md",
     "2026-06-21.md",
     "extra.md",
@@ -209,7 +225,6 @@
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
     "Attachements/Pasted image 20260627155614.png",
-    "Attachements/Pasted image 20260627155558.png",
     "ZOTHERS/Untitled.base",
     "Untitled/desktop.ini",
     "HTB/3. Network Enumuration/3. Network Enumeration with Nmap.md",
