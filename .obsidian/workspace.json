@@ -175,12 +175,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b2e95276b132fcf",
+  "active": "7dd94ba7afadcb20",
   "lastOpenFiles": [
+    "HTB/1.0.md",
+    "HTB/1.0 Intro/0.1 Introduction to the Penetration Tester Path.md",
     "HTB/4.0 Footprinting/4.1 NFS.md",
     "HTB/Untitled 3",
-    "HTB/Untitled 2",
-    "HTB/Untitled 1",
+    "HTB/5.0 kgdf",
+    "HTB/3. Network Enumuration",
     "HTB/4.0 Footprinting/4. FOOTPRINTING.md",
     "HTB/4.0 Footprinting/canvas.canvas",
     "HTB/4.0 Footprinting",
@@ -208,9 +210,7 @@
     "Attachements/Pasted image 20260627140334.png",
     "ZOTHERS/Untitled.base",
     "Untitled/desktop.ini",
-    "HTB/Untitled 1/3. Network Enumeration with Nmap.md",
-    "HTB/1.0 Intro/0.1 Introduction to the Penetration Tester Path.md",
-    "HTB/1.0.md",
+    "HTB/3. Network Enumuration/3. Network Enumeration with Nmap.md",
     "Untitled.canvas",
     "MSP/Microsoft 365/Part B - Implement and manage Microsoft Entra identity and access (25–30%).md",
     "MSP/Microsoft 365/Part A - Deploy and manage a Microsoft 365 tenant (25–30%).md",
