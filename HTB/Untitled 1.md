@@ -9,3 +9,6 @@ Revershe shell
 
 ---
 Bind Shell
+![](../Attachements/Pasted%20image%2020260627145223.png)
+
+---
