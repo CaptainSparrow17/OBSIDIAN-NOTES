@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/Untitled.md",
+                "file": "HTB/4.0 Footprinting/13. MYSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "13. MYSQL"
             }
           }
         ],
@@ -207,7 +207,7 @@
   "active": "837fabfe5b2f524f",
   "lastOpenFiles": [
     "HTB/4.0 Footprinting/3.4 DNS.md",
-    "HTB/4.0 Footprinting/Untitled.md",
+    "HTB/4.0 Footprinting/13. MYSQL.md",
     "Attachements/Pasted image 20260628084633.png",
     "Attachements/Pasted image 20260628084330.png",
     "Attachements/Pasted image 20260628080359.png",
