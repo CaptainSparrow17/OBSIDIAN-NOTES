@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "extra.md",
+                "file": "HTB/4.0 Footprinting/13. MYSQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "extra"
+              "title": "13. MYSQL"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "837fabfe5b2f524f",
   "lastOpenFiles": [
+    "extra.md",
     "COMMANDS.md",
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
@@ -216,7 +217,6 @@
     "Attachements/Pasted image 20260628084330.png",
     "Attachements/Pasted image 20260628080359.png",
     "Attachements/Pasted image 20260628075913.png",
-    "extra.md",
     "Attachements/Pasted image 20260627221311.png",
     "Attachements/Pasted image 20260627221142.png",
     "Attachements/Pasted image 20260627220736.png",
