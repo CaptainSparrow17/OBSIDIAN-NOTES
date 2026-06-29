@@ -21,6 +21,8 @@ print(1)
 
 Module to go Through::
 https://academy.hackthebox.com/app/paths/20/details
+https://academy.hackthebox.com/course/preview/sql-injection-fundamentals
+
 
 ---
 
