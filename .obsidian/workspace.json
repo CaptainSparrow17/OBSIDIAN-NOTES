@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,10 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "837fabfe5b2f524f",
+  "active": "6b91d4e31b407c18",
   "lastOpenFiles": [
-    "HTB/4.0 Footprinting/14. MSSQL.md",
     "HTB/4.0 Footprinting/13. MYSQL (3306).md",
+    "HTB/4.0 Footprinting/14. MSSQL.md",
     "Attachements/Pasted image 20260629110306.png",
     "Attachements/Pasted image 20260629103730.png",
     "Attachements/Pasted image 20260629103512.png",
