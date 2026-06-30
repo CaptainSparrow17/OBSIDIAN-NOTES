@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/Untitled.md",
+                "file": "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "10 SMTP (25, 587, 465)"
             }
           }
         ],
@@ -248,8 +248,11 @@
   },
   "active": "eb2d5013934533a7",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/3.4 DNS.md",
     "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
-    "HTB/4.0 Footprinting/Untitled.md",
+    "HTB/4.0 Footprinting/11. IMAP, POP3.md",
+    "HTB/4.0 Footprinting/13. MYSQL (3306).md",
+    "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "Attachements/Pasted image 20260630093610.png",
     "Attachements/Pasted image 20260630091333.png",
     "Attachements/Pasted image 20260630091322.png",
@@ -259,15 +262,12 @@
     "Attachements/Pasted image 20260630090955.png",
     "Attachements/Pasted image 20260630090708.png",
     "Attachements/Pasted image 20260630090334.png",
-    "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "Attachements/Pasted image 20260630081819.png",
-    "HTB/4.0 Footprinting/13. MYSQL (3306).md",
     "extra.md",
     "COMMANDS.md",
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
     "ZOTHERS/Untitled.base",
-    "HTB/4.0 Footprinting/3.4 DNS.md",
     "HTB/4.0 Footprinting/3.3 NFS.md",
     "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
     "MSP/Microsoft 365/2025-10-14 MS-102.md",
