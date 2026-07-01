@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/11. IMAP, POP3.md",
+                "file": "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. IMAP, POP3"
+              "title": "11. IMAP, POP3 (143, 993)"
             }
           }
         ],
@@ -250,7 +250,7 @@
   "lastOpenFiles": [
     "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
     "HTB/4.0 Footprinting/3.4 DNS.md",
-    "HTB/4.0 Footprinting/11. IMAP, POP3.md",
+    "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
     "HTB/4.0 Footprinting/13. MYSQL (3306).md",
     "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "Attachements/Pasted image 20260630093610.png",
