@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
+                "file": "extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "15. ORACLE TNS (TCP-1521)"
+              "title": "extra"
             }
           }
         ],
@@ -239,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
+                "file": "extra.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 15. ORACLE TNS (TCP-1521)"
+              "title": "Outline of extra"
             }
           },
           {
@@ -279,10 +279,11 @@
   },
   "active": "d3d41a84b13bc3b9",
   "lastOpenFiles": [
+    "COMMANDS.md",
+    "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "Attachements/Pasted image 20260704115400.png",
     "Attachements/Pasted image 20260704115201.png",
     "HTB/4.0 Footprinting/9. DNS.md",
-    "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "HTB/4.0 Footprinting/12. SNMP.md",
     "Attachements/Pasted image 20260702205152.png",
     "Attachements/Pasted image 20260702205021.png",
@@ -296,9 +297,7 @@
     "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "Attachements/Pasted image 20260630093610.png",
     "Attachements/Pasted image 20260630091333.png",
-    "Attachements/Pasted image 20260630091322.png",
     "extra.md",
-    "COMMANDS.md",
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
     "ZOTHERS/Untitled.base",
