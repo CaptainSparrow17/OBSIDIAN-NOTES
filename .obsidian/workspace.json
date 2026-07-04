@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/12. SNMP.md",
+                "file": "HTB/4.0 Footprinting/9. DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. SNMP"
+              "title": "9. DNS"
             }
           }
         ],
@@ -225,10 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CYBERSECURITY/WEB APP VULNERABILITIES.md"
+                "file": "HTB/4.0 Footprinting/9. DNS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WEB APP VULNERABILITIES"
+              "title": "Outline of 9. DNS"
             }
           },
           {
@@ -260,25 +263,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "64f8981e97cb95d1",
+  "active": "80e2d2c29960f530",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/12. SNMP.md",
     "Attachements/Pasted image 20260702205152.png",
     "Attachements/Pasted image 20260702205021.png",
     "Attachements/Pasted image 20260702204258.png",
     "Attachements/Pasted image 20260702201548.png",
     "Attachements/Pasted image 20260702195323.png",
     "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
-    "HTB/4.0 Footprinting/12. SNMP.md",
     "Attachements/Pasted image 20260701114343.png",
     "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
-    "HTB/4.0 Footprinting/3.4 DNS.md",
+    "HTB/4.0 Footprinting/9. DNS.md",
     "HTB/4.0 Footprinting/13. MYSQL (3306).md",
     "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "Attachements/Pasted image 20260630093610.png",
     "Attachements/Pasted image 20260630091333.png",
     "Attachements/Pasted image 20260630091322.png",
     "Attachements/Pasted image 20260630091311.png",
-    "Attachements/Pasted image 20260630091230.png",
     "extra.md",
     "COMMANDS.md",
     "ZOTHERS/Untitled 2.base",
