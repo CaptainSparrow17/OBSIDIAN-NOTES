@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/16. IPMI.md",
+                "file": "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. IPMI"
+              "title": "16. IPMI (UDP 623)"
             }
           }
         ],
@@ -253,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/4.0 Footprinting/16. IPMI.md",
+                "file": "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16. IPMI"
+              "title": "Outline of 16. IPMI (UDP 623)"
             }
           },
           {
@@ -294,7 +294,7 @@
   "active": "95801574fcff5a02",
   "lastOpenFiles": [
     "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
-    "HTB/4.0 Footprinting/16. IPMI.md",
+    "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
     "Attachements/Pasted image 20260704132945.png",
     "Attachements/Pasted image 20260704123018.png",
     "Attachements/Pasted image 20260704122631.png",
