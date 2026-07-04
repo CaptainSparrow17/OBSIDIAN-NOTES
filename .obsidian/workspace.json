@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
+                "file": "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. IPMI (UDP 623)"
+              "title": "1.0 FOOTPRINTING"
             }
           }
         ],
@@ -253,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
+                "file": "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 16. IPMI (UDP 623)"
+              "title": "Outline of 1.0 FOOTPRINTING"
             }
           },
           {
@@ -293,19 +293,18 @@
   },
   "active": "95801574fcff5a02",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
     "Attachements/Pasted image 20260704154436.png",
     "Attachements/Pasted image 20260704154257.png",
     "Attachements/Pasted image 20260704154214.png",
     "Attachements/Pasted image 20260704151655.png",
     "Attachements/Pasted image 20260704151547.png",
     "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
-    "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
     "Attachements/Pasted image 20260704132945.png",
     "Attachements/Pasted image 20260704123018.png",
     "Attachements/Pasted image 20260704122631.png",
     "Attachements/Pasted image 20260704122157.png",
     "Attachements/Pasted image 20260704121223.png",
-    "Attachements/Pasted image 20260704120704.png",
     "extra.md",
     "COMMANDS.md",
     "HTB/4.0 Footprinting/9. DNS.md",
