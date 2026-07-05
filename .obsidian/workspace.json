@@ -36,104 +36,6 @@
             }
           },
           {
-            "id": "837fabfe5b2f524f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/13. MYSQL (3306).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. MYSQL (3306)"
-            }
-          },
-          {
-            "id": "6b91d4e31b407c18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/14. MSSQL (1433).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. MSSQL (1433)"
-            }
-          },
-          {
-            "id": "8e6b8222d052e7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 SMTP (25, 587, 465)"
-            }
-          },
-          {
-            "id": "eb2d5013934533a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. IMAP, POP3 (143, 993)"
-            }
-          },
-          {
-            "id": "64f8981e97cb95d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/9. DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. DNS"
-            }
-          },
-          {
-            "id": "d3d41a84b13bc3b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "15. ORACLE TNS (TCP-1521)"
-            }
-          },
-          {
-            "id": "95801574fcff5a02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/9. DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "9. DNS"
-            }
-          },
-          {
             "id": "7813989bd2db914c",
             "type": "leaf",
             "state": {
@@ -162,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -319,8 +221,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ad97aa57ec804c3",
+  "active": "7813989bd2db914c",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/9. DNS.md",
+    "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
+    "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
+    "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
+    "HTB/4.0 Footprinting/14. MSSQL (1433).md",
+    "HTB/4.0 Footprinting/13. MYSQL (3306).md",
+    "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
+    "Attachements/Pasted image 20260705110729.png",
     "Attachements/Pasted image 20260705110623.png",
     "Attachements/Pasted image 20260705103909.png",
     "Attachements/Pasted image 20260705103738.png",
@@ -330,21 +240,12 @@
     "Attachements/Pasted image 20260705102324.png",
     "Attachements/Pasted image 20260705102118.png",
     "Attachements/Pasted image 20260705101623.png",
-    "Attachements/Pasted image 20260705101422.png",
-    "Attachements/Pasted image 20260705095436.png",
     "HTB/4.0 Footprinting/18. RDP.md",
-    "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
-    "HTB/4.0 Footprinting/9. DNS.md",
     "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
     "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
-    "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "extra.md",
     "COMMANDS.md",
     "HTB/4.0 Footprinting/12. SNMP.md",
-    "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
-    "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
-    "HTB/4.0 Footprinting/13. MYSQL (3306).md",
-    "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
     "ZOTHERS/Untitled.base",
