@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7dd94ba7afadcb20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/3.3 NFS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3 NFS"
-            }
-          },
-          {
-            "id": "2f18189058ad47bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/3.4 DNS.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.4 DNS"
-            }
-          },
-          {
-            "id": "7813989bd2db914c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "17. Linux Remote Management Protocols"
-            }
-          },
-          {
             "id": "1ad97aa57ec804c3",
             "type": "leaf",
             "state": {
@@ -63,8 +21,7 @@
               "title": "17. Linux Remote Management Protocols"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,15 +178,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7813989bd2db914c",
+  "active": "1ad97aa57ec804c3",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
     "HTB/4.0 Footprinting/9. DNS.md",
     "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
     "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
     "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "HTB/4.0 Footprinting/13. MYSQL (3306).md",
-    "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
     "Attachements/Pasted image 20260705110729.png",
     "Attachements/Pasted image 20260705110623.png",
     "Attachements/Pasted image 20260705103909.png",
