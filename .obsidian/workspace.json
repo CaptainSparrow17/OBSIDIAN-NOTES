@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
+                "file": "HTB/4.0 Footprinting/18. RDP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Linux Remote Management Protocols"
+              "title": "18. RDP"
             }
           }
         ]
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
+                "file": "HTB/4.0 Footprinting/18. RDP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 17. Linux Remote Management Protocols"
+              "title": "Outline of 18. RDP"
             }
           },
           {
@@ -180,10 +180,10 @@
   },
   "active": "1ad97aa57ec804c3",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
     "Attachements/Pasted image 20260705111802.png",
     "Attachements/Pasted image 20260705111718.png",
     "Attachements/Pasted image 20260705111504.png",
-    "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
     "HTB/4.0 Footprinting/9. DNS.md",
     "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
@@ -197,7 +197,6 @@
     "Attachements/Pasted image 20260705103648.png",
     "Attachements/Pasted image 20260705103031.png",
     "Attachements/Pasted image 20260705102908.png",
-    "Attachements/Pasted image 20260705102324.png",
     "HTB/4.0 Footprinting/18. RDP.md",
     "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
     "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
