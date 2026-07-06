@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/18. Windows Remote Management Protocols.md",
+                "file": "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Windows Remote Management Protocols"
+              "title": "17. Linux Remote Management Protocols"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "1ad97aa57ec804c3",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/18. Windows Remote Management Protocols.md",
     "Attachements/Pasted image 20260706110444.png",
     "Attachements/Pasted image 20260706105701.png",
     "Attachements/Pasted image 20260706103551.png",
@@ -197,8 +198,6 @@
     "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
     "HTB/4.0 Footprinting/14. MSSQL (1433).md",
     "HTB/4.0 Footprinting/13. MYSQL (3306).md",
-    "Attachements/Pasted image 20260705110729.png",
-    "HTB/4.0 Footprinting/18. Windows Remote Management Protocols.md",
     "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
     "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
     "extra.md",
