@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/FTP.md",
+                "file": "HTB/4.0 Footprinting/6. FTP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FTP"
+              "title": "6. FTP"
             }
           },
           {
@@ -224,7 +224,7 @@
   "active": "181583947ba3fe48",
   "lastOpenFiles": [
     "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
-    "HTB/4.0 Footprinting/FTP.md",
+    "HTB/4.0 Footprinting/6. FTP.md",
     "HTB/3. Network Enumuration/3. Network Enumeration with Nmap.md",
     "HTB/4.0 Footprinting/9. DNS.md",
     "HTB/4.0 Footprinting/19. Footprinting Lab - Easy.md",
