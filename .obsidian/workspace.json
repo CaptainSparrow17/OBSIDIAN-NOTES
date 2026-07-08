@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
+                "file": "HTB CPTS/4.0 Footprinting/1.0 FOOTPRINTING.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
+                "file": "HTB CPTS/4.0 Footprinting/1.0 FOOTPRINTING.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
+                "file": "HTB CPTS/4.0 Footprinting/17. Linux Remote Management Protocols.md",
                 "mode": "source",
                 "source": false
               },
@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/19. Footprinting Lab - Easy.md",
+                "file": "HTB CPTS/4.0 Footprinting/19. Footprinting Lab - Easy.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/Untitled.md",
+                "file": "HTB CPTS/Untitled 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Untitled 4"
             }
           }
         ],
@@ -235,19 +235,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "583c72b27fe2a101",
+  "active": "4b2e95276b132fcf",
   "lastOpenFiles": [
-    "HTB/4.0 Footprinting/9. DNS.md",
-    "HTB/4.0 Footprinting/19. Footprinting Lab - Easy.md",
-    "HTB/4.0 Footprinting/Untitled.md",
-    "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
+    "HTB CPTS/Untitled 5.md",
+    "HTB CPTS/Untitled 4.md",
+    "HTB CPTS/4.0 Footprinting/20. Footprinting Lab - Medium.md",
+    "HTB CPTS/4.0 Footprinting/9. DNS.md",
+    "HTB CPTS/4.0 Footprinting/19. Footprinting Lab - Easy.md",
+    "HTB CPTS/4.0 Footprinting/17. Linux Remote Management Protocols.md",
     "Attachements/Pasted image 20260708105516.png",
-    "HTB/4.0 Footprinting/6. FTP.md",
+    "HTB CPTS/4.0 Footprinting/6. FTP.md",
     "Attachements/Pasted image 20260708105203.png",
     "Attachements/Pasted image 20260708105010.png",
-    "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
-    "HTB/3. Network Enumuration/3. Network Enumeration with Nmap.md",
-    "HTB/4.0 Footprinting/18. Windows Remote Management Protocols.md",
+    "HTB CPTS/4.0 Footprinting/1.0 FOOTPRINTING.md",
+    "HTB CPTS/3. Network Enumuration/3. Network Enumeration with Nmap.md",
+    "HTB CPTS/4.0 Footprinting/18. Windows Remote Management Protocols.md",
     "Attachements/Pasted image 20260706110444.png",
     "Attachements/Pasted image 20260706105701.png",
     "Attachements/Pasted image 20260706103551.png",
@@ -255,35 +257,33 @@
     "Attachements/Pasted image 20260706103458.png",
     "Attachements/Pasted image 20260706102948.png",
     "Attachements/Pasted image 20260706101949.png",
-    "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
-    "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
-    "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
-    "HTB/4.0 Footprinting/14. MSSQL (1433).md",
-    "HTB/4.0 Footprinting/13. MYSQL (3306).md",
-    "HTB/4.0 Footprinting/16. IPMI (UDP 623).md",
+    "HTB CPTS/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
+    "HTB CPTS/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
+    "HTB CPTS/4.0 Footprinting/10 SMTP (25, 587, 465).md",
+    "HTB CPTS/4.0 Footprinting/14. MSSQL (1433).md",
+    "HTB CPTS/4.0 Footprinting/13. MYSQL (3306).md",
+    "HTB CPTS/4.0 Footprinting/16. IPMI (UDP 623).md",
     "extra.md",
     "COMMANDS.md",
-    "HTB/4.0 Footprinting/12. SNMP.md",
+    "HTB CPTS/4.0 Footprinting/12. SNMP.md",
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
     "ZOTHERS/Untitled.base",
-    "HTB/4.0 Footprinting/3.3 NFS.md",
+    "HTB CPTS/4.0 Footprinting/3.3 NFS.md",
     "MSP/Microsoft 365/2025-10-14 MS-102.md",
     "2026-06-21.md",
-    "HTB/1.0 Intro/1.0.md",
+    "HTB CPTS/1.0 Intro/1.0.md",
     "Untitled.canvas",
     "HTB/Untitled 3.md",
     "HTB/Untitled 2.md",
-    "HTB/1.0 Intro/0.1 Introduction to the Penetration Tester Path.md",
-    "HTB/2.0",
-    "HTB/5.0 kgdf",
-    "HTB/3. Network Enumuration",
+    "HTB CPTS/1.0 Intro/0.1 Introduction to the Penetration Tester Path.md",
+    "HTB CPTS/2.0",
+    "HTB CPTS/5.0 kgdf",
+    "HTB CPTS/3. Network Enumuration",
     "HTB/4.0 Footprinting/canvas.canvas",
-    "HTB/4.0 Footprinting",
-    "HTB/1.0 Intro",
+    "HTB CPTS/4.0 Footprinting",
+    "HTB CPTS/1.0 Intro",
     "HTB/4.1",
-    "HTB/Untitled 4.md",
-    "HTB/Untitled 5.md",
     "Untitled/desktop.ini",
     "CYBERSECURITY/PASSWORD ATTACK.canvas"
   ]
