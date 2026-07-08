@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB/4.0 Footprinting/6. FTP.md",
+                "file": "HTB/4.0 Footprinting/17. Linux Remote Management Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. FTP"
+              "title": "17. Linux Remote Management Protocols"
             }
           },
           {
@@ -223,9 +223,10 @@
   },
   "active": "181583947ba3fe48",
   "lastOpenFiles": [
+    "HTB/4.0 Footprinting/6. FTP.md",
+    "Attachements/Pasted image 20260708105203.png",
     "Attachements/Pasted image 20260708105010.png",
     "HTB/4.0 Footprinting/1.0 FOOTPRINTING.md",
-    "HTB/4.0 Footprinting/6. FTP.md",
     "HTB/3. Network Enumuration/3. Network Enumeration with Nmap.md",
     "HTB/4.0 Footprinting/9. DNS.md",
     "HTB/4.0 Footprinting/19. Footprinting Lab - Easy.md",
@@ -239,8 +240,6 @@
     "Attachements/Pasted image 20260706102948.png",
     "Attachements/Pasted image 20260706101949.png",
     "Attachements/Pasted image 20260705111802.png",
-    "Attachements/Pasted image 20260705111718.png",
-    "Attachements/Pasted image 20260705111504.png",
     "HTB/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "HTB/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
     "HTB/4.0 Footprinting/10 SMTP (25, 587, 465).md",
