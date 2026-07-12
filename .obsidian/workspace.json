@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/4.0 Footprinting/5. SMB.md",
+                "file": "HTB CPTS/4.0 Footprinting/18. Windows Remote Management Protocols.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. SMB"
+              "title": "18. Windows Remote Management Protocols"
             }
           }
         ],
@@ -124,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "3389",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -145,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -251,8 +252,8 @@
   },
   "active": "5f2c36a4cadcaeca",
   "lastOpenFiles": [
-    "HTB CPTS/4.0 Footprinting/7. NFS.md",
     "HTB CPTS/4.0 Footprinting/5. SMB.md",
+    "HTB CPTS/4.0 Footprinting/7. NFS.md",
     "HTB CPTS/4.0 Footprinting/1.0 FOOTPRINTING.md",
     "HTB CPTS/4.0 Footprinting/6. FTP.md",
     "HTB CPTS/Untitled 4.md",
