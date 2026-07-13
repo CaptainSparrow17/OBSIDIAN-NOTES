@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/4.0 Footprinting/12. SNMP (161).md",
+                "file": "HTB CPTS/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. SNMP (161)"
+              "title": "11. IMAP, POP3 (143, 993)"
             }
           }
         ],
@@ -195,9 +195,10 @@
   },
   "active": "2db8bdc7521a0ac9",
   "lastOpenFiles": [
+    "HTB CPTS/4.0 Footprinting/12. SNMP (161).md",
+    "Attachements/Pasted image 20260713103602.png",
     "HTB CPTS/4.0 Footprinting/1.0 FOOTPRINTING.md",
     "HTB CPTS/4.0 Footprinting/21. Footprinting Lab - Hard.md",
-    "HTB CPTS/4.0 Footprinting/12. SNMP (161).md",
     "HTB CPTS/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
     "HTB CPTS/4.0 Footprinting/16. IPMI (UDP 623).md",
     "HTB CPTS/4.0 Footprinting/10 SMTP (25, 587, 465).md",
@@ -221,7 +222,6 @@
     "Attachements/Pasted image 20260706103525.png",
     "Attachements/Pasted image 20260706103458.png",
     "Attachements/Pasted image 20260706102948.png",
-    "Attachements/Pasted image 20260706101949.png",
     "HTB CPTS/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "HTB CPTS/4.0 Footprinting/14. MSSQL (1433).md",
     "HTB CPTS/4.0 Footprinting/13. MYSQL (3306).md",
@@ -234,7 +234,6 @@
     "2026-06-21.md",
     "HTB CPTS/1.0 Intro/1.0.md",
     "Untitled.canvas",
-    "HTB/Untitled 3.md",
     "HTB CPTS/2.0",
     "HTB CPTS/5.0 kgdf",
     "HTB CPTS/3. Network Enumuration",
