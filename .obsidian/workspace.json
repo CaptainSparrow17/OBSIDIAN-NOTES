@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2db8bdc7521a0ac9",
+  "active": "fd8fc733540f21ba",
   "lastOpenFiles": [
+    "HTB CPTS/4.0 Footprinting/13. MYSQL (3306).md",
     "HTB CPTS/4.0 Footprinting/17. Linux Remote Management Protocols.md",
     "HTB CPTS/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
     "HTB CPTS/4.0 Footprinting/21. Footprinting Lab - Hard.md",
@@ -238,7 +239,6 @@
     "Attachements/Pasted image 20260706102948.png",
     "HTB CPTS/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "HTB CPTS/4.0 Footprinting/14. MSSQL (1433).md",
-    "HTB CPTS/4.0 Footprinting/13. MYSQL (3306).md",
     "extra.md",
     "COMMANDS.md",
     "ZOTHERS/Untitled 2.base",
