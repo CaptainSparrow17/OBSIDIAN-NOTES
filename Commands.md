@@ -23,3 +23,6 @@ nmap -sC -sV -Pn -n -p- $IP --open
 The --open is used to complement the sweep scan of all ports making it faster as it only run the script to only open ports on the machine.
 
 ---
+dig -x 134.209.24.248 => reverse lookup
+
+---
