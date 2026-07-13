@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/4.0 Footprinting/12. SNMP (161).md",
+                "file": "HTB CPTS/4.0 Footprinting/21. Footprinting Lab - Hard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. SNMP (161)"
+              "title": "21. Footprinting Lab - Hard"
             }
           }
         ],
@@ -265,8 +265,8 @@
   },
   "active": "40b3ba6a82ea1ee3",
   "lastOpenFiles": [
-    "HTB CPTS/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
     "HTB CPTS/4.0 Footprinting/12. SNMP (161).md",
+    "HTB CPTS/4.0 Footprinting/11. IMAP, POP3 (143, 993).md",
     "HTB CPTS/4.0 Footprinting/16. IPMI (UDP 623).md",
     "HTB CPTS/4.0 Footprinting/10 SMTP (25, 587, 465).md",
     "HTB CPTS/4.0 Footprinting/21. Footprinting Lab - Hard.md",
