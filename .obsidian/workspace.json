@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/2.0 WHOIS.md",
+                "file": "HTB CPTS/3.0 Utilising WHOIS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2.0 WHOIS"
+              "title": "3.0 Utilising WHOIS"
             }
           }
         ],
@@ -223,13 +223,13 @@
   },
   "active": "c7f6740a3197688d",
   "lastOpenFiles": [
+    "HTB CPTS/2.0 WHOIS.md",
     "Attachements/Pasted image 20260713220304.png",
     "HTB CPTS/1.0 Introduction.md",
     "Attachements/Pasted image 20260713215237.png",
     "HTB CPTS/4.0 Footprinting/Untitled 1.md",
     "HTB CPTS/4.0 Footprinting/21. Footprinting Lab - Hard.md",
-    "HTB CPTS/2.0 WHOIS.md",
-    "HTB CPTS/Untitled 2.md",
+    "HTB CPTS/3.0 Utilising WHOIS.md",
     "HTB CPTS/Untitled 5.md",
     "HTB CPTS/Untitled 4.md",
     "HTB CPTS/4.0 Footprinting/Untitled 2.md",
@@ -258,7 +258,6 @@
     "Attachements/Pasted image 20260706110444.png",
     "Attachements/Pasted image 20260706105701.png",
     "Attachements/Pasted image 20260706103551.png",
-    "Attachements/Pasted image 20260706103525.png",
     "HTB CPTS/4.0 Footprinting/15. ORACLE TNS (TCP-1521).md",
     "ZOTHERS/Untitled 2.base",
     "ZOTHERS/Untitled 1.base",
