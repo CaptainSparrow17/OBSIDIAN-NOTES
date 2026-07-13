@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/4.0 DNS.md",
+                "file": "HTB CPTS/5.0 Digging DNS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.0 DNS"
+              "title": "5.0 Digging DNS"
             }
           }
         ],
@@ -223,6 +223,7 @@
   },
   "active": "c7f6740a3197688d",
   "lastOpenFiles": [
+    "HTB CPTS/4.0 DNS.md",
     "HTB CPTS/3.0 Utilising WHOIS.md",
     "HTB CPTS/2.0 WHOIS.md",
     "Attachements/Pasted image 20260713220304.png",
@@ -230,8 +231,7 @@
     "Attachements/Pasted image 20260713215237.png",
     "HTB CPTS/4.0 Footprinting/Untitled 1.md",
     "HTB CPTS/4.0 Footprinting/21. Footprinting Lab - Hard.md",
-    "HTB CPTS/Untitled 5.md",
-    "HTB CPTS/4.0 DNS.md",
+    "HTB CPTS/5.0 Digging DNS.md",
     "HTB CPTS/4.0 Footprinting/Untitled 2.md",
     "HTB CPTS/4.0 Footprinting/Untitled.md",
     "HTB CPTS/4.0 Footprinting/12. SNMP (161).md",
