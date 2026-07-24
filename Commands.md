@@ -26,3 +26,6 @@ The --open is used to complement the sweep scan of all ports making it faster as
 dig -x 134.209.24.248 => reverse lookup
 
 ---
+![](Attachements/Pasted%20image%2020260724203339.png)
+
+---
