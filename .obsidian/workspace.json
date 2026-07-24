@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/5.0 Information Gathering - Web Edition/16. Search Engine Discovery.md",
+                "file": "COMMANDS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16. Search Engine Discovery"
+              "title": "COMMANDS"
             }
           }
         ],
@@ -193,12 +193,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2b9fbf535e1cf70",
+  "active": "4b2e95276b132fcf",
   "lastOpenFiles": [
+    "ZOTHERS/Untitled 1.base",
+    "ZOTHERS/Untitled.base",
+    "HTB CPTS/5.0 Information Gathering - Web Edition/16. Search Engine Discovery.md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/19..md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/18..md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/17..md",
-    "HTB CPTS/5.0 Information Gathering - Web Edition/16. Search Engine Discovery.md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/15. Creepy Crawlies.md",
     "Attachements/Pasted image 20260722131005.png",
     "HTB CPTS/5.0 Information Gathering - Web Edition/14. Well-Known URIs.md",
@@ -230,11 +232,8 @@
     "HTB CPTS/5.0 Information Gathering - Web Edition/1.0 Introduction.md",
     "HTB CPTS/4.0 Footprinting/Untitled 1.md",
     "HTB CPTS/4.0 Footprinting/21. Footprinting Lab - Hard.md",
-    "HTB CPTS/4.0 Footprinting/Untitled 2.md",
     "HTB CPTS/5.0 Information Gathering - Web Edition",
     "ZOTHERS/Untitled 2.base",
-    "ZOTHERS/Untitled 1.base",
-    "ZOTHERS/Untitled.base",
     "Untitled.canvas",
     "HTB CPTS/2.0",
     "HTB CPTS/6.0 kgdf",
