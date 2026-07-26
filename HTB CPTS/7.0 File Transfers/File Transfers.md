@@ -9,3 +9,7 @@ The `Astaroth attack` generally followed these steps: A malicious link in a sp
 
 All the payloads were base64-encoded and decoded using the Certutil tool resulting in a few DLL files. The [regsvr32](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/regsvr32) tool was then used to load one of the decoded DLLs, which decrypted and loaded other files until the final payload, Astaroth, was injected into the `Userinit` process. Below is a graphical depiction of the attack.
 ![](../../Attachements/Pasted%20image%2020260726115645.png)
+
+This is an excellent example of multiple methods for file transfer and the threat actor using those methods to bypass defenses.
+
+This section will discuss using some native Windows tools for download and upload operations. Later in the module, we'll discuss `Living Off The Land` binaries on Windows & Linux and how to use them to perform file transfer operations.
