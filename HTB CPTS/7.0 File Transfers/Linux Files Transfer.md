@@ -82,3 +82,5 @@ Similarly, we can download a Python script file from a web server and pipe it in
 wget -qO- https://raw.githubusercontent.com/juliourena/plaintext/master/Scripts/helloworld.py | python3
 ```
 
+## Download with Bash (/dev/tcp)
+There may also be situations where none of the well-known file transfer tools are available. As long as Bash version 2.04 or greater is installed (compiled with --enable-net-redirections), the built-in /dev/TCP device file can be used for simple file downloads.
