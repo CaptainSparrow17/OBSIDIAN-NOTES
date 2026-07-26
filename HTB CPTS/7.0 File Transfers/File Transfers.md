@@ -24,8 +24,14 @@ Depending on the file size we want to transfer, we can use different methods tha
 
 An essential step in using this method is to ensure the file you encode and decode is correct. We can use [md5sum](https://man7.org/linux/man-pages/man1/md5sum.1.html), a program that calculates and verifies 128-bit MD5 checksums. The MD5 hash functions as a compact digital fingerprint of a file, meaning a file should have the same MD5 hash everywhere. Let's attempt to transfer a sample ssh key. It can be anything else, from our Pwnbox to the Windows target.
 
-First check MD5 Hash of a file we wanna send then after downloading file in target machine always check it with original pownbox hash. Thus we will know it has not been tempered.
+First check MD5 Hash of a file we wanna send then after getting the file in target machine always check it with original pownbox hash. Thus we will know it has not been tempered.
 
 ```shell
 md5sum id_rsa
+```
+![](../../Attachements/Pasted%20image%2020260726121819.png)
+
+Now lets encode the id_rsa file content to base64 and then transfer.
+```shell
+cat id_rsa |base64 -w 0;echo
 ```
