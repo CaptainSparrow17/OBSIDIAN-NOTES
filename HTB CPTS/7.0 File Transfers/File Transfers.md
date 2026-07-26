@@ -115,6 +115,10 @@ https://gist.github.com/HarmJ0y/bb48307ffa663256e239
 There may be cases when the Internet Explorer first-launch configuration has not been completed, which prevents the download.
 ![](../../Attachements/Pasted%20image%2020260726124016.png)
 This can be bypassed using the parameter `-UseBasicParsing`.
+![](../../Attachements/Pasted%20image%2020260726124110.png)
+Another error in PowerShell downloads is related to the SSL/TLS secure channel if the certificate is not trusted. We can bypass that error with the following command:
 
-![](../../Attachements/Pasted%20image%2020260726124051.png)
 
+```powershell
+PS C:\htb> [System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$true}
+```
