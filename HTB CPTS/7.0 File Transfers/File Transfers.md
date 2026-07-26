@@ -205,3 +205,8 @@ UPLOAD OPERATIONS
 ---
 ---
 There are also situations such as password cracking, analysis, exfiltration, etc., where we must upload files from our target machine into our attack host. We can use the same methods we used for download operation but now for uploads. Let's see how we can accomplish uploading files in various ways.
+## PowerShell Base64 Encode & Decode
+
+We saw how to decode a base64 string using Powershell. Now, let's do the reverse operation and encode a file so we can decode it on our attack host.
+
+#### Encode File Using PowerShell
