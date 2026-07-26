@@ -55,14 +55,11 @@ To download a file using `wget`, we need to specify the URL and the option `-O'
 
 #### Download a File Using wget
 ```shell
+wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh -O /tmp/LinEnum.sh`
 ```
-
-        shellsession
-`Captainsparrow@htb[/htb]$ wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh -O /tmp/LinEnum.sh`
 
 `cURL` is very similar to `wget`, but the output filename option is lowercase `-o'.
 
 #### Download a File Using cURL
-
-        shellsession
-`Captainsparrow@htb[/htb]$ curl -o /tmp/LinEnum.sh https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh`
+```shell
+curl -o /tmp/LinEnum.sh https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh`
