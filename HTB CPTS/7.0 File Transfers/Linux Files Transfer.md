@@ -117,3 +117,11 @@ scp plaintext@192.168.49.128:/root/myroot.txt .
 
 ##### IMP
 **Note:** You can create a temporary user account for file transfers and avoid using your primary credentials or keys on a remote computer.
+
+---
+---
+---
+---
+## Upload Operations
+
+There are also situations such as binary exploitation and packet capture analysis, where we must upload files from our target machine onto our attack host. The methods we used for downloads will also work for uploads. Let's see how we can upload files in various ways.
