@@ -43,3 +43,26 @@ Finally, we can confirm if the file was transferred successfully using the `md5
 ```shell
 md5sum id_rsa
 ```
+![](../../Attachements/Pasted%20image%2020260726215205.png)
+
+###### IMP
+**Note:** You can also upload files using the reverse operation. From your compromised target cat and base64 encode a file and decode it in your Pwnbox.
+
+## Web Downloads with Wget and cURL
+Two of the most common utilities in Linux distributions to interact with web applications are `wget` and `curl`. These tools are installed on many Linux distributions.
+
+To download a file using `wget`, we need to specify the URL and the option `-O' to set the output filename.
+
+#### Download a File Using wget
+```shell
+```
+
+        shellsession
+`Captainsparrow@htb[/htb]$ wget https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh -O /tmp/LinEnum.sh`
+
+`cURL` is very similar to `wget`, but the output filename option is lowercase `-o'.
+
+#### Download a File Using cURL
+
+        shellsession
+`Captainsparrow@htb[/htb]$ curl -o /tmp/LinEnum.sh https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh`
