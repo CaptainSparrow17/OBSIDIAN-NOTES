@@ -20,6 +20,8 @@ We have access to the machine `MS02`, and we need to download a file from our 
 
 ![Network diagram showing a Windows PC, Layer 2 switch, firewall, cloud, and Linux PC.](https://cdn.services-k8s.prod.aws.htb.systems/content/modules/24/WIN-download-PwnBox.png)
 ## PowerShell Base64 Encode & Decode
+Imp:: here we are converting file we wanna transfer to base64 encoding and then decode in windows machine and get original file.
+
 Depending on the file size we want to transfer, we can use different methods that do not require network communication. If we have access to a terminal, we can encode a file to a base64 string, copy its contents from the terminal and perform the reverse operation, decoding the file in the original content. Let's see how we can do this with PowerShell.
 
 An essential step in using this method is to ensure the file you encode and decode is correct. We can use [md5sum](https://man7.org/linux/man-pages/man1/md5sum.1.html), a program that calculates and verifies 128-bit MD5 checksums. The MD5 hash functions as a compact digital fingerprint of a file, meaning a file should have the same MD5 hash everywhere. Let's attempt to transfer a sample ssh key. It can be anything else, from our Pwnbox to the Windows target.
@@ -34,4 +36,7 @@ md5sum id_rsa
 Now lets encode the id_rsa file content to base64 and then transfer.
 ```shell
 cat id_rsa |base64 -w 0;echo
+```
+We can copy this content and paste it into a Windows PowerShell terminal and use some PowerShell functions to decode it.
+```powershell
 ```
