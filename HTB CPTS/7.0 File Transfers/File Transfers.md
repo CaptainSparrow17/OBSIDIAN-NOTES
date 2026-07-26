@@ -149,4 +149,12 @@ To download a file from the SMB server to the current working directory, we can 
 copy \\192.168.220.133\share\nc.exe
 ```
 ![](../../Attachements/Pasted%20image%2020260726130503.png)
+New versions of Windows block unauthenticated guest access, as we can see in the following command:
+![](../../Attachements/Pasted%20image%2020260726130533.png)
 
+To transfer files in this scenario, we can set a username and password using our Impacket SMB server and mount the SMB server on our windows target machine:
+
+#### Create the SMB Server with a Username and Password
+```shell
+sudo impacket-smbserver share -smb2support /tmp/smbshare -user test -password test
+```
