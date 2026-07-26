@@ -102,3 +102,9 @@ SSH (or Secure Shell) is a protocol that allows secure access to remote computer
 `SCP` is very similar to `copy` or `cp`, but instead of providing a local path, we need to specify a username, the remote IP address or DNS name, and the user's credentials.
 
 Before we begin downloading files from our target Linux machine to our Pwnbox, let's set up an SSH server in our Pwnbox.
+```ssh
+sudo systemctl enable ssh
+sudo systemctl start ssh
+netstat -lnpt
+```
+![](../../Attachements/Pasted%20image%2020260726220850.png)
