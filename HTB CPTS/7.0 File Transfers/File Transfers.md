@@ -192,3 +192,7 @@ After the FTP server is set up, we can perform file transfers using the pre-inst
 ```powershell
 (New-Object Net.WebClient).DownloadFile('ftp://192.168.49.128/file.txt', 'C:\Users\Public\ftp-file.txt')
 ```
+
+When we get a shell on a remote machine, we may not have an interactive shell. If that's the case, we can create an FTP command file to download a file. First, we need to create a file containing the commands we want to execute and then use the FTP client to use that file to download that file.
+
+#### Create a Command File for the FTP Client and Download the Target File
