@@ -185,3 +185,10 @@ Then we can specify port number 21 because, by default, `pyftpdlib` uses port 
 ```shell
 sudo python3 -m pyftpdlib --port 21
 ```
+![](../../Attachements/Pasted%20image%2020260726132433.png)
+After the FTP server is set up, we can perform file transfers using the pre-installed FTP client from Windows or PowerShell `Net.WebClient`.
+
+#### Transferring Files from an FTP Server Using PowerShell
+```powershell
+(New-Object Net.WebClient).DownloadFile('ftp://192.168.49.128/file.txt', 'C:\Users\Public\ftp-file.txt')
+```
