@@ -17,8 +17,11 @@ This section will discuss using some native Windows tools for download and uploa
 # Download Operations
 
 We have access to the machine `MS02`, and we need to download a file from our `Pwnbox` machine. Let's see how we can accomplish this using multiple File Download methods.
-
 ![Network diagram showing a Windows PC, Layer 2 switch, firewall, cloud, and Linux PC.](https://cdn.services-k8s.prod.aws.htb.systems/content/modules/24/WIN-download-PwnBox.png)
+
+---
+---
+
 ## PowerShell Base64 Encode & Decode
 Imp:: here we are converting file we wanna transfer to base64 encoding and then decode in windows machine and get original file.
 
@@ -125,3 +128,12 @@ Another error in PowerShell downloads is related to the SSL/TLS secure channel i
 ```powershell
 PS C:\htb> [System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$true}
 ```
+
+
+---
+---
+## SMB Downloads
+
+The Server Message Block protocol (SMB protocol) that runs on port TCP/445 is common in enterprise networks where Windows services are running. It enables applications and users to transfer files to and from remote servers.
+
+We can use SMB to download files from our Pwnbox easily. We need to create an SMB server in our Pwnbox with [smbserver.py](https://github.com/SecureAuthCorp/impacket/blob/master/examples/smbserver.py) from Impacket and then use `copy`, `move`, PowerShell `Copy-Item`, or any other tool that allows connection to SMB.
