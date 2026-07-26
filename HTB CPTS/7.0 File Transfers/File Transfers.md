@@ -204,3 +204,4 @@ UPLOAD OPERATIONS
 
 ---
 ---
+There are also situations such as password cracking, analysis, exfiltration, etc., where we must upload files from our target machine into our attack host. We can use the same methods we used for download operation but now for uploads. Let's see how we can accomplish uploading files in various ways.
