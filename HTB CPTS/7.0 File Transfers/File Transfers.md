@@ -46,3 +46,5 @@ Finally, we can confirm if the file was transferred successfully using the [Get
 ```Powershell
 PS C:\htb> Get-FileHash C:\Users\Public\id_rsa -Algorithm md5
 ```
+![](../../Attachements/Pasted%20image%2020260726122216.png)
+**Note:** While this method is convenient, it's not always possible to use. Windows Command Line utility (cmd.exe) has a maximum string length of 8,191 characters. Also, a web shell may error if you attempt to send extremely large strings.
