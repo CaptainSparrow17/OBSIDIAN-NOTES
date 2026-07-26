@@ -8,4 +8,7 @@ Although Linux can communicate via FTP, SMB like Windows, most malware on all di
 
 This section will review multiple ways to transfer files on Linux, including HTTP, Bash, SSH, etc.
 
+## Download Operations
+
+We have access to the machine `NIX04`, and we need to download a file from our `Pwnbox` machine. Let's see how we can accomplish this using multiple file download methods.
 ![](../../Attachements/Pasted%20image%2020260726214745.png)
