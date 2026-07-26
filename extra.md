@@ -26,3 +26,4 @@ https://academy.hackthebox.com/course/preview/sqlmap-essentials
 
 ---
 
+[Convert]::ToBase64String((Get-Content -path "C:\Windows\system32\drivers\etc\hosts" -Encoding byte))
