@@ -79,5 +79,6 @@ curl https://raw.githubusercontent.com/rebootuser/LinEnum/master/LinEnum.sh | ba
 ```
 Similarly, we can download a Python script file from a web server and pipe it into the Python binary. Let's do that, this time using `wget`.
 ```shell
-
+wget -qO- https://raw.githubusercontent.com/juliourena/plaintext/master/Scripts/helloworld.py | python3
 ```
+
