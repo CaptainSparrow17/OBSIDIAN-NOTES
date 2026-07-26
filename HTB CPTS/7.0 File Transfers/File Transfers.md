@@ -230,3 +230,11 @@ Captainsparrow@htb[/htb]$ md5sum hosts
 ![](../../Attachements/Pasted%20image%2020260726135042.png)
 
 ## PowerShell Web Uploads
+PowerShell doesn't have a built-in function for upload operations, but we can use `Invoke-WebRequest` or `Invoke-RestMethod` to build our upload function. We'll also need a web server that accepts uploads, which is not a default option in most common webserver utilities.
+
+For our web server, we can use [uploadserver](https://github.com/Densaugeo/uploadserver), an extended module of the Python [HTTP.server module](https://docs.python.org/3/library/http.server.html), which includes a file upload page. Let's install it and start the webserver.
+
+#### Installing a Configured WebServer with Upload
+```shellsession
+Captainsparrow@htb[/htb]$ pip3 install uploadserver
+```
