@@ -164,3 +164,10 @@ copy n:\nc.exe
 ```
 ![](../../Attachements/Pasted%20image%2020260726130612.png)
 
+
+###### IMP
+**Note:** You can also mount the SMB server if you receive an error when you use `copy filename \\IP\sharename`.
+
+---
+---
+## FTP Downloads
