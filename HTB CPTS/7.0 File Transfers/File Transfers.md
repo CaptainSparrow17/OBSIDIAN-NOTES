@@ -238,5 +238,12 @@ For our web server, we can use [uploadserver](https://github.com/Densaugeo/uplo
 ```shellsession
 Captainsparrow@htb[/htb]$ pip3 install uploadserver
 python3 -m pip install uploadserver --break-system-packages
+```
+![](../../Attachements/Pasted%20image%2020260726135656.png)
+
+Now we can use a PowerShell script [PSUpload.ps1](https://github.com/juliourena/plaintext/blob/master/Powershell/PSUpload.ps1) which uses `Invoke-RestMethod` to perform the upload operations. The script accepts two parameters `-File`, which we use to specify the file path, and `-Uri`, the server URL where we'll upload our file. Let's attempt to upload the host file from our Windows host.
+
+#### PowerShell Script to Upload a File to Python Upload Server
+```powershell
 
 ```
