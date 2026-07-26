@@ -261,3 +261,9 @@ We catch the base64 data with Netcat and use the base64 application with the dec
 nc -nvlp 8000
 ```
 ![](../../Attachements/Pasted%20image%2020260726140230.png)
+
+```shell
+Captainsparrow@htb[/htb]$ echo <base64> | base64 -d -w 0 > hosts
+```
+
+## SMB Uploads
