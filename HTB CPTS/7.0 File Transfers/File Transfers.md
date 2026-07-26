@@ -174,4 +174,7 @@ copy n:\nc.exe
 Another way to transfer files is using FTP (File Transfer Protocol), which use port TCP/21 and TCP/20. We can use the FTP client or PowerShell Net.WebClient to download files from an FTP server.
 
 We can configure an FTP Server in our attack host using Python3 `pyftpdlib` module. It can be installed with the following command:
-
+#### Installing the FTP Server Python3 Module - pyftpdlib
+```shell
+sudo pip3 install pyftpdlib
+```
