@@ -108,3 +108,12 @@ sudo systemctl start ssh
 netstat -lnpt
 ```
 ![](../../Attachements/Pasted%20image%2020260726220850.png)
+Now we can begin transferring files. We need to specify the IP address of our Pwnbox and the username and password.
+
+#### Linux - Downloading Files Using SCP
+```shell
+scp plaintext@192.168.49.128:/root/myroot.txt .
+```
+
+##### IMP
+**Note:** You can create a temporary user account for file transfers and avoid using your primary credentials or keys on a remote computer.
