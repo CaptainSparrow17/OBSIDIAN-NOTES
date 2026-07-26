@@ -27,4 +27,4 @@ https://academy.hackthebox.com/course/preview/sqlmap-essentials
 ---
 [IO.File]::WriteAllBytes("C:\Users\htb-student\upload_win.zip", [Convert]::FromBase64String("UEsDBAoAAAAAAFmEKVFHXocmIAAAACAAAAAOAAAAdXBsb2FkX3dpbi50eHRlNGZlZWM0NjZkNWRlNzAxMDg5YjVjYzFiZjZkNTkyYVBLAQI/AAoAAAAAAFmEKVFHXocmIAAAACAAAAAOACQAAAAAAAAAIAAAAAAAAAB1cGxvYWRfd2luLnR4dAoAIAAAAAAAAQAYAHjm8KnohtYBzETj5fqG1gEXkIab6IbWAVBLBQYAAAAAAQABAGAAAABMAAAAAAA="))
 
-(New-Object Net.WebClient).DownloadFile('ftp://192.168.49.128/a.txt', 'C:\Users\htb-student\ftp-file.txt')
+(New-Object Net.WebClient).DownloadFile('ftp://10.10.17.140/a.txt', 'C:\Users\htb-student\Desktop\ftp-file.txt')
