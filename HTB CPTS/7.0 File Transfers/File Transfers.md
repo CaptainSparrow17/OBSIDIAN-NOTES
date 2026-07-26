@@ -13,3 +13,9 @@ All the payloads were base64-encoded and decoded using the Certutil tool resulti
 This is an excellent example of multiple methods for file transfer and the threat actor using those methods to bypass defenses.
 
 This section will discuss using some native Windows tools for download and upload operations. Later in the module, we'll discuss `Living Off The Land` binaries on Windows & Linux and how to use them to perform file transfer operations.
+
+# Download Operations
+
+We have access to the machine `MS02`, and we need to download a file from our `Pwnbox` machine. Let's see how we can accomplish this using multiple File Download methods.
+
+![Network diagram showing a Windows PC, Layer 2 switch, firewall, cloud, and Linux PC.](https://cdn.services-k8s.prod.aws.htb.systems/content/modules/24/WIN-download-PwnBox.png)
