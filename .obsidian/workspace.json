@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/5.0 Information Gathering - Web Edition/18. Automating Recon.md",
+                "file": "extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "18. Automating Recon"
+              "title": "extra"
             }
           },
           {
@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,10 +207,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11ae569a6cf3045a",
+  "active": "b2b9fbf535e1cf70",
   "lastOpenFiles": [
-    "extra.md",
+    "HTB CPTS/5.0 Information Gathering - Web Edition/18. Automating Recon.md",
     "HTB CPTS/7.0 File Transfers/File Transfers.md",
+    "extra.md",
     "Attachements/Pasted image 20260726211728.png",
     "Attachements/Pasted image 20260726211628.png",
     "Attachements/Pasted image 20260726181226.png",
@@ -221,7 +222,6 @@
     "Attachements/Pasted image 20260726135656.png",
     "Attachements/Pasted image 20260726135042.png",
     "Attachements/Pasted image 20260726134943.png",
-    "HTB CPTS/5.0 Information Gathering - Web Edition/18. Automating Recon.md",
     "HTB CPTS/7.0 File Transfers",
     "HTB CPTS/5.0 Information Gathering - Web Edition/9. Virtual Hosts.md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/15. Creepy Crawlies.md",
