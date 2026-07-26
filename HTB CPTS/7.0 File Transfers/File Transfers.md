@@ -210,3 +210,7 @@ There are also situations such as password cracking, analysis, exfiltration, etc
 We saw how to decode a base64 string using Powershell. Now, let's do the reverse operation and encode a file so we can decode it on our attack host.
 
 #### Encode File Using PowerShell
+```powershell
+PS C:\htb> [Convert]::ToBase64String((Get-Content -path "C:\Windows\system32\drivers\etc\hosts" -Encoding byte))
+
+```
