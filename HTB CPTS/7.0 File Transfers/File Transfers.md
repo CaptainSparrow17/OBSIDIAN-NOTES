@@ -297,3 +297,8 @@ C:\htb> dir \\192.168.49.128\DavWWWRoot
 ```
 ![](../../Attachements/Pasted%20image%2020260726181226.png)
 
+###### mp::
+**Note:** `DavWWWRoot` is a special keyword recognized by the Windows Shell. No such folder exists on your WebDAV server. The DavWWWRoot keyword tells the Mini-Redirector driver, which handles WebDAV requests that you are connecting to the root of the WebDAV server.
+
+You can avoid using this keyword if you specify a folder that exists on your server when connecting to the server. For example: \192.168.49.128\sharefolder
+
