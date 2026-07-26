@@ -279,9 +279,12 @@ When you use `SMB`, it will first attempt to connect using the SMB protocol, an
 To set up our WebDav server, we need to install two Python modules, `wsgidav` and `cheroot` (you can read more about this implementation here: [wsgidav github](https://github.com/mar10/wsgidav)). After installing them, we run the `wsgidav` application in the target directory.
 
 #### Installing WebDav Python modules
-
+```shell
+sudo pip3 install wsgidav cheroot --break-system-packages
+```
 
 #### Using the WebDav Python module
 ```shell
 sudo wsgidav --host=0.0.0.0 --port=80 --root=/tmp --auth=anonymous 
 ```
+![](../../Attachements/Pasted%20image%2020260726180955.png)
