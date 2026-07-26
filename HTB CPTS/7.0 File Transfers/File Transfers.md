@@ -237,4 +237,6 @@ For our web server, we can use [uploadserver](https://github.com/Densaugeo/uplo
 #### Installing a Configured WebServer with Upload
 ```shellsession
 Captainsparrow@htb[/htb]$ pip3 install uploadserver
+python3 -m pip install uploadserver --break-system-packages
+
 ```
