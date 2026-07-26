@@ -273,3 +273,15 @@ An alternative is to run SMB over HTTP with `WebDav`. `WebDAV` [(RFC 4918)](h
 
 When you use `SMB`, it will first attempt to connect using the SMB protocol, and if there's no SMB share available, it will try to connect using HTTP. In the following Wireshark capture, we attempt to connect to the file share `testing3`, and because it didn't find anything with `SMB`, it uses `HTTP`.
 ![](../../Attachements/Pasted%20image%2020260726140418.png)
+
+#### Configuring WebDav Server
+
+To set up our WebDav server, we need to install two Python modules, `wsgidav` and `cheroot` (you can read more about this implementation here: [wsgidav github](https://github.com/mar10/wsgidav)). After installing them, we run the `wsgidav` application in the target directory.
+
+#### Installing WebDav Python modules
+
+
+#### Using the WebDav Python module
+```shell
+sudo wsgidav --host=0.0.0.0 --port=80 --root=/tmp --auth=anonymous 
+```
