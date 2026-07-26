@@ -196,3 +196,4 @@ After the FTP server is set up, we can perform file transfers using the pre-inst
 When we get a shell on a remote machine, we may not have an interactive shell. If that's the case, we can create an FTP command file to download a file. First, we need to create a file containing the commands we want to execute and then use the FTP client to use that file to download that file.
 
 #### Create a Command File for the FTP Client and Download the Target File
+![](../../Attachements/Pasted%20image%2020260726132640.png)
