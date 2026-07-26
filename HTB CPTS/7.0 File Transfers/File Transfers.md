@@ -288,3 +288,12 @@ sudo pip3 install wsgidav cheroot --break-system-packages
 sudo wsgidav --host=0.0.0.0 --port=80 --root=/tmp --auth=anonymous 
 ```
 ![](../../Attachements/Pasted%20image%2020260726180955.png)
+
+#### Connecting to the Webdav Share
+
+Now we can attempt to connect to the share using the `DavWWWRoot` directory.
+```powershell
+C:\htb> dir \\192.168.49.128\DavWWWRoot
+```
+![](../../Attachements/Pasted%20image%2020260726181226.png)
+
