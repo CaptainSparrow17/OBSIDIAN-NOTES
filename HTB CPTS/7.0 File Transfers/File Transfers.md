@@ -176,5 +176,12 @@ Another way to transfer files is using FTP (File Transfer Protocol), which use p
 We can configure an FTP Server in our attack host using Python3 `pyftpdlib` module. It can be installed with the following command:
 #### Installing the FTP Server Python3 Module - pyftpdlib
 ```shell
-sudo pip3 install pyftpdlib
+sudo apt install python3-pyftpdlib
+```
+
+Then we can specify port number 21 because, by default, `pyftpdlib` uses port 2121. Anonymous authentication is enabled by default if we don't set a user and password.
+
+#### Setting up a Python3 FTP Server
+```shell
+sudo python3 -m pyftpdlib --port 21
 ```
