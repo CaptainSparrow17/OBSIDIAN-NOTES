@@ -109,3 +109,12 @@ PS C:\htb> Invoke-WebRequest https://raw.githubusercontent.com/PowerShellMafia/P
 Harmj0y has compiled an extensive list of PowerShell download cradles [here](https://gist.github.com/HarmJ0y/bb48307ffa663256e239). It is worth gaining familiarity with them and their nuances, such as a lack of proxy awareness or touching disk (downloading a file onto the target) to select the appropriate one for the situation.
 
 https://gist.github.com/HarmJ0y/bb48307ffa663256e239
+
+#### Common Errors with PowerShell
+
+There may be cases when the Internet Explorer first-launch configuration has not been completed, which prevents the download.
+![](../../Attachements/Pasted%20image%2020260726124016.png)
+This can be bypassed using the parameter `-UseBasicParsing`.
+
+![](../../Attachements/Pasted%20image%2020260726124051.png)
+
