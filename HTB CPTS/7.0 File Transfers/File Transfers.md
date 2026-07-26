@@ -197,3 +197,10 @@ When we get a shell on a remote machine, we may not have an interactive shell. I
 
 #### Create a Command File for the FTP Client and Download the Target File
 ![](../../Attachements/Pasted%20image%2020260726132640.png)
+
+---
+---
+UPLOAD OPERATIONS
+
+---
+---
