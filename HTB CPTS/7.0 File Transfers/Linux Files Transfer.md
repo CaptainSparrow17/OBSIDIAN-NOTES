@@ -130,7 +130,7 @@ There are also situations such as binary exploitation and packet capture analysi
 
 As mentioned in the `Windows File Transfer Methods` section, we can use [uploadserver](https://github.com/Densaugeo/uploadserver), an extended module of the Python `HTTP.Server` module, which includes a file upload page. For this Linux example, let's see how we can configure the `uploadserver` module to use `HTTPS` for secure communication.
 
-#### Pwnbox - Start Web Server
+#### Pwnbox - install Web Server
 ```shell
 sudo python3 -m pip install --user uploadserver
 ```
