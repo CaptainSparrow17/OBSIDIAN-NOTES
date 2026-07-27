@@ -144,7 +144,7 @@ openssl req -x509 -out server.pem -keyout server.pem -newkey rsa:2048 -nodes -sh
 ![](../../Attachements/Pasted%20image%2020260727120016.png)
 The webserver should not host the certificate. We recommend creating a new directory to host the file for our webserver.
 
-#### Pwnbox - Start Web Se
+#### Pwnbox - Start Web Server
 ```shell
 mkdir https && cd https
 sudo python3 -m uploadserver 443 --server-certificate ~/server.pem
