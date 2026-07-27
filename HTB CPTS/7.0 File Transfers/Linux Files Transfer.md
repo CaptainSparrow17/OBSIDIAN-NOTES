@@ -199,4 +199,6 @@ We may find some companies that allow the `SSH protocol` (TCP/22) for outbound
 scp /etc/passwd htb-student@10.129.86.90:/home/htb-student/
 ```
 
+##### IMP
 **Note:** Remember that scp syntax is similar to cp or copy.
+
