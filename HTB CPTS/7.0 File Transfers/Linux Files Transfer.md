@@ -193,3 +193,10 @@ wget 192.168.49.128:8000/filetotransfer.txt
 ## SCP Upload
 
 We may find some companies that allow the `SSH protocol` (TCP/22) for outbound connections, and if that's the case, we can use an SSH server with the `scp` utility to upload files. Let's attempt to upload a file to the target machine using the SSH protocol.
+
+#### File Upload using SCP
+```shell
+scp /etc/passwd htb-student@10.129.86.90:/home/htb-student/
+```
+
+**Note:** Remember that scp syntax is similar to cp or copy.
