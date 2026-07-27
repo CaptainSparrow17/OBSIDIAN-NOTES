@@ -165,5 +165,21 @@ It is possible to stand up a web server using various languages. A compromised L
 
 #### Linux - Creating a Web Server with Python3
 ```shell
-
+python3 -m http.server
 ```
+
+#### Linux - Creating a Web Server with Python2.7
+```shell
+python2.7 -m SimpleHTTPServer
+```
+
+#### Linux - Creating a Web Server with PHP
+```shell
+php -S 0.0.0.0:8000
+```
+
+#### Linux - Creating a Web Server with Ruby
+```shell
+ruby -run -ehttpd . -p8000
+```
+
