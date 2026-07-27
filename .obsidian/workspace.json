@@ -104,9 +104,65 @@
               "icon": "lucide-file",
               "title": "6. Protected File Transfers"
             }
+          },
+          {
+            "id": "58c353d53b2ad26c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB CPTS/7.0 File Transfers/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "d98f60b63a474eac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB CPTS/7.0 File Transfers/Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "7a49d9dd0cb15c97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB CPTS/7.0 File Transfers/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "fdf7c60b902359bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB CPTS/7.0 File Transfers/Untitled 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -263,8 +319,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb9e8e458a8725b",
+  "active": "fdf7c60b902359bc",
   "lastOpenFiles": [
+    "HTB CPTS/7.0 File Transfers/Untitled 2.md",
+    "HTB CPTS/7.0 File Transfers/Untitled 3.md",
+    "HTB CPTS/7.0 File Transfers/Untitled 1.md",
+    "HTB CPTS/7.0 File Transfers/Untitled.md",
+    "HTB CPTS/7.0 File Transfers/6. Protected File Transfers.md",
+    "Attachements/Pasted image 20260727232002.png",
     "Attachements/Pasted image 20260727231931.png",
     "Attachements/Pasted image 20260727231812.png",
     "HTB CPTS/7.0 File Transfers/5. Miscellaneous File Transfer Methods.md",
@@ -275,12 +337,9 @@
     "Attachements/Pasted image 20260727134923.png",
     "Attachements/Pasted image 20260727134132.png",
     "Attachements/Pasted image 20260727134130.png",
-    "HTB CPTS/7.0 File Transfers/6. Protected File Transfers.md",
     "HTB CPTS/7.0 File Transfers/3. Linux Files Transfer.md",
     "HTB CPTS/7.0 File Transfers/2. Windows File Transfer.md",
     "Attachements/Pasted image 20260727120117.png",
-    "Attachements/Pasted image 20260727120016.png",
-    "Attachements/Pasted image 20260726220850.png",
     "extra.md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/18. Automating Recon.md",
     "HTB CPTS/7.0 File Transfers",
@@ -299,11 +358,8 @@
     "HTB CPTS/5.0 Information Gathering - Web Edition/2.0 WHOIS.md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/1.0 Introduction.md",
     "HTB CPTS/5.0 Information Gathering - Web Edition/17. Web Archives.md",
-    "HTB CPTS/5.0 Information Gathering - Web Edition/16. Search Engine Discovery.md",
-    "COMMANDS.md",
     "ZOTHERS/Untitled 1.base",
     "ZOTHERS/Untitled.base",
-    "HTB CPTS/5.0 Information Gathering - Web Edition/19..md",
     "HTB CPTS/5.0 Information Gathering - Web Edition",
     "ZOTHERS/Untitled 2.base",
     "Untitled.canvas",
