@@ -125,3 +125,12 @@ scp plaintext@192.168.49.128:/root/myroot.txt .
 ## Upload Operations
 
 There are also situations such as binary exploitation and packet capture analysis, where we must upload files from our target machine onto our attack host. The methods we used for downloads will also work for uploads. Let's see how we can upload files in various ways.
+
+## Web Upload
+
+As mentioned in the `Windows File Transfer Methods` section, we can use [uploadserver](https://github.com/Densaugeo/uploadserver), an extended module of the Python `HTTP.Server` module, which includes a file upload page. For this Linux example, let's see how we can configure the `uploadserver` module to use `HTTPS` for secure communication.
+
+#### Pwnbox - Start Web Server
+```shell
+
+```
