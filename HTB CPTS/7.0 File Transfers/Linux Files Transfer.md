@@ -183,3 +183,13 @@ php -S 0.0.0.0:8000
 ruby -run -ehttpd . -p8000
 ```
 
+#### Download the File from the Target Machine onto the Pwnbox
+```shell
+wget 192.168.49.128:8000/filetotransfer.txt
+```
+
+**Note:** When we start a new web server using Python or PHP, it's important to consider that inbound traffic may be blocked. We are transferring a file from our target onto our attack host, but we are not uploading the file.
+
+## SCP Upload
+
+We may find some companies that allow the `SSH protocol` (TCP/22) for outbound connections, and if that's the case, we can use an SSH server with the `scp` utility to upload files. Let's attempt to upload a file to the target machine using the SSH protocol.
