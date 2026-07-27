@@ -139,5 +139,13 @@ Now we need to create a certificate. In this example, we are using a self-signed
 
 #### Pwnbox - Create a Self-Signed Certificate
 ```shell
+openssl req -x509 -out server.pem -keyout server.pem -newkey rsa:2048 -nodes -sha256 -subj '/CN=server'
+```
+![](../../Attachements/Pasted%20image%2020260727120016.png)
+The webserver should not host the certificate. We recommend creating a new directory to host the file for our webserver.
+
+#### Pwnbox - Start Web Se
+```shell
+mkdir https && cd https
 
 ```
