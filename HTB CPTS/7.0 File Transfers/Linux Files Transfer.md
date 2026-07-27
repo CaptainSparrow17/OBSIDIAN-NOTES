@@ -132,5 +132,12 @@ As mentioned in the `Windows File Transfer Methods` section, we can use [uplo
 
 #### Pwnbox - Start Web Server
 ```shell
+sudo python3 -m pip install --user uploadserver
+```
+
+Now we need to create a certificate. In this example, we are using a self-signed certificate.
+
+#### Pwnbox - Create a Self-Signed Certificate
+```shell
 
 ```
