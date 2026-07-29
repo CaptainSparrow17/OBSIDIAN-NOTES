@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HTB CPTS/7.0 File Transfers/Untitled 3.md",
+                "file": "HTB CPTS/7.0 File Transfers/6. Protected File Transfers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "6. Protected File Transfers"
             }
           }
         ],
@@ -321,8 +321,8 @@
   },
   "active": "fdf7c60b902359bc",
   "lastOpenFiles": [
-    "HTB CPTS/7.0 File Transfers/Untitled 2.md",
     "HTB CPTS/7.0 File Transfers/Untitled 3.md",
+    "HTB CPTS/7.0 File Transfers/Untitled 2.md",
     "HTB CPTS/7.0 File Transfers/Untitled 1.md",
     "HTB CPTS/7.0 File Transfers/Untitled.md",
     "HTB CPTS/7.0 File Transfers/6. Protected File Transfers.md",
