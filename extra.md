@@ -25,6 +25,20 @@ https://academy.hackthebox.com/course/preview/sql-injection-fundamentals
 https://academy.hackthebox.com/course/preview/sqlmap-essentials
 
 ---
-[IO.File]::WriteAllBytes("C:\Users\htb-student\upload_win.zip", [Convert]::FromBase64String("UEsDBAoAAAAAAFmEKVFHXocmIAAAACAAAAAOAAAAdXBsb2FkX3dpbi50eHRlNGZlZWM0NjZkNWRlNzAxMDg5YjVjYzFiZjZkNTkyYVBLAQI/AAoAAAAAAFmEKVFHXocmIAAAACAAAAAOACQAAAAAAAAAIAAAAAAAAAB1cGxvYWRfd2luLnR4dAoAIAAAAAAAAQAYAHjm8KnohtYBzETj5fqG1gEXkIab6IbWAVBLBQYAAAAAAQABAGAAAABMAAAAAAA="))
+Friend, do exactly what I did and this will solve your overwhelming notes issue.
 
-(New-Object Net.WebClient).DownloadFile('ftp://10.10.17.140/a.txt', 'C:\Users\htb-student\Desktop\ftp-file.txt')
+Create a project in AI and upload all your notes and modules into your project.  
+Here is how I did it using Claude.
+
+1. Go on Claude and pay for the monthly $20 per month subscription (you have to pay to play).
+    
+2. Create a "Project" within Claude (I named my project CPTS Path)
+    
+3. In that project, there is a files section where you can upload files. These are like reference points for Claude. Upload all your notes. I uploaded all of my operator notes, command cheat sheets, and every module within the CPTS Path.
+    
+4. Instruct Claude to reference the files FIRST. When you upload files into a project, there is a setting called 'Instructions' where you basically tell Claude what to do with the files you uploaded into the project.  
+    - I wrote this in my instructions:  
+    "When I ask a question or request any kind of assistance regarding this project, I need you to first reference these files before conducting opensource research. The notes I uploaded, is the intended path."
+    
+5. Ask Claude a question and it will automatically parse through your files and pull up the exact module, section, and any commands referenced in your notes.
+---
