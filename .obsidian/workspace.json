@@ -146,9 +146,21 @@
               "icon": "lucide-file",
               "title": "wazah"
             }
+          },
+          {
+            "id": "6d667ec51f4862fe",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -168,7 +180,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -305,7 +319,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a7c848a2afa4b6d5",
+  "active": "6d667ec51f4862fe",
   "lastOpenFiles": [
     "Attachements/Pasted image 20260802113108.png",
     "Attachements/Pasted image 20260802112924.png",
