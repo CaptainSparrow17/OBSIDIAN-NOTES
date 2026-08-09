@@ -16,3 +16,4 @@ In desktop/SIEM we have wazuh files.
 If you forgot password, untar the wazuh filer and you gonna find files called wazuh-password.txt
 ![](Attachements/Pasted%20image%2020260809200232.png)
 
+imp:: always run wazuh server with this commands::
