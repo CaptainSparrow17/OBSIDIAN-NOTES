@@ -32,3 +32,9 @@ every time ossec.conf is changed, restart wazuh-manager..
 ![](Attachements/Pasted%20image%2020260809201927.png)
 change above to true..
 
+---
+---
+Now go to 
+![](Attachements/Pasted%20image%2020260809202053.png)
+
+
