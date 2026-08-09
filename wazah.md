@@ -29,3 +29,6 @@ change it to yes.
 every time ossec.conf is changed, restart wazuh-manager..
 
 /etc/filebeat/filebeat.yml
+![](Attachements/Pasted%20image%2020260809201927.png)
+change above to true..
+
