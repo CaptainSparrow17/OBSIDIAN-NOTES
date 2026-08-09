@@ -1,3 +1,10 @@
+kali ip: 192.168.121.128
+windows: 192.168.0.162
+
+
+
+
+
 ![](Attachements/Pasted%20image%2020260802112924.png)
 
 
