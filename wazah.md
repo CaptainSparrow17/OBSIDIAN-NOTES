@@ -23,3 +23,5 @@ systemctl start wazuh-manager
 
 enabling wazuh archive
 ossec.conf
+/var/ossec/etc/ossec.conf
+![](Attachements/Pasted%20image%2020260809201614.png)
