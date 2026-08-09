@@ -7,3 +7,5 @@
 02/08/2026 11:25:29 INFO: Installation finished.
 
 ![](Attachements/Pasted%20image%2020260802113108.png)
+lets open wazah
+https://
