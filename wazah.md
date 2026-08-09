@@ -28,4 +28,4 @@ ossec.conf
 change it to yes.
 every time ossec.conf is changed, restart wazuh-manager..
 
-/etc/
+/etc/filebeat/filebeat.yml
