@@ -21,5 +21,5 @@ imp:: always run wazuh server with this commands::
 systemctl start wazuh-manager
 ```
 
-enabling wazuh archivr
-osef.conf
+enabling wazuh archive
+ossec.conf
