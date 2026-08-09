@@ -12,3 +12,4 @@ https://192.168.121.128
 ![](Attachements/Pasted%20image%2020260809195343.png)
 lets login
 
+In desktop/SIEM we have wazuh files.
