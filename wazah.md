@@ -8,4 +8,5 @@
 
 ![](Attachements/Pasted%20image%2020260802113108.png)
 lets open wazah
-https://
+https://192.168.121.128
+
