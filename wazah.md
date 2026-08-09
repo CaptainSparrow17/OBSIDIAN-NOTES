@@ -13,3 +13,4 @@ https://192.168.121.128
 lets login
 
 In desktop/SIEM we have wazuh files.
+If you forgot password, untar the wazuh filer and you gonna find files called wazuh-password.txt
