@@ -17,3 +17,9 @@ If you forgot password, untar the wazuh filer and you gonna find files called wa
 ![](Attachements/Pasted%20image%2020260809200232.png)
 
 imp:: always run wazuh server with this commands::
+```shel
+systemctl start wazuh-manager
+```
+
+enabling wazuh archivr
+osef.conf
