@@ -195,11 +195,48 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a9d6134f294a6b9",
+  "floating": {
+    "id": "a9d089ea2c8d976f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d6b49377f6fca3b2",
+        "type": "window",
+        "children": [
+          {
+            "id": "de65418c5973aacd",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "55a3be19bdf070b3",
+                "type": "leaf",
+                "state": {
+                  "type": "image",
+                  "state": {
+                    "file": "Attachements/Pasted image 20260802113108.png"
+                  },
+                  "icon": "lucide-image",
+                  "title": "Pasted image 20260802113108"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 256,
+        "y": 8,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "55a3be19bdf070b3",
   "lastOpenFiles": [
+    "wazah.md",
     "Attachements/Pasted image 20260811192857.png",
     "Attachements/Pasted image 20260811192815.png",
-    "wazah.md",
     "extra.md",
     "Shells & Payloads/Untitled 8.md",
     "Shells & Payloads/Untitled 7.md",
@@ -221,7 +258,6 @@
     "Shells & Payloads/Untitled 6.md",
     "Shells & Payloads/Untitled 5.md",
     "Shells & Payloads",
-    "Attachements/Pasted image 20260729100615.png",
     "HTB CPTS/7.0 File Transfers/9. Detection.md",
     "HTB CPTS/7.0 File Transfers/8. Living Off The Land.md",
     "HTB CPTS/7.0 File Transfers/7. Catching Files over HTTP, HTTPS.md",
