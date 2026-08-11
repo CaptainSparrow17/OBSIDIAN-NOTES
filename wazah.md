@@ -56,3 +56,52 @@ Part 2 mydfir::
 Invoke-WebRequest -Uri https://packages.wazuh.com/4.x/windows/wazuh-agent-4.14.7-1.msi -OutFile $env:tmp\wazuh-agent; msiexec.exe /i $env:tmp\wazuh-agent /q WAZUH_MANAGER='192.168.121.128' WAZUH_AGENT_NAME='WINDOWSPC' 
 ![](Attachements/Pasted%20image%2020260809204620.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+---
+---
+---
+---
+---
+Built My First SOC Lab at Home! 🔥  
+After a lot of troubleshooting, crashes, and setup issues I finally built a SOC (Security Operations Center) lab using:  
+  
+🖥️ Old PC → Kali Linux (Attacker Machine)  
+💻 Laptop → VMware Lab Environment  
+🛡️ Ubuntu Server + Wazuh SIEM  
+🪟 Windows 10 Victim Machine  
+📊 Sysmon + Wazuh Agent for monitoring  
+  
+What I learned during this setup:  
+✅ Configuring Wazuh SIEM for centralized log monitoring  
+✅ Connecting Windows endpoints using Wazuh Agent  
+✅ Using Sysmon for advanced Windows event logging  
+✅ Monitoring alerts and security events through Wazuh dashboard  
+✅ Understanding SOC workflows and threat monitoring  
+  
+I also generated security events from Kali Linux and monitored them directly inside the SIEM dashboard 😈  
+  
+This project helped me improve:  
+SIEM fundamentals  
+Log analysis  
+Linux server management  
+Troubleshooting skills  
+Hands-on cybersecurity experience  
+  
+I documented the complete setup step-by-step on Medium 👇  
+[https://lnkd.in/dMNEqg72](https://lnkd.in/dMNEqg72)
