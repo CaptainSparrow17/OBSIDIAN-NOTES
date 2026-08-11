@@ -8,146 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d1401c8b54a168b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB CPTS/5.0 Information Gathering - Web Edition/18..md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18."
-            }
-          },
-          {
-            "id": "b2b9fbf535e1cf70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB CPTS/7.0 File Transfers/Windows File Transfer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Windows File Transfer"
-            }
-          },
-          {
-            "id": "fdf7c60b902359bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "HTB CPTS/7.0 File Transfers/10. Evading Detection.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. Evading Detection"
-            }
-          },
-          {
-            "id": "59d84f4ebd5a667c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shells & Payloads/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "f8f02f9d73c7de98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shells & Payloads/Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "69f41145c8b229a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shells & Payloads/Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
-            }
-          },
-          {
-            "id": "0d106c42ad3b8bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shells & Payloads/Untitled 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 7"
-            }
-          },
-          {
-            "id": "d568c7279bb6bfcc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Shells & Payloads/Untitled 8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 8"
-            }
-          },
-          {
-            "id": "17d61073e8032c1a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "extra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "extra"
-            }
-          },
-          {
-            "id": "a7c848a2afa4b6d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wazah.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "wazah"
-            }
-          },
-          {
             "id": "6d667ec51f4862fe",
             "type": "leaf",
             "state": {
@@ -161,8 +21,7 @@
               "title": "wazah"
             }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -323,6 +182,14 @@
   },
   "active": "6d667ec51f4862fe",
   "lastOpenFiles": [
+    "wazah.md",
+    "extra.md",
+    "Shells & Payloads/Untitled 8.md",
+    "Shells & Payloads/Untitled 7.md",
+    "Shells & Payloads/Untitled 2.md",
+    "Shells & Payloads/Untitled 1.md",
+    "Shells & Payloads/Untitled.md",
+    "HTB CPTS/7.0 File Transfers/10. Evading Detection.md",
     "Attachements/Pasted image 20260809204620.png",
     "Attachements/Pasted image 20260809202053.png",
     "Attachements/Pasted image 20260809201927.png",
@@ -331,23 +198,14 @@
     "Attachements/Pasted image 20260809195343.png",
     "Attachements/Pasted image 20260802113108.png",
     "Attachements/Pasted image 20260802112924.png",
-    "extra.md",
-    "wazah.md",
     "Shells & Payloads/Untitled 9.md",
-    "Shells & Payloads/Untitled 8.md",
-    "Shells & Payloads/Untitled 7.md",
-    "Shells & Payloads/Untitled 2.md",
     "Shells & Payloads/Untitled 3.md",
     "Shells & Payloads/Untitled 4.md",
-    "Shells & Payloads/Untitled.md",
     "Shells & Payloads/Untitled 6.md",
     "Shells & Payloads/Untitled 5.md",
-    "Shells & Payloads/Untitled 1.md",
-    "HTB CPTS/7.0 File Transfers/10. Evading Detection.md",
     "Shells & Payloads",
     "Attachements/Pasted image 20260729100615.png",
     "Attachements/Pasted image 20260729100519.png",
-    "Attachements/Pasted image 20260729100347.png",
     "HTB CPTS/7.0 File Transfers/9. Detection.md",
     "HTB CPTS/7.0 File Transfers/8. Living Off The Land.md",
     "HTB CPTS/7.0 File Transfers/7. Catching Files over HTTP, HTTPS.md",
