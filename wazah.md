@@ -56,10 +56,11 @@ Part 2 mydfir::
 Invoke-WebRequest -Uri https://packages.wazuh.com/4.x/windows/wazuh-agent-4.14.7-1.msi -OutFile $env:tmp\wazuh-agent; msiexec.exe /i $env:tmp\wazuh-agent /q WAZUH_MANAGER='192.168.121.128' WAZUH_AGENT_NAME='WINDOWSPC' 
 ![](Attachements/Pasted%20image%2020260809204620.png)
 
-Installing SUS
+Installing Sysmon::
+![](Attachements/Pasted%20image%2020260811192815.png)
 
 
-
+![](Attachements/Pasted%20image%2020260811192857.png)
 
 
 
