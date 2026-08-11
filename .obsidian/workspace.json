@@ -25,14 +25,12 @@
             "id": "0a9d6134f294a6b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "wazah.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachements/Pasted image 20260809204620.png"
               },
-              "icon": "lucide-file",
-              "title": "wazah"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260809204620"
             }
           }
         ],
@@ -195,46 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "a9d089ea2c8d976f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d6b49377f6fca3b2",
-        "type": "window",
-        "children": [
-          {
-            "id": "de65418c5973aacd",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "55a3be19bdf070b3",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "Attachements/Pasted image 20260802113108.png"
-                  },
-                  "icon": "lucide-image",
-                  "title": "Pasted image 20260802113108"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 8,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "55a3be19bdf070b3",
+  "active": "0a9d6134f294a6b9",
   "lastOpenFiles": [
     "wazah.md",
+    "Attachements/Pasted image 20260802113108.png",
     "Attachements/Pasted image 20260811192857.png",
     "Attachements/Pasted image 20260811192815.png",
     "extra.md",
@@ -250,7 +212,6 @@
     "Attachements/Pasted image 20260809201614.png",
     "Attachements/Pasted image 20260809200232.png",
     "Attachements/Pasted image 20260809195343.png",
-    "Attachements/Pasted image 20260802113108.png",
     "Attachements/Pasted image 20260802112924.png",
     "Shells & Payloads/Untitled 9.md",
     "Shells & Payloads/Untitled 3.md",
